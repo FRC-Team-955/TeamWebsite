@@ -1,0 +1,233 @@
+@font-face {
+    font-family: "GoodTimes";
+    src: url(../fonts/goodtimes.ttf);
+}
+
+@font-face {
+    font-family: "SourceSansPro";
+    src: url(../fonts/sourcesanspro.ttf);
+}
+
+body {
+  font-family: "SourceSansPro";
+  background: url(../images/bg.png);
+}
+
+/*Info
+#9c0812 is maroon color
+#F5B50C is gold color
+*/
+
+#rO .navbar-default .navbar-nav > .open > a,
+#rO .navbar-default .navbar-nav > .active > a {
+  background-image:none;
+  background-color: #000;
+  color: #fff;
+}
+
+#rO .navbar-toggle {
+  background-color: transparent;
+}
+
+/*general nav styles*/
+#rO .navbar {
+  background-image: none;
+  border: none;
+  background-color: #F5B50C;
+  position: relative;
+  height: auto !important;
+  padding-top: 12px;
+}
+
+#rO .navbar-wrapper .container-fluid {
+  padding: 0;
+}
+
+#rO .navbar-default {
+  position: relative;
+  margin: 0;
+}
+
+#rO .navbar-nav > li > a {
+  color: #000;
+  text-shadow: none;
+}
+
+#rO .navbar-toggle {
+  border: none;
+  border-radius: 0;
+  color: #000;
+}
+
+#rO .dropdown-menu > li > a:hover,
+#rO .dropdown-menu > li > a:focus {
+  background-image: none;
+  background-color: #9c0812;
+}
+
+#rO .dropdown-menu {
+  border: none;
+  padding: 0;
+  background-image: none;
+  background-color: transparent;
+  webkit-box-shadow: none;
+  box-shadow: none;
+}
+
+#rO .dropdown-menu > li > a {
+  background-color: #000;
+  background-image: none;
+  color: #fff;
+  padding: 7px 15px;
+}
+
+#rO .dropdown-menu > .jim > a {
+  background-color: transparent;
+  background-image: none;
+  color: #fff;
+  padding: 0;
+}
+
+#rO .dropdown-menu > .jim > a:hover,
+#rO .dropdown-menu > .jim > a:focus {
+  background-color: transparent;
+}
+
+/* Navbar big text */
+
+#rO .navbar-brand {
+  font-family: "GoodTimes";
+  color: #000;
+  padding: 0;
+  margin: 0;
+  display: block;
+  text-shadow: none;
+  padding: 5px 15px;
+}
+
+#rO .navbar-header {
+    width: 100%;
+    padding: 0;
+}
+
+#rO .navbar-brand:hover h1{
+  color: #9c0812;
+}
+
+#rO .navbar-brand h1 {
+  margin: 0;
+}
+
+/* carousel things */
+#rO .carousel {
+  position: relative;
+  max-height: 500px;
+  height: auto;
+  overflow: hidden;
+  margin-bottom: 5%;
+}
+
+#rO .carousel .carousel-indicators {
+  -webkit-transition: opacity 0.5s;
+  transition: opacity 0.5s;
+  opacity: 0;
+}
+
+#rO .carousel:hover .carousel-indicators {
+  opacity: 1;
+}
+
+#rO .carousel .item {
+  height: 500px;
+  vertical-align: middle;
+  background-repeat: no-repeat;
+  background-size: 150% auto;
+}
+
+#rO .slide1 {
+  background-image: url('../images/slide1.JPG');
+  background-position: 25% 40%;
+}
+
+#rO .slide2 {
+  background-image: url('../images/slide2.JPG');
+  background-position: 25% 77%;
+}
+
+#rO .slide3 {
+  background-image: url('../images/slide3.JPG');
+  background-position: 25% 77%;
+}
+
+/* things for the content */
+#rO .bodyText {
+  max-width: 2000px;
+  padding: 0 7%;
+}
+
+#rO .bigTitleText {
+  font-size: 10em;
+  text-transform: uppercase;
+}
+
+#rO h2 {
+  border-bottom: 1px solid #999;
+  font-family: 'SourceSansPro';
+  font-size: 3em;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+}
+
+#rO .titleR {
+  text-align: right;
+  padding-right: 5%;
+}
+
+#rO .titleL {
+  text-align: left;
+  padding-left: 5%;
+}
+
+#rO .titleC {
+  text-align: center;
+}
+
+#rO p {
+  font-size: 1.25em;
+}
+
+#rO .fullW {
+  width: 100%;
+  height: auto;
+}
+
+#rO .roboR {
+  float: right;
+}
+/* jump to top */
+.sometimesUp {
+  background-color: rgba(155,155,155,.2);
+  position: fixed;
+  bottom: 10px;
+  right: -45px;
+  border-radius: 5px 0 0 5px;
+  padding: 4px 10px;
+  height: 40px;
+  font-size: 25px;
+  -webkit-transition: right 0.5s;
+  transition: right 0.5s;
+  cursor: pointer;
+}
+
+/* mobile thing*/
+@media screen and (max-width: 767px) {
+  #rO .navbar{
+    padding: 5px 0;
+  }
+/* mobile heading styles */
+  #rO .titleR,
+  #rO .titleL{
+    text-align: center;
+    padding: 0;
+  }
+}
