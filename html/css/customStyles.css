@@ -8,9 +8,19 @@
     src: url(../fonts/sourcesanspro.ttf);
 }
 
-body {
-  font-family: "SourceSansPro";
-  background: url(../images/bg.png);
+@font-face {
+    font-family: "RalewayLight";
+    src: url(../fonts/Raleway-Light.ttf);
+}
+
+@font-face {
+    font-family: "RalewayRegular";
+    src: url(../fonts/Raleway-Regular.ttf);
+}
+
+@font-face {
+    font-family: "RalewayMedium";
+    src: url(../fonts/Raleway-Medium.ttf);
 }
 
 /*Info
@@ -51,6 +61,8 @@ body {
 #rO .navbar-nav > li > a {
   color: #000;
   text-shadow: none;
+  font-family: "RalewayMedium";
+  text-transform: uppercase;
 }
 
 #rO .navbar-toggle {
@@ -81,16 +93,13 @@ body {
   padding: 7px 15px;
 }
 
-#rO .dropdown-menu > .jim > a {
+#rO .dropdown-menu > .jim > a,
+#rO .dropdown-menu > .jim > a:hover,
+#rO .dropdown-menu > .jim > a:focus {
   background-color: transparent;
   background-image: none;
   color: #fff;
   padding: 0;
-}
-
-#rO .dropdown-menu > .jim > a:hover,
-#rO .dropdown-menu > .jim > a:focus {
-  background-color: transparent;
 }
 
 /* Navbar big text */
@@ -172,10 +181,9 @@ body {
 
 #rO h2 {
   border-bottom: 1px solid #999;
-  font-family: 'SourceSansPro';
+  font-family: 'RalewayLight';
   font-size: 3em;
   text-transform: uppercase;
-  letter-spacing: 3px;
 }
 
 #rO .titleR {
