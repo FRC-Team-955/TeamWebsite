@@ -1,6 +1,6 @@
 <!-- Bootstrap core CSS -->
-        <link href="css/bootstrap.css" rel="stylesheet">
-        <link href="css/bootstrap-theme.css" rel="stylesheet">
+        <link href="../css/bootstrap.css" rel="stylesheet">
+        <link href="../css/bootstrap-theme.css" rel="stylesheet">
         <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
         <!--[if lt IE 9]>
 <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
@@ -8,8 +8,8 @@
 <![endif]-->
 
         <!-- Custom styles for this template -->
-        <link href="css/customStyles.css" rel="stylesheet">
-        <script src="js/customBehaviors.js" type="text/javascript"></script>
+        <link href="../css/customStyles.css" rel="stylesheet">
+        <script src="../js/customBehaviors.js" type="text/javascript"></script>
     </head>
     <!-- Navigation -->
     <body id="rO"><!-- #rO is for having our styles override bootstrap.-->
@@ -28,7 +28,7 @@
                         </div>
                         <div id="navbar" class="navbar-collapse collapse">
                             <ul class="nav navbar-nav">
-                                <li><a href="#">Home</a></li>
+                                <li><a href=".../index.html">Home</a></li>
                                 <li class="dropdown">
                                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">About</a>
                                     <ul class="dropdown-menu" role="menu">
