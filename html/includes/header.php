@@ -1,4 +1,9 @@
-<!-- Bootstrap core CSS -->
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="">
+        <meta name="author" content="">
+        <link rel="icon" href="images/favicon.png">
         <link href="../css/bootstrap.css" rel="stylesheet">
         <link href="../css/bootstrap-theme.css" rel="stylesheet">
         <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -28,48 +33,47 @@
                         </div>
                         <div id="navbar" class="navbar-collapse collapse">
                             <ul class="nav navbar-nav">
-                                <li><a href=".../index.html">Home</a></li>
+                                <li><a href="../index.html">Home</a></li>
                                 <li class="dropdown">
                                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">About</a>
                                     <ul class="dropdown-menu" role="menu">
-                                        <li><a href="#">About Us</a></li>
-                                        <li><a href="#">Structure</a></li>
-                                        <li><a href="#">Mentors</a></li>
-                                        <li><a href="#">Past Robots</a></li>
-                                        <li><a href="#">Website</a></li>
+                                        <li><a href="about.php#team">About Us</a></li>
+                                        <li><a href="about.php#structure">Structure</a></li>
+                                        <li><a href="about.php#mentors">Mentors</a></li>
+                                        <li><a href="about.php#robots">Past Robots</a></li>
+                                        <li><a href="about.php#colophon">Website</a></li>
                                     </ul>
                                 </li>
                                 <li class="dropdown">
                                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Media</a>
                                     <ul class="dropdown-menu" role="menu">
-                                        <li><a href="#">Photos</a></li>
-                                        <li><a href="#">Videos</a></li>
-                                        <li><a href="#">Press</a></li>
+                                        <li><a href="photos.php">Photos</a></li>
+                                        <li><a href="videos.php">Videos</a></li>
+                                        <li><a href="press.php">Press</a></li>
                                     </ul>
                                 </li>
                                 <li class="dropdown">
                                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Resources</a>
                                     <ul class="dropdown-menu" role="menu">
-                                        <li><a href="#">Parent Resources</a></li>
-                                        <li><a href="#">Student Resources</a></li>
-                                        <li><a href="#">Safety</a></li>
-                                        <li><a href="#">Calendar</a></li>
-                                        <li><a href="#">Parent Handbook</a></li>
+                                        <li><a href="resources.php#parent">Parent Resources</a></li>
+                                        <li><a href="resources.php#student">Student Resources</a></li>
+                                        <li><a href="resources.php#safety">Safety</a></li>
+                                        <li><a href="resources.php#calendar">Calendar</a></li>
                                         <li class="jim"><a href="#"><img src="images/jimHalfHead.png" alt="Coach's Corner"></a></li>
                                     </ul>
                                 </li>
                                 <li class="dropdown">
                                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Support</a>
                                     <ul class="dropdown-menu" role="menu">
-                                        <li><a href="#">Donations</a></li>
-                                        <li><a href="#">Fundraising</a></li>
-                                        <li><a href="#">Sponsors</a></li>
+                                        <li><a href="support.php#donations">Donations</a></li>
+                                        <li><a href="support.php#fundraising">Fundraising</a></li>
+                                        <li><a href="support.php#sponsors">Sponsors</a></li>
                                     </ul>
                                 </li>
                                 <li class="dropdown">
                                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">FIRST</a>
                                     <ul class="dropdown-menu" role="menu">
-                                        <li><a href="#">About FIRST</a></li>
+                                        <li><a href="first.php">About FIRST</a></li>
                                         <li><a href="http://www.usfirst.org/" target="_blank">US FIRST Homepage</a></li>
                                         <li><a href="http://www.usfirst.org/roboticsprograms/fll" target="_blank">Lego League</a></li>
                                         <li><a href="http://www.usfirst.org/roboticsprograms/ftc" target="_blank">Tech Challenge</a></li>
