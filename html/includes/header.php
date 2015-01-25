@@ -3,7 +3,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="description" content="">
         <meta name="author" content="">
-        <link rel="icon" href="images/favicon.png">
+        <link rel="icon" href="../images/favicon.png">
         <link href="../css/bootstrap.css" rel="stylesheet">
         <link href="../css/bootstrap-theme.css" rel="stylesheet">
         <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -38,6 +38,7 @@
                                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">About</a>
                                     <ul class="dropdown-menu" role="menu">
                                         <li><a href="about.php#team">About Us</a></li>
+                                        <li><a href="about.php#FIRST">About FIRST</a></li>
                                         <li><a href="about.php#structure">Structure</a></li>
                                         <li><a href="about.php#mentors">Mentors</a></li>
                                         <li><a href="about.php#robots">Past Robots</a></li>
@@ -73,7 +74,6 @@
                                 <li class="dropdown">
                                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">FIRST</a>
                                     <ul class="dropdown-menu" role="menu">
-                                        <li><a href="first.php">About FIRST</a></li>
                                         <li><a href="http://www.usfirst.org/" target="_blank">US FIRST Homepage</a></li>
                                         <li><a href="http://www.usfirst.org/roboticsprograms/fll" target="_blank">Lego League</a></li>
                                         <li><a href="http://www.usfirst.org/roboticsprograms/ftc" target="_blank">Tech Challenge</a></li>
