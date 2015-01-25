@@ -20,5 +20,6 @@
             <div class="row" id="calendar"><h2></h2>
             </div>
           </div> <!-- End .bodyText -->
+      <?php include "../includes/endDoc.php"; ?>
     </body>
 </html>
