@@ -60,7 +60,7 @@
                                         <li><a href="resources.php#student">Student Resources</a></li>
                                         <li><a href="resources.php#safety">Safety</a></li>
                                         <li><a href="resources.php#calendar">Calendar</a></li>
-                                        <li class="jim"><a href="#"><img src="images/jimHalfHead.png" alt="Coach's Corner"></a></li>
+                                        <li class="jim"><a href="#"><img src="../images/jimHalfHead.png" alt="Coach's Corner"></a></li>
                                     </ul>
                                 </li>
                                 <li class="dropdown">
