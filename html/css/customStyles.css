@@ -4,8 +4,8 @@
 }
 
 @font-face {
-    font-family: "SourceSansPro";
-    src: url(../fonts/sourcesanspro.ttf);
+    font-family: "OpenSans";
+    src: url(../fonts/OpenSans-Regular.ttf);
 }
 
 @font-face {
@@ -27,6 +27,10 @@
 #9c0812 is maroon color
 #F5B50C is gold color
 */
+body {
+  background-image: url('../images/bg.png');
+  font-family: 'OpenSans';
+}
 
 #rO .navbar-default .navbar-nav > .open > a,
 #rO .navbar-default .navbar-nav > .active > a {
