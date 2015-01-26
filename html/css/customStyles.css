@@ -173,9 +173,9 @@ body {
 }
 
 /* things for the content */
-#rO .bodyText {
+#rO .row {
+  width: 100%;
   max-width: 2000px;
-  padding: 0 7%;
 }
 
 #rO .bigTitleText {
@@ -216,6 +216,31 @@ body {
 #rO .roboR {
   float: right;
 }
+
+#rO .crossScreenImg {
+  max-width: none;
+  height: 300px;
+  overflow: hidden;
+  color: #fff;
+  background-size: 100%, auto;
+  background-repeat: no-repeat;
+}
+
+#rO .crossScreenImg:before {
+  content: "";
+  width: inherit;
+  height: inherit;
+  background-color: rgba(0,0,0,0.3);
+}
+
+#rO .introUL {
+  color: #fff;
+}
+
+#rO .introUL b {
+  text-transform: uppercase;
+}
+
 /* jump to top */
 .sometimesUp {
   background-color: rgba(155,155,155,.2);
@@ -242,4 +267,12 @@ body {
     text-align: center;
     padding: 0;
   }
+}
+
+
+/*PAGE SPECIFIC THINGS*/
+/* this is where the background images for the link-divs (the ones which define the start of a subpage) will be styled */
+/*about.php files first*/
+#team {
+  background-image: url("../images/slide1.JPG");
 }
