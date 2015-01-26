@@ -173,6 +173,10 @@ body {
 }
 
 /* things for the content */
+#rO .bodyText {
+  width: 100%;
+  padding: 0;
+}
 #rO .row {
   width: 100%;
   max-width: 2000px;
