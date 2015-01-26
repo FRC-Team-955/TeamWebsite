@@ -224,6 +224,7 @@ body {
   color: #fff;
   background-size: 100%, auto;
   background-repeat: no-repeat;
+  margin: 0;
 }
 
 #rO .crossScreenImg:before {
@@ -232,7 +233,6 @@ body {
   width: inherit;
   height: inherit;
   background-color: rgba(0,0,0,0.7);
-  margin: 0;
 }
 
 #rO .introUL {
