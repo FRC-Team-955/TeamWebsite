@@ -228,9 +228,11 @@ body {
 
 #rO .crossScreenImg:before {
   content: "";
+  position: absolute;
   width: inherit;
   height: inherit;
-  background-color: rgba(0,0,0,0.3);
+  background-color: rgba(0,0,0,0.7);
+  margin: 0;
 }
 
 #rO .introUL {
