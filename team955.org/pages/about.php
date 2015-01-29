@@ -12,22 +12,23 @@
         Crescent Valley FIRST Robotics
       </title>
       <?php include "../includes/header.php"; ?> <!-- This will include everything before .bodyText -->
+        <div class="subpageBox">
         <div class="row crossScreenImg" id="team"> <!-- set background image by css with the linking id -->
                 <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
-                    <h2 class="titleL darkBG">Who we are</h2>
-                    <ul class="introUL">
-                      <li><b>Robot Name:</b> Based on the mythical Titans</li>
-                      <li><b>Rookie Year:</b> 2002</li>
-                      <li><b>FRC Team Number:</b> 955</li>
-                      <li><b>Team Size:</b> 40+</li>
-                      <li><b>Team Colors:</b> Maroon & Gold</li>
-                      <li><b>Location:</b> Crescent Valley High School in Corvallis, Oregon</li>
-                      <li><b>Coach:</b> Jim Bowey</li>
-                    </ul>
+                    <h2 class="titleC darkBG">Who we are</h2>
+        <p class="crossScreenImgCols">
+        <b>Robot Name:</b> Based on the mythical Titans<br/>
+                      <b>Rookie Year:</b> 2002<br/>
+                      <b>FRC Team Number:</b> 955<br/>
+                      <b>Team Size:</b> 40+<br/>
+                      <b>Team Colors:</b> Maroon & Gold<br/>
+                      <b>Location:</b> Crescent Valley High School in Corvallis, Oregon<br/>
+                      <b>Coach:</b> Jim Bowey<br/>
+                        </p>
                 </section>
         </div>
+        </div>
         <div class="bodyText container-fluid">
-
         <div class="row" id="FIRST"><h2></h2>
         </div>
         <div class="row" id="structure"><h2></h2>
