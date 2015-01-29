@@ -13,8 +13,8 @@
       </title>
       <?php include "../includes/header.php"; ?> <!-- This will include everything before .bodyText -->
         <div class="subpageBox">
-        <!-- set background image by css with the linking id -->
-                <section class="row crossScreenImg" id="team">
+        <div class="row crossScreenImg" id="team"> <!-- set background image by css with the linking id -->
+                <section>
                     <h2 class="titleC darkBG">Who we are</h2>
         <p class="crossScreenImgCols">
         <b>Robot Name:</b> Based on the mythical Titans<br/>
@@ -26,6 +26,7 @@
                       <b>Coach:</b> Jim Bowey<br/>
                         </p>
                 </section>
+        </div>
         </div>
         <div class="bodyText container-fluid">
         <div class="row" id="FIRST"><h2></h2>
