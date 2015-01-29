@@ -12,7 +12,6 @@
         Crescent Valley FIRST Robotics
       </title>
       <?php include "../includes/header.php"; ?> <!-- This will include everything before .bodyText -->
-      <div class="bodyText container-fluid">
         <div class="row crossScreenImg" id="team"> <!-- set background image by css with the linking id -->
                 <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
                     <h2 class="titleL darkBG">Who we are</h2>
@@ -26,7 +25,9 @@
                       <li><b>Coach:</b> Jim Bowey</li>
                     </ul>
                 </section>
-            </div>
+        </div>
+        <div class="bodyText container-fluid">
+
         <div class="row" id="FIRST"><h2></h2>
         </div>
         <div class="row" id="structure"><h2></h2>
