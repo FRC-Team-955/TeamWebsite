@@ -230,7 +230,7 @@ body {
   color: #fff;
   background-size: 100%, auto;
   background-repeat: no-repeat;
-  margin: 0;
+  margin: 0 auto;
   width: 100%;
 }
 
@@ -242,10 +242,6 @@ body {
   background-color: rgba(0,0,0,0.7);
 }
 
-#rO .crossScreenImg section {
-  margin: 0 auto;
-}
-
 #rO .crossScreenImgCols {
   -moz-column-count: 2;
   -webkit-column-count: 2;
@@ -253,6 +249,10 @@ body {
   color: #fff;
   margin: 0 auto;
   width: 50%;
+}
+
+#rO .crossScreenImg * {
+  z-index: 10;
 }
 
 #rO .introUL {
