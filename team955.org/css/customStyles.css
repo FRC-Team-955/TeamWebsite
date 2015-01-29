@@ -4,6 +4,11 @@
 }
 
 @font-face {
+    font-family: "OrbitronBold";
+    src: url(../fonts/Orbitron-Bold.ttf);
+}
+
+@font-face {
     font-family: "OpenSans";
     src: url(../fonts/OpenSans-Regular.ttf);
 }
@@ -109,7 +114,8 @@ body {
 /* Navbar big text */
 
 #rO .navbar-brand {
-  font-family: "GoodTimes";
+  font-family: "OrbitronBold";
+  text-transform: uppercase;
   color: #000;
   margin: 0;
   display: block;
