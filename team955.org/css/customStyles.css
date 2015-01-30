@@ -178,6 +178,11 @@ body {
 }
 
 /* things for the content */
+#rO a.dark {
+  color: #EBEBEB;
+  border-bottom: dotted 1px #EBEBEB;
+}
+
 #rO a {
   border-bottom: dotted 1px #000;
   color: #000;
@@ -188,11 +193,6 @@ body {
 #rO a:hover {
   color: #7D7D7D;
   border-bottom: none;
-}
-
-#rO a.dark {
-  color: #EBEBEB;
-  border-bottom: dotted 1px #EBEBEB;
 }
 
 #rO .row {
