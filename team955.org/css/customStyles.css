@@ -179,16 +179,16 @@ body {
 }
 
 /* things for the content */
-#rO a.dark {
-  color: #EBEBEB;
-  border-bottom: dotted 1px #EBEBEB;
-}
-
 #rO .subpageBox a,
 #rO .bodyText a {
   border-bottom: dotted 1px #000;
   color: #000;
   text-decoration: none;
+}
+
+#rO a.dark {
+  color: #EBEBEB;
+  border-bottom: dotted 1px #EBEBEB;
 }
 
 #rO .subpageBox a:active,
