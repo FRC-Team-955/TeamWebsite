@@ -242,10 +242,6 @@ body {
   background-color: rgba(0,0,0,0.7);
 }
 
-#rO .crossScreenImg section {
-  margin: 0 auto;
-}
-
 #rO .crossScreenImgCols {
   -moz-column-count: 2;
   -webkit-column-count: 2;
