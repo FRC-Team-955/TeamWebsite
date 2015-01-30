@@ -159,22 +159,22 @@ body {
   height: 500px;
   vertical-align: middle;
   background-repeat: no-repeat;
-  background-size: 150% auto;
+  background-size: cover;
 }
 
 #rO .slide1 {
   background-image: url('../images/slide1.JPG');
-  background-position: 25% 40%;
+  background-position: 0 40%;
 }
 
 #rO .slide2 {
   background-image: url('../images/slide2.JPG');
-  background-position: 25% 77%;
+  background-position: 0 77%;
 }
 
 #rO .slide3 {
   background-image: url('../images/slide3.JPG');
-  background-position: 25% 77%;
+  background-position: 0 77%;
 }
 
 /* things for the content */
@@ -245,7 +245,7 @@ body {
   height: 500px;
   overflow: hidden;
   color: #fff;
-  background-size: 100%, auto;
+  background-size: cover;
   background-repeat: no-repeat;
   margin: 0;
   margin-bottom: 5%;
@@ -299,12 +299,12 @@ body {
   cursor: pointer;
 }
 
-/* mobile thing*/
+/* mobile styling*/
 @media screen and (max-width: 767px) {
   #rO .navbar{
     padding: 5px 0;
   }
-/* mobile heading styles */
+
   #rO .titleR,
   #rO .titleL{
     text-align: center;

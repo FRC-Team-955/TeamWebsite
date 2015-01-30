@@ -33,3 +33,8 @@ function scrollToThis(thing){ /*input "top" for scroll to top */
   }
   $(thing).animate({ scrollTop: 0 }, 200);
 }
+
+/* when the background image height is less than the height of the element, then change the width to auto, and the height to 100%.
+$("#mainCarousel").on("slide.bs.carousel", function () {
+  if($(".next").
+});*/
