@@ -14,7 +14,7 @@
       <?php include "../includes/header.php"; ?> <!-- This will include everything before .bodyText -->
         <div class="subpageBox">
         <div class="row crossScreenImg" id="team"> <!-- set background image by css with the linking id -->
-                <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+                <section class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
                     <h2 class="titleC darkBG">Who we are</h2>
         <p class="crossScreenImgCols">
         <b>Robot Name:</b> Based on the mythical Titans<br/>
