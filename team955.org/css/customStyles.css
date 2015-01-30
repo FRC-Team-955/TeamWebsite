@@ -164,17 +164,17 @@ body {
 
 #rO .slide1 {
   background-image: url('../images/slide1.JPG');
-  background-position: 0 40%;
+  background-position: 50% 40%;
 }
 
 #rO .slide2 {
   background-image: url('../images/slide2.JPG');
-  background-position: 0 77%;
+  background-position: 50% 77%;
 }
 
 #rO .slide3 {
   background-image: url('../images/slide3.JPG');
-  background-position: 0 77%;
+  background-position: 50% 77%;
 }
 
 /* things for the content */
