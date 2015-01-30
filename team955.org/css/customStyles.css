@@ -178,7 +178,18 @@ body {
 }
 
 /* things for the content */
-#rO .bodyText {
+#rO a {
+  border-bottom: dotted 1px #7D7D7D;
+  color: #000;
+}
+
+#rO a:active,
+#rO a:hover {
+  color: #7D7D7D;
+  border-bottom: none;
+}
+
+#rO .row {
   width: 100%;
   max-width: 2000px;
   padding: 0 7%;
@@ -260,6 +271,10 @@ body {
   text-transform: uppercase;
 }
 
+#rO abbr {
+  text-decoration: none;
+}
+
 /* jump to top */
 .sometimesUp {
   background-color: rgba(155,155,155,.2);
@@ -286,7 +301,7 @@ body {
     text-align: center;
     padding: 0;
   }
-  
+
   #rO .crossScreenImgCols  {
 	column-count: 1;
 	-moz-column-count: 1;

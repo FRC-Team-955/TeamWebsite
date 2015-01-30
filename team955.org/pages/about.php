@@ -29,10 +29,9 @@
         </div>
 		<div class="row">
 			<section class="roboR col-xs-12 col-sm-4 col-md-4 col-lg-4">
-				<img src="..images/pagePhotos/image3.jpg" alt="There was a great, inspirational picture here" class="img-circle fullW"/>
+				<img src="../images/pagePhotos/image3.jpg" alt="There was a great, inspirational picture here" class="img-circle fullW"/>
 			</section>
 			<section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
-				<h2 class="titleR"></h2>
 				<p>The Crescent Valley High School Robotics Team was founded in September 2002 by engineering teacher Mark Baldwin and twelve students. Our team (<abbr title="FIRST Robotics Competition">FRC</abbr> Team 955) is part of the NASA sponsored <abbr title="For Inspiration and Recognition of Science and Technology">FIRST</abbr> program. Each year we compete in the worldwide FRC challenge.</p>
 				<p>Since our founding we have grown into more than just a robotics team. We have become a family of over 40 diverse students connected by a shared passion for science, technology, engineering, art, and mathematics (STEAM). Our current coach, Jim Bowey, leads this group of students, mentors, parents, and business partners in the pursuit of our shared passion. </p>
 			</section>
