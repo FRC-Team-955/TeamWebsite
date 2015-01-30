@@ -277,6 +277,10 @@ body {
   width: 50%;
 }
 
+#rO .crossScreenImg section {
+  vertical-align: middle;
+}
+
 #rO .introUL {
   color: #fff;
 }
