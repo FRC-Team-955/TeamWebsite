@@ -242,6 +242,8 @@ body {
   background-size: 100%, auto;
   background-repeat: no-repeat;
   margin: 0;
+  margin-bottom: 5%;
+  padding: 0;
   width: 100%;
 }
 
@@ -250,6 +252,7 @@ body {
   position: absolute;
   width: inherit;
   height: inherit;
+  margin: 0;
   background-color: rgba(0,0,0,0.7);
 }
 
