@@ -179,14 +179,20 @@ body {
 
 /* things for the content */
 #rO a {
-  border-bottom: dotted 1px #7D7D7D;
+  border-bottom: dotted 1px #000;
   color: #000;
+  text-decoration: none;
 }
 
 #rO a:active,
 #rO a:hover {
   color: #7D7D7D;
   border-bottom: none;
+}
+
+#rO a.dark {
+  color: #EBEBEB;
+  border-bottom: dotted 1px #EBEBEB;
 }
 
 #rO .row {
@@ -275,7 +281,7 @@ body {
 }
 
 #rO abbr {
-  text-decoration: none;
+  border-bottom: none;
 }
 
 /* jump to top */

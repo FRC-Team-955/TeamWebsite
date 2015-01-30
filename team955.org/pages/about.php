@@ -17,7 +17,7 @@
                 <section class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
                     <h2 class="titleC darkBG">Who we are</h2>
         <p class="crossScreenImgCols">
-        <b>Robot Name:</b> Based on the <a href="http://en.wikipedia.org/wiki/Titan_(mythology)">mythical Titans</a><br/>
+        <b>Robot Name:</b> Based on the <a class="dark" href="http://en.wikipedia.org/wiki/Titan_(mythology)">mythical Titans</a><br/>
                       <b>Rookie Year:</b> 2002<br/>
                       <b><abbr title="FIRST Robotics Competition">FRC</abbr> Team Number:</b> 955<br/>
                       <b>Team Size:</b> 40+<br/>
