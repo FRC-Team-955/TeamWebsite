@@ -285,6 +285,16 @@ body {
     text-align: center;
     padding: 0;
   }
+  
+  #rO .crossScreenImgCols  {
+	column-count: 1;
+	-moz-column-count: 1;
+	-webkit-column-count: 1;
+  }
+  
+  #rO .crossScreenImg {
+	width: 90%;
+  }
 }
 
 
