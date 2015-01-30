@@ -29,7 +29,7 @@ $(document).ready(function(){
 
 function scrollToThis(thing){ /*input "top" for scroll to top */
   if (thing=="top"){
-    thing="html,body";
+    thing="body";
   }
-  $(thing).animate({ scrollTop: 0 }, 200);
+  $("html,body").animate({ scrollTop: thing.offset().top }, 200);
 }
