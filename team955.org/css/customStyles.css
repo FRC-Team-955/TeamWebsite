@@ -139,10 +139,11 @@ body {
 /* carousel things */
 #rO .carousel {
   position: relative;
-  max-height: 500px;
-  height: auto;
+  height: 500px;
   overflow: hidden;
   margin-bottom: 5%;
+  -webkit-transition: height 1s ease;
+  transition: height 1s ease;
 }
 
 #rO .carousel .carousel-indicators {
@@ -183,14 +184,17 @@ body {
   border-bottom: dotted 1px #EBEBEB;
 }
 
-#rO a {
+#rO .subpageBox a,
+#rO .bodyText a {
   border-bottom: dotted 1px #000;
   color: #000;
   text-decoration: none;
 }
 
-#rO a:active,
-#rO a:hover {
+#rO .subpageBox a:active,
+#rO .subpageBox a:hover,
+#rO .bodyText a:active,
+#rO .bodyText a:hover {
   color: #7D7D7D;
   border-bottom: none;
 }
@@ -251,6 +255,8 @@ body {
   margin-bottom: 5%;
   padding: 0;
   width: 100%;
+  -webkit-transition: height 1s ease;
+  transition: height 1s ease;
 }
 
 #rO .crossScreenImg:before {
@@ -269,7 +275,6 @@ body {
   color: #fff;
   margin: 0 auto;
   width: 50%;
-  text-align: center;
 }
 
 #rO .introUL {
@@ -312,11 +317,15 @@ body {
   }
 
   #rO .crossScreenImgCols  {
-	column-count: 1;
-	-moz-column-count: 1;
-	-webkit-column-count: 1;
-	width: 90%;
-	text-align: center;
+    column-count: 1;
+    -moz-column-count: 1;
+    -webkit-column-count: 1;
+    width: 90%;
+    text-align: center;
+  }
+  .carousel,
+  .crossScreenImg {
+    height: 300px;
   }
 }
 
