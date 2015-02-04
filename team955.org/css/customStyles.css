@@ -205,13 +205,19 @@ body {
   padding: 0 7%;
 }
 
+#rO .centerV {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
 #rO .bigTitleText {
   font-size: 10em;
   text-transform: uppercase;
 }
 
 #rO h2 {
-  border-bottom: 1px solid #999;
+  border-bottom: 1px solid #7d7d7d;
   font-family: 'RalewayLight';
   font-size: 3em;
   text-transform: uppercase;
@@ -242,6 +248,12 @@ body {
 
 #rO .roboR {
   float: right;
+}
+
+#rO .imgBorder {
+  border: 5px solid #fff;
+  width: 100%;
+  height: auto;
 }
 
 #rO .crossScreenImg {
@@ -327,9 +339,14 @@ body {
     width: 90%;
     text-align: center;
   }
+
   .carousel,
   .crossScreenImg {
     height: 300px;
+  }
+
+  .quarterRow {
+    border-top: 1px solid #7d7d7d;
   }
 }
 
