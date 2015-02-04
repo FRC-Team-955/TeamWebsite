@@ -203,6 +203,7 @@ body {
   width: 100%;
   max-width: 2000px;
   padding: 0 7%;
+  float: left;
 }
 
 #rO .centerV {
@@ -251,7 +252,7 @@ body {
 }
 
 #rO .imgBorder {
-  border: 5px solid #fff;
+  border: 10px solid #fff;
   width: 100%;
   height: auto;
 }

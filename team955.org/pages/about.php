@@ -29,7 +29,7 @@
         </div>
         <div class="row">
           <section class="roboR col-xs-12 col-sm-4 col-md-4 col-lg-4">
-            <img src="../images/pagePhotos/image3.jpg" alt="Students plan for the season to come." class="imgBorder centerV fullW"/>
+            <img src="../images/pagePhotos/image3.jpg" alt="Students plan for the season to come." class="imgBorder fullW"/>
           </section>
           <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
             <p>The Crescent Valley High School Robotics Team was founded in September 2002 by engineering teacher Mark Baldwin and twelve students. Our team (<abbr title="FIRST Robotics Competition">FRC</abbr> Team 955) is part of the NASA sponsored <abbr title="For Inspiration and Recognition of Science and Technology">FIRST</abbr> program. Each year we compete in the worldwide FRC challenge.</p>
@@ -38,7 +38,7 @@
         </div>
         <div class="row">
           <section class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
-            <img src="../images/pagePhotos/image16.jpg" alt="Manufacturing is done by a joint effort of mentors and students" class="imgBorder centerV fullW"/>
+            <img src="../images/pagePhotos/image16.jpg" alt="Manufacturing is done by a joint effort of mentors and students" class="imgBorder fullW"/>
           </section>
           <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
             <p></p>
