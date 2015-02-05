@@ -27,10 +27,9 @@ $(document).ready(function(){
   });
 });/*end doc.ready*/
 
-/*function scrollToThis(thing){ /*input "top" for scroll to top
+function scrollToThis(thing){ /*input "top" for scroll to top */
   if (thing=="top"){
     thing="body";
   }
   $("html,body").animate({ scrollTop: thing.offset().top }, 200);
 };
-*/
