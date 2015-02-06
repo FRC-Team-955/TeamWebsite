@@ -327,6 +327,10 @@ body {
     padding: 5px 0;
   }
 
+  #rO .centerM {
+    margin: 0 auto;
+  }
+
   #rO .titleR,
   #rO .titleL{
     text-align: center;
