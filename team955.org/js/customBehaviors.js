@@ -25,9 +25,7 @@ $(document).ready(function(){
       }
     }
   });
-});/*end doc.ready*/
-
-var $root = $('html, body');
+  var $root = $('html, body');
 $('a').click(function() {
     var href = $.attr(this, 'href');
     $root.animate({
@@ -37,3 +35,5 @@ $('a').click(function() {
     });
     return false;
 });
+});/*end doc.ready*/
+
