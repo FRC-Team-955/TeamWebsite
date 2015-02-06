@@ -329,6 +329,7 @@ body {
 
   #rO .centerM {
     margin: 0 auto;
+    float: clear;
   }
 
   #rO .titleR,
