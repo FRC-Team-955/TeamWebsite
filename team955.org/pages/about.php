@@ -49,7 +49,6 @@
                 <section class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
                     <h2 class="titleC">Goals of Ours</h2>
                 </section>
-            </div>
                 <section class=" col-xs-12 col-sm-3 col-md-3 col-lg-3">
                     <p>We constantly strive to increase the amount of time we spend volunteering, primarily by going to elementary schools to actively engage younger students in science and technology education. This extends to middle schools as well. This is a way to spread the FIRST message while recruiting inspired students for future years. We highly value promoting enthusiasm for science and technology in younger students.</p>
                 </section>
