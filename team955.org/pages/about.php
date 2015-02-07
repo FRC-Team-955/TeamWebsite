@@ -66,13 +66,13 @@
 
         <div class="subpageBox">
             <div class="row crossScreenImg" id="FIRST"> <!-- set background image by css with the linking id -->
-                <section class="col-xs-12 col-sm-12 col-md-12 col-lg-12 centerV">
+                <section class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
                     <h2 class="titleC darkBG">FIRST Robotics Programs</h2>
                 </section>
                 <section class="row">
-                    <a href="http://www.usfirst.org/roboticsprograms/frc" target="_blank"><img src="../images/brands/FRCicon.png" class="img-circle col-xs-4 col-sm-4 col-md-4 col-lg-4" alt="FIRST Robotics Competition"></a>
-                    <a href="http://www.usfirst.org/roboticsprograms/ftc" target="_blank"><img src="../images/brands/FTCicon.png" class="img-circle col-xs-4 col-sm-4 col-md-4 col-lg-4" alt="FIRST Tech Challenge"></a>
-                    <a href="http://www.usfirst.org/roboticsprograms/fll" target="_blank"><img src="../images/brands/FLLicon.png" class="img-circle col-xs-4 col-sm-4 col-md-4 col-lg-4" alt="FIRST Lego League"></a>
+                    <a href="http://www.usfirst.org/roboticsprograms/frc" target="_blank"><img src="../images/brands/FRCicon.png" class="logoImg img-circle col-xs-4 col-sm-4 col-md-4 col-lg-4" alt="FIRST Robotics Competition"></a>
+                    <a href="http://www.usfirst.org/roboticsprograms/ftc" target="_blank"><img src="../images/brands/FTCicon.png" class="logoImg img-circle col-xs-4 col-sm-4 col-md-4 col-lg-4" alt="FIRST Tech Challenge"></a>
+                    <a href="http://www.usfirst.org/roboticsprograms/fll" target="_blank"><img src="../images/brands/FLLicon.png" class="logoImg img-circle col-xs-4 col-sm-4 col-md-4 col-lg-4" alt="FIRST Lego League"></a>
                     <h2 class="headerNB">CV Robotics is a <abbr title="FIRST Robotics Competition">FRC</abbr> team that was founded in 2002.</h3>
                 </section>
             </div>
