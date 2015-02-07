@@ -292,6 +292,10 @@ body {
   background-color: rgba(0,0,0,0.7);
 }
 
+#rO .darkBG {
+  color: #fff;
+}
+
 #rO .crossScreenImgCols {
   -moz-column-count: 2;
   -webkit-column-count: 2;
