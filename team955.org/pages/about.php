@@ -68,6 +68,8 @@
             <div class="row crossScreenImg" id="FIRST"> <!-- set background image by css with the linking id -->
                 <section class="col-xs-12 col-sm-12 col-md-12 col-lg-12 centerV">
                     <h2 class="titleC darkBG">FIRST Robotics Programs</h2>
+                </section>
+                <section class="row">
                     <a href="http://www.usfirst.org/roboticsprograms/frc" target="_blank"><img src="../images/brands/FRCicon.png" class="img-circle col-xs-4 col-sm-4 col-md-4 col-lg-4" alt="FIRST Robotics Competition"></a>
                     <a href="http://www.usfirst.org/roboticsprograms/ftc" target="_blank"><img src="../images/brands/FTCicon.png" class="img-circle col-xs-4 col-sm-4 col-md-4 col-lg-4" alt="FIRST Tech Challenge"></a>
                     <a href="http://www.usfirst.org/roboticsprograms/fll" target="_blank"><img src="../images/brands/FLLicon.png" class="img-circle col-xs-4 col-sm-4 col-md-4 col-lg-4" alt="FIRST Lego League"></a>
@@ -79,7 +81,7 @@
             <img src="" alt="A General FRC Photo" class="imgBorder fullW"/>
           </section>
           <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
-            <p>The FIRST Robotics Competition (FRC) is an international varsity sport of the mind designed to help high-school-aged young people discover how interesting and rewarding the life of engineers and researchers can be. The FIRST Robotics Competition tests the ability of teams and their mentors to complete a challenge in a six-week time frame using a common set of rules. Teams build robots from industrial-grade parts and enter them in competitions designed by Dean Kamen, Dr. Woodie Flowers, and a committee of engineers and other professionals. FIRST redefines winning for these students because they are rewarded for more than just their robot's ability to win. Not only are teams recognized for excellence and creativity in robot design, but they must also demonstrate team spirit, involvement in their communities, gracious professionalism, maturity, and the ability to overcome obstacles. Scoring the most points is a secondary goal. Winning means building skills and partnerships that last. For more information on FIRST, <a href="http://www.usfirst.org/">visit their website.</a></p>
+            <p>The FIRST Robotics Competition (FRC) is an international varsity sport of the mind designed to help high-school-aged young people discover how interesting and rewarding the life of engineers and researchers can be. The FIRST Robotics Competition tests the ability of teams and their mentors to complete a challenge in a six-week time frame using a common set of rules. Teams build robots from industrial-grade parts and enter them in competitions designed by Dean Kamen, Dr. Woodie Flowers, and a committee of engineers and other professionals. FIRST redefines winning for these students because they are rewarded for more than just their robot's ability to win. Not only are teams recognized for excellence and creativity in robot design, but they must also demonstrate team spirit, involvement in their communities, gracious professionalism, maturity, and the ability to overcome obstacles. Scoring the most points is a secondary goal. Winning means building skills and partnerships that last. For more information on FIRST, <a href="http://www.usfirst.org/" target="_blank">visit their website.</a></p>
           </section>
         </div>
         <div class="row">
