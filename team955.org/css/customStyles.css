@@ -228,6 +228,8 @@ body {
 #rO .headerNB {
   border: none;
   font-size: 2.5em;
+  font-family: "RalewayLight";
+  text-align: center;
 }
 
 #rO .logoImg {
