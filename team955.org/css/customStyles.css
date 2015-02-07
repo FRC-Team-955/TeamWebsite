@@ -231,7 +231,8 @@ body {
 }
 
 #r) .logoImg {
-  height: 50%;
+  height: 200px;
+  background-color: #fff;
 }
 
 #rO .titleR {
