@@ -103,10 +103,9 @@
                 <section class="col-xs-12 col-sm-12 col-md-12 col-lg-12 centerV">
                     <h2 class="titleC darkBG">Team Structure</h2>
                     <p>
-                      <b>Sub-teams:</b> CAD, Mechanical, Electrical, Programming, Business, Website, and Scouting<br/>
                       <b>Coach:</b> The Great Jim Bowey <br/>
                       <b>Program Managers:</b> Ryan Dunn and Parker Lewis<br/>
-                      <b>Number Sub-team Captains:</b> 13<br/>
+                      <b>Sub-teams:</b> CAD, Mechanical, Electrical, Programming, Business, Website, and Scouting<br/>
                     </p>
                 </section>
             </div>
