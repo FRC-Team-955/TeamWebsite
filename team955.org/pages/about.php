@@ -99,7 +99,7 @@
         <!-- START STRUCTURE -->
 
         <div class="subpageBox">
-            <div class="row crossScreenImg" id="FIRST"> <!-- set background image by css with the linking id -->
+            <div class="row crossScreenImg" id="structure"> <!-- set background image by css with the linking id -->
                 <section class="col-xs-12 col-sm-12 col-md-12 col-lg-12 centerV">
                     <h2 class="titleC darkBG">Team Structure</h2>
                     <p>
