@@ -281,6 +281,7 @@ body {
   height: 500px;
   overflow: hidden;
   color: #fff;
+  background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
   margin: 0;
@@ -310,10 +311,6 @@ body {
   column-count: 2;
   margin: 0 auto;
   width: 50%;
-}
-
-#rO .crossScreenImg section {
-  vertical-align: middle;
 }
 
 #rO .introUL {
