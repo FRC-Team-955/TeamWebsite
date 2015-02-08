@@ -77,6 +77,14 @@
                 </section>
             </div>
         <div class="row">
+          <section class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+            <img src="" alt="A General FRC Photo" class="imgBorder fullW"/>
+          </section>
+          <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+            <p>FIRST stands for "For Inspiration and Recognition of Science and Technology." It is a non-profit organization that seeks to boost interest in STEAM (science, technology, engineering, art, and mathematics) and develop young people into leaders of those fields. Founded in 1989, FIRST has created many team-structured opportunities to help accomplish their goal, such as FLL, FTC, and FRC.</p>
+          </section>
+        </div>
+        <div class="row">
           <section class="roboR col-xs-12 col-sm-4 col-md-4 col-lg-4">
             <img src="" alt="A General FRC Photo" class="imgBorder fullW"/>
           </section>
