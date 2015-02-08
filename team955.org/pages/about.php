@@ -68,7 +68,7 @@
 
         <div class="subpageBox">
             <div class="row crossScreenImg" id="FIRST"> <!-- set background image by css with the linking id -->
-                <section class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <section class="col-xs-12 col-sm-12 col-md-12 col-lg-12 titleC">
                     <h2 class="titleC darkBG">FIRST Robotics Programs</h2>
                 </section>
                 <section class="row logoImgRow">
@@ -102,7 +102,7 @@
             <div class="row crossScreenImg" id="structure"> <!-- set background image by css with the linking id -->
                 <section class="col-xs-12 col-sm-12 col-md-12 col-lg-12 centerV">
                     <h2 class="titleC darkBG">Team Structure</h2>
-                    <p>
+                    <p class="titleC">
                       <b>Coach:</b> The Great Jim Bowey <br/>
                       <b>Program Managers:</b> Ryan Dunn and Parker Lewis<br/>
                       <b>Sub-teams:</b> CAD, Mechanical, Electrical, Programming, Business, Website, and Scouting<br/>
@@ -125,10 +125,6 @@
         </div>
         </div>
         <div class="bodyText container-fluid">
-        <div class="row" id="FIRST"><h2></h2>
-        </div>
-        <div class="row" id="structure"><h2></h2>
-        </div>
         <div class="row" id="mentors"><h2></h2>
         </div>
         <div class="row" id="robots"><h2></h2>
