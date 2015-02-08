@@ -32,8 +32,8 @@
             <img src="../images/pagePhotos/image3.jpg" alt="Students plan for the season to come." class="imgBorder fullW"/>
           </section>
           <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
-            <p>The Crescent Valley High School Robotics Team was founded in September 2002 by engineering teacher Mark Baldwin and twelve students. Our team (<abbr title="FIRST Robotics Competition">FRC</abbr> Team 955) is part of the NASA sponsored <abbr title="For Inspiration and Recognition of Science and Technology">FIRST</abbr> program. Each year we compete in the worldwide FRC challenge.</p>
-            <p>Since our founding we have grown into more than just a robotics team. We have become a family of over 40 diverse students connected by a shared passion for science, technology, engineering, art, and mathematics (STEAM). Our current coach, Jim Bowey, leads this group of students, mentors, parents, and business partners in the pursuit of our shared passion. </p>
+            <p>The Crescent Valley High School Robotics Team (<abbr title="FIRST Robotics Competition">FRC</abbr> Team 955) was founded in September 2002 by engineering teacher Mark Baldwin, an applied arts teacher at Crescent Valley High School. We are now a 14 year old FIRST Robotics team, and have grown from just twelve students in 2002 to a family of over 40 diverse students in recent years. The team is a club activity at Crescent Valley High School in Corvallis Oregon, and is a part of the NASA sponsored <abbr title="For Inspiration and Recognition of Science and Technology">FIRST</abbr> program. Each year we participate in community education and outreach activities, and compete in local robotics competitions and the worldwide FRC challenge.</p>
+            <p>Since our founding we have grown into more than just a robotics team. We are connected by a shared passion for science, technology, engineering, art, and mathematics (STEAM). Our current coach, Jim Bowey, leads this group of students, mentors, parents, and business partners in the pursuit of our shared passion. </p>
           </section>
         </div>
         <div class="row">
@@ -47,7 +47,7 @@
         </div>
         <div class="row">
                 <section class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-                    <h2 class="titleC">Goals of Ours</h2>
+                    <h2 class="titleC">Some of our Goals</h2>
                 </section>
                 <section class=" col-xs-12 col-sm-3 col-md-3 col-lg-3">
                     <p>We constantly strive to increase the amount of time we spend volunteering, primarily by going to elementary schools to actively engage younger students in science and technology education. This extends to middle schools as well. This is a way to spread the FIRST message while recruiting inspired students for future years. We highly value promoting enthusiasm for science and technology in younger students.</p>
@@ -63,6 +63,8 @@
                 </section>
             </div>
         </div>
+
+        <!-- START FIRST -->
 
         <div class="subpageBox">
             <div class="row crossScreenImg" id="FIRST"> <!-- set background image by css with the linking id -->
@@ -91,6 +93,37 @@
           <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
             <p>The FIRST Robotics Competition (FRC) is an international varsity sport of the mind designed to help high-school-aged young people discover how interesting and rewarding the life of engineers and researchers can be. The FIRST Robotics Competition tests the ability of teams and their mentors to complete a challenge in a six-week time frame using a common set of rules. Teams build robots from industrial-grade parts and enter them in competitions designed by Dean Kamen, Dr. Woodie Flowers, and a committee of engineers and other professionals. FIRST redefines winning for these students because they are rewarded for more than just their robot's ability to win. Not only are teams recognized for excellence and creativity in robot design, but they must also demonstrate team spirit, involvement in their communities, gracious professionalism, maturity, and the ability to overcome obstacles. Scoring the most points is a secondary goal. Winning means building skills and partnerships that last. For more information on FIRST, <a href="http://www.usfirst.org/" target="_blank">visit their website.</a></p>
           </section>
+        </div>
+        </div>
+
+        <!-- START STRUCTURE -->
+
+        <div class="subpageBox">
+            <div class="row crossScreenImg" id="FIRST"> <!-- set background image by css with the linking id -->
+                <section class="col-xs-12 col-sm-12 col-md-12 col-lg-12 centerV">
+                    <h2 class="titleC darkBG">Team Structure</h2>
+                    <p>
+                      <b>Sub-teams:</b> CAD, Mechanical, Electrical, Programming, Business, Website, and Scouting<br/>
+                      <b>Coach:</b> The Great Jim Bowey <br/>
+                      <b>Program Managers:</b> Ryan Dunn and Parker Lewis<br/>
+                      <b>Number Sub-team Captains:</b> 13<br/>
+                    </p>
+                </section>
+            </div>
+        <div class="row">
+          <section class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+            <img src="" alt="A General FRC Photo" class="imgBorder fullW"/>
+          </section>
+          <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+          </section>
+        </div>
+        <div class="row">
+          <section class="roboR col-xs-12 col-sm-4 col-md-4 col-lg-4">
+            <img src="" alt="A General FRC Photo" class="imgBorder fullW"/>
+          </section>
+          <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+          </section>
+        </div>
         </div>
         <div class="bodyText container-fluid">
         <div class="row" id="FIRST"><h2></h2>
