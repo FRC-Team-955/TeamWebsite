@@ -114,7 +114,7 @@
             <img src="" alt="A General FRC Photo" class="imgBorder fullW"/>
           </section>
           <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
-            <p>Our team utilizes a fairly flat engineering leadership structure. Team responsibilities are divided among the two program managers, Ryan Dunn and Parker Lewis.  The two managers essentially plan large scale activities; one for the business side and one manager for the robot side. Other student leaders work with them to help lead the various sub-teams. This provides numerous opportunities for students to develop technical, business, leaderships and organizational skills.</p>
+            <p>Our team utilizes a fairly flat engineering leadership structure. Team responsibilities are divided among the two program managers, Ryan Dunn and Parker Lewis.  The two managers essentially plan large scale activities: one manager for the robot side and one for the business side. Other student leaders work with them to help lead the various sub-teams. This provides numerous opportunities for students to develop technical, business, leaderships and organizational skills.</p>
           </section>
         </div>
         <div class="row">
