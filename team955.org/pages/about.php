@@ -69,7 +69,7 @@
                 <section class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
                     <h2 class="titleC darkBG">FIRST Robotics Programs</h2>
                 </section>
-                <section class="row">
+                <section class="row logoImgRow">
                     <a href="http://www.usfirst.org/roboticsprograms/frc" target="_blank"><img src="../images/brands/FRCicon.png" class="logoImg img-circle col-xs-3 col-sm-3 col-md-3 col-lg-3" alt="FIRST Robotics Competition"></a>
                     <a href="http://www.usfirst.org/roboticsprograms/ftc" target="_blank"><img src="../images/brands/FTCicon.png" class="logoImg img-circle col-xs-3 col-sm-3 col-md-3 col-lg-3" alt="FIRST Tech Challenge"></a>
                     <a href="http://www.usfirst.org/roboticsprograms/fll" target="_blank"><img src="../images/brands/FLLicon.png" class="logoImg img-circle col-xs-3 col-sm-3 col-md-3 col-lg-3" alt="FIRST Lego League"></a>

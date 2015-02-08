@@ -235,6 +235,12 @@ body {
 #rO .logoImg {
   margin: 0 2%;
   background-color: #fff;
+  padding: 0;
+}
+
+#rO .logoImgRow {
+  margin: 0 auto;
+  position: relative;
 }
 
 #rO .titleR {
