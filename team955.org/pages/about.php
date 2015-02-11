@@ -111,26 +111,18 @@
             </div>
         <div class="row">
           <section class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
-            <img src="../images/image4.jpg" alt="Students work closely with mentors and Coach Bowey" class="imgBorder fullW"/>
+            <img src="../images/pagePhotos/image4.jpg" alt="Students work closely with mentors and Coach Bowey" class="imgBorder fullW"/>
           </section>
           <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
             <p>Our team utilizes a fairly flat engineering leadership structure. Team responsibilities are divided among the two program managers, Ryan Dunn and Parker Lewis.  The two managers essentially plan large scale activities: one manager for the robot side and one for the business side. Other student leaders work with them to help lead the various sub-teams. This provides numerous opportunities for students to develop technical, business, leaderships and organizational skills.</p>
           </section>
         </div>
         <div class="row">
-          <section class="roboR col-xs-12 col-sm-4 col-md-4 col-lg-4">
-            <img src="" alt="A General FRC Photo" class="imgBorder fullW"/>
+          <section class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+            <img src="../images/pagePhotos/image9.jpg" alt="Ryan Dunn inspects parts with mentor Mr. Groom" class="imgBorder fullW"/>
           </section>
           <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
             <p>Since our founding we have grown into more than just a robotics team. We have become a family of diverse students connected by a shared passion for <abbr title="Science, Technology, Engineering, Art, and Mathematics">STEAM</abbr> and robotics. Our current coach, Jim Bowey, leads this family of students, mentors, parents, and business partners in the pursuit of our shared passion.</p>
-          </section>
-        </div>
-        <div class="row">
-          <section class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
-            <img src="" alt="A General FRC Photo" class="imgBorder fullW"/>
-          </section>
-          <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
-            <p></p>
             <ul>
               <li><b>Engineering Manager:</b> Ryan Dunn</li>
               <li><b>Business Manager:</b> Parker Lewis</li>
