@@ -1,3 +1,4 @@
+$('body').scrollspy({ target: '#navbar'});
 $(document).ready(function(){
   $(document).on("scroll",function(){
     if ($(".navbar-toggle").css("display") == "none") {
