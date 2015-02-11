@@ -33,19 +33,12 @@
           </section>
           <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
             <p>The Crescent Valley High School Robotics Team (<abbr title="FIRST Robotics Competition">FRC</abbr> Team 955) was founded in September 2002 by engineering teacher Mark Baldwin, an applied arts teacher at Crescent Valley High School. We are now a 14 year old FIRST Robotics team, and have grown from just twelve students in 2002 to a family of over 40 diverse students in recent years. The team is a club activity at Crescent Valley High School in Corvallis Oregon, and is a part of the NASA sponsored <abbr title="For Inspiration and Recognition of Science and Technology">FIRST</abbr> program. Each year we participate in community education and outreach activities, and compete in local robotics competitions and the worldwide FRC challenge.</p>
+            <p>To spread the word about robotics, the team participates in local science and engineering fairs as well as various other community events. From the Da Vinci Days Scrimmage to the Philomath Frolic, the students teach community members about the program. The team also goes to local middle schools and attends elementary school science fairs to encourage the students to explore science and technology, and possibly join our team when they go into high school.</p>
           </section>
         </div>
         <div class="row">
           <section class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
             <img src="../images/pagePhotos/image16.jpg" alt="Manufacturing is done by a joint effort of mentors and students" class="imgBorder fullW"/>
-          </section>
-          <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
-            <p>To spread the word about robotics, the team participates in local science and engineering fairs as well as various other community events. From the Da Vinci Days Scrimmage to the Philomath Frolic, the students teach community members about the program. The team also goes to local middle schools and attends elementary school science fairs to encourage the students to explore science and technology, and possibly join our team when they go into high school.</p>
-          </section>
-        </div>
-        <div class="row">
-          <section class="roboR col-xs-12 col-sm-4 col-md-4 col-lg-4">
-            <img src="" alt="" class="imgBorder fullW"/>
           </section>
           <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
             <p>Since our rookie year, when we earned the Motorola Quality Award at the Pacific Northwest Regionals, we have maintained a history of quality and craftsmanship. Below is a list of some of our accomplishments so far:</p>
