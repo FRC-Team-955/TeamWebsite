@@ -33,7 +33,6 @@
           </section>
           <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
             <p>The Crescent Valley High School Robotics Team (<abbr title="FIRST Robotics Competition">FRC</abbr> Team 955) was founded in September 2002 by engineering teacher Mark Baldwin, an applied arts teacher at Crescent Valley High School. We are now a 14 year old FIRST Robotics team, and have grown from just twelve students in 2002 to a family of over 40 diverse students in recent years. The team is a club activity at Crescent Valley High School in Corvallis Oregon, and is a part of the NASA sponsored <abbr title="For Inspiration and Recognition of Science and Technology">FIRST</abbr> program. Each year we participate in community education and outreach activities, and compete in local robotics competitions and the worldwide FRC challenge.</p>
-            <p>Since our founding we have grown into more than just a robotics team. We are connected by a shared passion for science, technology, engineering, art, and mathematics (STEAM). Our current coach, Jim Bowey, leads this group of students, mentors, parents, and business partners in the pursuit of our shared passion. </p>
           </section>
         </div>
         <div class="row">
@@ -41,8 +40,24 @@
             <img src="../images/pagePhotos/image16.jpg" alt="Manufacturing is done by a joint effort of mentors and students" class="imgBorder fullW"/>
           </section>
           <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
-            <p></p>
-            <p></p>
+            <p>To spread the word about robotics, the team participates in local science and engineering fairs as well as various other community events. From the Da Vinci Days Scrimmage to the Philomath Frolic, the students teach community members about the program. The team also goes to local middle schools and attends elementary school science fairs to encourage the students to explore science and technology, and possibly join our team when they go into high school.</p>
+          </section>
+        </div>
+        <div class="row">
+          <section class="roboR col-xs-12 col-sm-4 col-md-4 col-lg-4">
+            <img src="" alt="" class="imgBorder fullW"/>
+          </section>
+          <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+            <p>Since our rookie year, when we earned the Motorola Quality Award at the Pacific Northwest Regionals, we have maintained a history of quality and craftsmanship. Below is a list of some of our accomplishments so far:</p>
+            <ul>
+              <li><b>2002:</b> Motorola Quality Award, World Championships Qualification</li>
+              <li><b>2003:</b> PNW Regional Finalist, World Championships Qualification</li>
+              <li><b>2004:</b> Sacramento Regional Winner, Autodesk Visualization Award, World Championships Qualification</li>
+              <li><b>2006:</b> Sacramento Regional Finalist, PNW Regional Finalist, Website Award</li>
+              <li><b>2011:</b> Entrepreneurship Award</li>
+              <li><b>2013:</b> PNW Regional Winner, Industrial Design Award, Industrial Safety Award, World Championships Qualification</li>
+              <li><b>2014:</b> Entrepreneurship Award, Industrial Design Award, World Championships Qualification</li>
+            </ul>
           </section>
         </div>
         <div class="row">
@@ -118,7 +133,7 @@
           </section>
         </div>
         <div class="row">
-          <section class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+          <section class="roboR col-xs-12 col-sm-4 col-md-4 col-lg-4">
             <img src="../images/pagePhotos/image9.jpg" alt="Ryan Dunn inspects parts with mentor Mr. Groom" class="imgBorder fullW"/>
           </section>
           <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
