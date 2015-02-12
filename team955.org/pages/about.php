@@ -80,9 +80,9 @@
                     <h2 class="titleC darkBG">FIRST Robotics Programs</h2>
                 </section>
                 <section class="col-md-8 .col-md-offset-2">
-                    <a href="http://www.usfirst.org/roboticsprograms/frc" target="_blank"><img src="../images/brands/FRCicon.png" class="logoImg img-circle col-xs-4 col-sm-4 col-md-4" alt="FIRST Robotics Competition"></a>
-                    <a href="http://www.usfirst.org/roboticsprograms/ftc" target="_blank"><img src="../images/brands/FTCicon.png" class="logoImg img-circle col-xs-4 col-sm-4 col-md-4" alt="FIRST Tech Challenge"></a>
-                    <a href="http://www.usfirst.org/roboticsprograms/fll" target="_blank"><img src="../images/brands/FLLicon.png" class="logoImg img-circle col-xs-4 col-sm-4 col-md-4" alt="FIRST Lego League"></a>
+                    <a href="http://www.usfirst.org/roboticsprograms/frc" class="col-xs-4 col-sm-4 col-md-4" target="_blank"><img src="../images/brands/FRCicon.png" class="logoImg img-circle" alt="FIRST Robotics Competition"></a>
+                    <a href="http://www.usfirst.org/roboticsprograms/ftc" class="col-xs-4 col-sm-4 col-md-4" target="_blank"><img src="../images/brands/FTCicon.png" class="logoImg img-circle" alt="FIRST Tech Challenge"></a>
+                    <a href="http://www.usfirst.org/roboticsprograms/fll" class="col-xs-4 col-sm-4 col-md-4" target="_blank"><img src="../images/brands/FLLicon.png" class="logoImg img-circle" alt="FIRST Lego League"></a>
                     <br/>
                     <h2 class="headerNB darkBG col-md-12">CV Robotics is a <abbr title="FIRST Robotics Competition">FRC</abbr> team that was founded in 2002.</h3>
                 </section>
