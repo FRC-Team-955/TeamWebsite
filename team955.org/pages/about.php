@@ -57,16 +57,16 @@
                 <section class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
                     <h2 class="titleC">Some of our Goals</h2>
                 </section>
-                <section class=" col-xs-12 col-sm-3 col-md-3 col-lg-3">
+                <section class=" col-xs-12 col-sm-3 col-md-3">
                     <p>We constantly strive to increase the amount of time we spend volunteering, primarily by going to elementary schools to actively engage younger students in science and technology education. This extends to middle schools as well. This is a way to spread the FIRST message while recruiting inspired students for future years. We highly value promoting enthusiasm for science and technology in younger students.</p>
                 </section>
-                <section class="quarterRow col-xs-12 col-sm-3 col-md-3 col-lg-3">
+                <section class="quarterRow col-xs-12 col-sm-3 col-md-3">
                       <p>A goal of ours is also to streamline fundraising methods that allow the team to work towards providing funds for our program while still allowing students to focus on participating in robotics. We hope that by establishing annual community fundraisers, such as Mother’s Day flower sales, our program will become sustainable and decrease the overall time we spend fundraising to allow for more robotics activities.</p>
                 </section>
-                <section class="quarterRow col-xs-12 col-sm-3 col-md-3 col-lg-3">
+                <section class="quarterRow col-xs-12 col-sm-3 col-md-3">
                       <p>We aim to increase the number of partnerships within the local community to promote investment in FIRST and its programs. This will allow the team to exert less effort in fundraising, and put a larger amount of effort into community outreach programs, like Da Vinci Days. Such partnerships link us to our community, and maintaining these partnerships increases the sustainability of our program in future years.</p>
                 </section>
-                <section class="quarterRow col-xs-12 col-sm-3 col-md-3 col-lg-3">
+                <section class="quarterRow col-xs-12 col-sm-3 col-md-3">
                       <p>As well as raise the current level of awareness of all sub-team activities within our team. This will allow our team to better function as a whole, and create less miscommunication between sub-teams, like coordinating team activities that involve all members; including fundraisers, or even competition deadlines.</p>
                 </section>
             </div>
@@ -80,9 +80,9 @@
                     <h2 class="titleC darkBG">FIRST Robotics Programs</h2>
                 </section>
                 <section class="row logoImgRow">
-                    <a href="http://www.usfirst.org/roboticsprograms/frc" target="_blank"><img src="../images/brands/FRCicon.png" class="logoImg img-circle col-xs-3 col-sm-3 col-md-3 col-lg-3" alt="FIRST Robotics Competition"></a>
-                    <a href="http://www.usfirst.org/roboticsprograms/ftc" target="_blank"><img src="../images/brands/FTCicon.png" class="logoImg img-circle col-xs-3 col-sm-3 col-md-3 col-lg-3" alt="FIRST Tech Challenge"></a>
-                    <a href="http://www.usfirst.org/roboticsprograms/fll" target="_blank"><img src="../images/brands/FLLicon.png" class="logoImg img-circle col-xs-3 col-sm-3 col-md-3 col-lg-3" alt="FIRST Lego League"></a>
+                    <a href="http://www.usfirst.org/roboticsprograms/frc" target="_blank"><img src="../images/brands/FRCicon.png" class="logoImg img-circle col-xs-3 col-sm-3 col-md-3" alt="FIRST Robotics Competition"></a>
+                    <a href="http://www.usfirst.org/roboticsprograms/ftc" target="_blank"><img src="../images/brands/FTCicon.png" class="logoImg img-circle col-xs-3 col-sm-3 col-md-3" alt="FIRST Tech Challenge"></a>
+                    <a href="http://www.usfirst.org/roboticsprograms/fll" target="_blank"><img src="../images/brands/FLLicon.png" class="logoImg img-circle col-xs-3 col-sm-3 col-md-3" alt="FIRST Lego League"></a>
                     <h2 class="headerNB darkBG col-xs-12 col-sm-12 col-md-12 col-lg-12">CV Robotics is a <abbr title="FIRST Robotics Competition">FRC</abbr> team that was founded in 2002.</h3>
                 </section>
             </div>
