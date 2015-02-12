@@ -89,7 +89,7 @@
             </div>
         <div class="row">
           <section class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
-            <img src="" alt="A General FRC Photo" class="imgBorder fullW"/>
+            <img src="../images/pagePhotos/image6.jpg" alt="FIRST provides an amazing experience for diverse groups of people." class="imgBorder fullW"/>
           </section>
           <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
             <p>FIRST stands for "For Inspiration and Recognition of Science and Technology." It is a non-profit organization that seeks to boost interest in STEAM (science, technology, engineering, art, and mathematics) and develop young people into leaders of those fields. Founded in 1989, FIRST has created many team-structured opportunities to help accomplish their goal, such as FLL, FTC, and FRC.</p>
@@ -98,7 +98,7 @@
         </div>
         <div class="row">
           <section class="roboR col-xs-12 col-sm-4 col-md-4 col-lg-4">
-            <img src="" alt="A General FRC Photo" class="imgBorder fullW"/>
+            <img src="../images/pagePhotos/image5.jpg" alt="There's always a robot being worked on." class="imgBorder fullW"/>
           </section>
           <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
             <p>Recently, Brandeis University's Center for Youth and Communities conducted an independent, retrospective survey of FIRST Robotics Competition participants and compared results to a group of non-FIRST students with similar backgrounds and academic experiences, including math and science. Highlights of the study's findings include: When compared with the comparison group, FIRST students are: Significantly more likely to attend college on a full-time basis than comparison students (88% vs. 53%) More than 3 times as likely to major specifically in engineering. Roughly 10 times as likely to have had an apprenticeship, internship, or co-op job in their freshman year. Significantly more likely to expect to achieve a postgraduate degree. More than twice as likely to expect to pursue a career in science and technology. Nearly 4 times as likely to expect to pursue a career specifically in engineering. More than twice as likely to volunteer in their communities. You can see the whole survey <a href="http://www.usfirst.org/aboutus/impact" targer="_blank">here</a>.</p>
