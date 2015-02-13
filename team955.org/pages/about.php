@@ -76,6 +76,7 @@
 
         <div class="subpageBox">
             <div class="row crossScreenImg" id="FIRST"> <!-- set background image by css with the linking id -->
+                <div class+"centerV">
                 <section class="col-md-12 titleC">
                     <h2 class="titleC darkBG">FIRST Robotics Programs</h2>
                 </section>
@@ -86,6 +87,7 @@
                     <br/>
                     <h2 class="headerNB darkBG col-md-12">CV Robotics is a <abbr title="FIRST Robotics Competition">FRC</abbr> team that was founded in 2002.</h3>
                 </section>
+                </div>
             </div>
         <div class="row">
           <section class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
@@ -153,14 +155,5 @@
           </section>
         </div>
         </div>
-        <div class="bodyText container-fluid">
-        <div class="row" id="mentors"><h2></h2>
-        </div>
-        <div class="row" id="robots"><h2></h2>
-        </div>
-        <div class="row" id="colophon"><h2></h2>
-        </div>
-      </div> <!-- End .bodyText -->
       <?php include "../includes/endDoc.php"; ?>
-    </body>
 </html>

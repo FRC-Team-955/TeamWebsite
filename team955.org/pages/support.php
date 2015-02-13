@@ -18,5 +18,4 @@
         </div>
       </div> <!-- End .bodyText -->
       <?php include "../includes/endDoc.php"; ?>
-    </body>
 </html>
