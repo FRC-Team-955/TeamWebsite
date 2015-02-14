@@ -76,7 +76,7 @@
 
         <div class="subpageBox">
             <div class="row crossScreenImg" id="FIRST"> <!-- set background image by css with the linking id -->
-                <div class+"centerV">
+                <div class="centerV">
                 <section class="col-md-12 titleC">
                     <h2 class="titleC darkBG">FIRST Robotics Programs</h2>
                 </section>
@@ -154,6 +154,29 @@
             </ul>
           </section>
         </div>
+        <div class="row">
+            <section class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+              <img src="../images/pagePhotos/" alt="" class="imgBorder fullW"/>
+            </section>
+            <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+              <p>Our over 40 students team members provide a great deal of student diversity on our team. Students include boys and girls from Freshmen through Seniors with interests in mechanical engineering, electrical engineering, computer science, web page design, business management, art and photography. Mentors are a vital part of the team, as they provide us with support and experience. All mentors are volunteers and often have another job that they go to everyday before coming to robotics. The team employs a full time coach, as well.</p>
+            </section>
+          </div>
+        </div>
+        <div class="subpageBox">
+          <div class="row crossScreenImg" id="mentors"> <!-- set background image by css with the linking id -->
+            <section class="col-md-12 centerV">
+              <h2 class="titleC darkBG">Mentors</h2>
+                <p class="titleC">Our team simply would not be where we are today without all the help and support of our outstanding mentors.</p>
+            </section>
+          </div>
+          <div class="row">
+            <section class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+              <img src="../images/pagePhotos/" alt="" class="imgBorder fullW"/>
+            </section>
+            <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+            </section>
+          </div>
         </div>
       <?php include "../includes/endDoc.php"; ?>
 </html>
