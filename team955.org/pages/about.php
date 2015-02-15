@@ -170,10 +170,10 @@
           </div>
           <div class="row">
             <section class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
-              <img src="../images/pagePhotos/" alt="" class="imgBorder fullW"/>
+              <img src="../images/pagePhotos/image1.jpg" alt="Mentors closely col" class="imgBorder fullW"/>
             </section>
             <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
-                <h2 class="titleR">2014-15 Mentors</h2>
+                <h2 class="titleL">2014-15 Mentors</h2>
                 <ul>
                   <li>Annie Smith</li>
                   <li>Brenda Brumbaugh</li>
