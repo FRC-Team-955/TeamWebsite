@@ -14,6 +14,11 @@
             <section class="col-md-12 centerV">
               <h2 class="titleC darkBG">Donations</h2>
             </section>
+            <section class="offset-col-md-3 col-md-6">
+              <div class="col-md-6">Please give a tax deductible gift through the <a href="http://cpsfoundation.org/ ">Corvallis School District online</a>.
+Donations given through this method should specify CV Robotics on the online form.</div>
+              <div class="col-md-6">Or, cash and checks can be given to Coach Bowey along with a completed Donor Card form, for record keeping purposes</div>
+            </section>
             <section
           </div>
           <div class="row">
@@ -37,10 +42,9 @@
         </div>
         <div class="subpageBox">
           <div class="row crossScreenImg" id="sponsors"> <!-- set background image by css with the linking id -->
-            <section class="col-md-12 centerV">
+            <section class="col-md-12">
               <h2 class="titleC darkBG">Sponsors</h2>
             </section>
-            <section
           </div>
           <div class="row">
             <section class="col-md-12">
