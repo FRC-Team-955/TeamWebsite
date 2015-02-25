@@ -14,7 +14,7 @@
             <section class="col-md-12 centerV">
               <h2 class="titleC darkBG">Donations</h2>
             </section>
-            <section 
+            <section
           </div>
           <div class="row">
             <section class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
@@ -31,7 +31,20 @@
               <img src="../images/pagePhotos/" alt="" class="imgBorder fullW"/>
             </section>
             <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
-              
+
+            </section>
+          </div>
+        </div>
+        <div class="subpageBox">
+          <div class="row crossScreenImg" id="sponsors"> <!-- set background image by css with the linking id -->
+            <section class="col-md-12 centerV">
+              <h2 class="titleC darkBG">Sponsors</h2>
+            </section>
+            <section
+          </div>
+          <div class="row">
+            <section class="col-md-12">
+              <p>Sponsors are a key component of our team, providing funds and supplies to support building the robot and other team activities.  We send sponsors newsletters during the year to keep them up to date with our work, and show them the results of their support.  We visit sponsors in person to build solid relationships and lasting partnerships, which in turn helps us with machining parts and getting donated materials.  Sponsors are invited to all of our robotics scrimmages, outreach events, and competitions. They are also invited to come visit us during the build season to see us at work.  In exchange for their donation, sponsors are also given different levels of recognition depending on the size of the donation.  These recognition levels are explained in the donations section.</p>
             </section>
           </div>
         </div>

@@ -252,7 +252,8 @@ body {
 }
 
 #rO q {
-  text-align: center;
+  margin: 0 2%;
+  font-style: italic;
 }
 
 #rO p {
