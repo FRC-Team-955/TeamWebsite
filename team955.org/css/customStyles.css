@@ -346,8 +346,8 @@ body {
     padding: 5px 0;
   }
 
-  #rO .navbar-brand {
-    padding: 0;
+  #rO .navbar-toggle {
+    margin-right: 0;
   }
 
   #rO .titleR,
