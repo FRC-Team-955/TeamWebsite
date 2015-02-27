@@ -37,10 +37,22 @@
               <img src="../images/pagePhotos/" alt="" class="imgBorder fullW"/>
             </section>
             <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
-
+              <p>We are raising money to help support Team 955 in order to keep going strong as one of the most competitive teams in the Northwest Region.  Being a competitive team helps create a better learning experience and generates higher motivation for all involved.  Our team takes a businesslike approach to gaining sponsors, and running the team.  Our a large mechanical team designs, builds, and tests the robot.  Our business team works on marketing, competitive analysis, and the team’s website.  This two-sided approach requires much time and energy from the mentors and students both, but proves to be worth it when we’re able to complete the business and mechanical aspect of the team in minimal time.  Students in the business team quickly learn that the main element of a successful business is communication with your colleagues, so that you may collaborate and work together to solve issues, and complete tasks.  This tried and tested method has proven itself time and time again, as almost every member who has been a part of our team, sees success in their future and enters a high-ranking college.
+</p>
+            </section>
+          </div>
+          <div class="row">
+            <section class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+              <img src="../images/pagePhotos/" alt="" class="imgBorder fullW"/>
+            </section>
+            <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+              <p>We need your help. We have bright engaged students and dedicated community mentors. Financial support is crucial as costs for this program are high, from robot parts to competition entry fees to travel expenses, but school resources are limited.</p>
+              <p>Again, we would like to thank you for your support of CV Robotics, whether as a student on the team, a parent volunteer or mentor who helped support our students and get the robot built, or as a sponsor who helped fund the team in the past. Your donation this year - no matter what size - can make a difference. Please click on the donation button at right to make a tax deductible credit card or paypal donation or mail your check to "Corvallis Public Schools Foundation" earmarked "CV Robotics". As a team, we want to make it possible for students and our community to continue to reap the benefits of participation the the FIRST robotics program.</p>
             </section>
           </div>
         </div>
+
+        <!-- START SPONSORS-->
         <div class="subpageBox">
           <div class="row crossScreenImg" id="sponsors"> <!-- set background image by css with the linking id -->
             <section class="col-md-12">
