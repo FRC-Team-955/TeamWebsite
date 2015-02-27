@@ -15,7 +15,7 @@
               <h2 class="titleC darkBG">Donations</h2>
             </section>
             <section class="col-md-offset-3 col-md-6">
-              <div class="col-md-6">Please give a tax deductible gift through the <a href="http://cpsfoundation.org/ ">Corvallis School District online</a>.
+              <div class="col-md-6">Please give a tax deductible gift through the <a href="http://cpsfoundation.org" class="dark">Corvallis School District online</a>.
 Donations given through this method should specify CV Robotics on the online form.</div>
               <div class="col-md-6">Or, cash and checks can be given to Coach Bowey along with a completed Donor Card form, for record keeping purposes</div>
             </section>
