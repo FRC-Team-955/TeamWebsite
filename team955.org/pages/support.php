@@ -19,7 +19,6 @@
 Donations given through this method should specify CV Robotics on the online form.</div>
               <div class="col-md-6">Or, cash and checks can be given to Coach Bowey along with a completed Donor Card form, for record keeping purposes</div>
             </section>
-            <section
           </div>
           <div class="row">
             <section class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
