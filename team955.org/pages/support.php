@@ -42,9 +42,6 @@
             </section>
           </div>
           <div class="row">
-            <section class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
-              <img src="../images/pagePhotos/" alt="" class="imgBorder fullW"/>
-            </section>
             <section class="col-md-offset-2 col-md-8">
               <section class="col-md-6">
                 <h2 class="titleC">Friend</h2>
