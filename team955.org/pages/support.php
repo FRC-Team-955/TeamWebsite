@@ -11,14 +11,16 @@
       <?php include "../includes/header.php"; ?> <!-- This will include everything before .bodyText -->
       <div class="subpageBox">
           <div class="row crossScreenImg" id="donations"> <!-- set background image by css with the linking id -->
-            <section class="col-md-12">
-              <h2 class="titleC darkBG">Donations</h2>
-            </section>
-            <section class="col-md-offset-3 col-md-6">
-              <div class="col-md-6">Please give a tax deductible gift through the <a href="http://cpsfoundation.org" class="dark">Corvallis School District online</a>.
-Donations given through this method should specify CV Robotics on the online form.</div>
-              <div class="col-md-6">Or, cash and checks can be given to Coach Bowey along with a completed Donor Card form, for record keeping purposes</div>
-            </section>
+            <div class="centerV">
+              <section class="col-md-12">
+                <h2 class="titleC darkBG">Donations</h2>
+              </section>
+              <section class="col-md-offset-3 col-md-6">
+                <div class="col-md-6">Please give a tax deductible gift through the <a href="http://cpsfoundation.org" class="dark">Corvallis School District online</a>.
+  Donations given through this method should specify CV Robotics on the online form.</div>
+                <div class="col-md-6">Or, cash and checks can be given to Coach Bowey along with a completed Donor Card form, for record keeping purposes</div>
+              </section>
+            </div>
           </div>
           <div class="row">
             <section class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
