@@ -45,6 +45,27 @@
             <section class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
               <img src="../images/pagePhotos/" alt="" class="imgBorder fullW"/>
             </section>
+            <section class="col-md-offset-3 col-md-6">
+              <section class="col-md-6">
+                <h2 class="titleC">Friend</h2>
+                Receive email updates, plus invitation to District and Regional competitions, and local scrimmage.<br/>
+                <b>$50-99</b> Raiderbot button<br/>
+                <b>$100-499</b> choice of Raiderbot string bag or t-shirt
+              </section>
+              <section class="col-md-6">
+                <h2 class="titleC">Sponsor</h2>
+                <b>$500-999</b> name on Raiderbot banner<br/>
+                <b>$1,000-2,499</b> above and name on team t-shirt<br/>
+                <b>$2,500-4,999</b> above and 3"x3" logo on robot, name on Highland Road (CV fence) banner, and listing on Regional program<br/>
+                <b>$5,000-20,000</b> above and 4.5"x4.5" logo on Raiderbot, plus logo on Raiderbot letterhead<br/>
+                <b>$20,000+</b> above and larger logo on Raiderbot or 4.5"x4.5" logo on Raiderbot for 3 years, plus thank you in Gazette Times
+              </section>
+            </section>
+          </div>
+          <div class="row">
+            <section class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+              <img src="../images/pagePhotos/" alt="" class="imgBorder fullW"/>
+            </section>
             <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
               <p>We need your help. We have bright engaged students and dedicated community mentors. Financial support is crucial as costs for this program are high, from robot parts to competition entry fees to travel expenses, but school resources are limited.</p>
               <p>Again, we would like to thank you for your support of CV Robotics, whether as a student on the team, a parent volunteer or mentor who helped support our students and get the robot built, or as a sponsor who helped fund the team in the past. Your donation this year - no matter what size - can make a difference. Please click on the donation button at right to make a tax deductible credit card or paypal donation or mail your check to "Corvallis Public Schools Foundation" earmarked "CV Robotics". As a team, we want to make it possible for students and our community to continue to reap the benefits of participation the the FIRST robotics program.</p>
