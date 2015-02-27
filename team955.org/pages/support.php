@@ -11,7 +11,7 @@
       <?php include "../includes/header.php"; ?> <!-- This will include everything before .bodyText -->
       <div class="subpageBox">
           <div class="row crossScreenImg" id="donations"> <!-- set background image by css with the linking id -->
-            <section class="col-md-12 centerV">
+            <section class="col-md-12">
               <h2 class="titleC darkBG">Donations</h2>
             </section>
             <section class="offset-col-md-3 col-md-6">
