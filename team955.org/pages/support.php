@@ -70,10 +70,60 @@
           </div>
         </div>
 
-        <!-- START SPONSORS-->
+        <!-- START FUNDRAISING-->
+        <div class="subpageBox">
+          <div class="row crossScreenImg" id="fundraising"> <!-- set background image by css with the linking id -->
+            <section class="col-md-12 centerV">
+              <h2 class="titleC darkBG">Fundraising</h2>
+            </section>
+          </div>
+          <div class="row">
+            <section class="col-md-12">
+                <p>Our team uses Robotics to teach more skills than just the mechanical and computer programming that most people think about. We choose to run fundraisers as one of the key means to provide support for our team. We make this choice to allow students an opportunity to learn important business and interpersonal skills. Our fundraising partners are an important part of the success of our team and we acknowledge them through publicity on our team shirts, pit banners, and other methods. Aside from the benefit of our students gaining important skills, the team also receives other benefits, such as mentors from HP, in-kind donations from Winco Foods and Panera, and free software from Solidworks.</p>
+            </section>
+          </div>
+          <div class="row">
+            <section class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+              <img src="../images/pagePhotos/" alt="Flower baskets are sold yearly by students." class="imgBorder fullW"/>
+            </section>
+            <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+              <h2 class="titleL">Mother's Day flower basket sale</h2>
+              <p>This is our biggest single source of funding. In late April and early May we go door to door selling tickets for a $25 flower basket from Davis Family farm. For each ticket sold, the team receives $10, and each student is required to sell 20 apiece. This gives the students an opportunity to work together, as most of them travel in groups around neighborhoods, looking to reach their individual goal.</p>
+            </section>
+          </div>
+          <div class="row">
+            <section class="roboR col-xs-12 col-sm-4 col-md-4 col-lg-4">
+              <img src="../images/pagePhotos/" alt="Tasty pancakes with team spirit." class="imgBorder fullW"/>
+            </section>
+            <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+              <h2 class="titleR">Pancake Breakfast</h2>
+              <p>Generally done in late September or early October, the Pancake Breakfast is one of the larger fundraisers we do each year. The team borrows the Crescent Valley kitchen and produces pancakes on a large scale, to serve to patrons for the majority of the morning. All materials are donated by volunteers, generally parents, and the meal itself is cooked by the students. Students also advertise the event on 9th Street and Circle, and a few other locations to pull in customers. The large majority of the team attends, as well as works in some capacity during the event itself.</p>
+            </section>
+          </div>
+          <div class="row">
+            <section class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+              <img src="../images/pagePhotos/" alt="" class="imgBorder fullW"/>
+            </section>
+            <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+              <h2 class="titleL">Car Wash</h2>
+              <p>We usually do these in mid summer when the build season is over. Its a great time for the team to get back together and have fun in the hot Summer sun. The supplies are donated by parents and mentors of the team. The car wash operates on donations given by members of the community.</p>
+            </section>
+          </div>
+          <div class="row">
+            <section class="roboR col-xs-12 col-sm-4 col-md-4 col-lg-4">
+              <img src="../images/pagePhotos/" alt="" class="imgBorder fullW"/>
+            </section>
+            <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+              <h2 class="titleR">Dine out</h2>
+              <p>Our team supports and works with local businesses through more than just taking donations. We arrange for specific dates with local restaurants for a dine out, a night where the team and the restaurant split proceeds and the team arranges for some more publicity for the restaurant. We post flyers throughout the school and in various places throughout Corvallis. Some of our most profitable and most common dine out partners are; McMenamins, Ruby Tuesdays, and Buffalo Wild Wings.</p>
+            </section>
+          </div>
+        </div>
+        
+        <!--START SPONSORS-->
         <div class="subpageBox">
           <div class="row crossScreenImg" id="sponsors"> <!-- set background image by css with the linking id -->
-            <section class="col-md-12">
+            <section class="col-md-12 centerV">
               <h2 class="titleC darkBG">Sponsors</h2>
             </section>
           </div>
