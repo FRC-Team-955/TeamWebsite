@@ -1,31 +1,31 @@
 @font-face {
     font-family: "GoodTimes";
-    src: url(../fonts/goodtimes.ttf);
+    src: url("../fonts/goodtimes.ttf");
 }
 
 @font-face {
     font-family: "OrbitronBold";
-    src: url(../fonts/Orbitron-Bold.ttf);
+    src: url("../fonts/Orbitron-Bold.ttf");
 }
 
 @font-face {
     font-family: "OpenSans";
-    src: url(../fonts/OpenSans-Regular.ttf);
+    src: url("../fonts/OpenSans-Regular.ttf");
 }
 
 @font-face {
     font-family: "RalewayLight";
-    src: url(../fonts/Raleway-Light.ttf);
+    src: url("../fonts/Raleway-Light.ttf");
 }
 
 @font-face {
     font-family: "RalewayRegular";
-    src: url(../fonts/Raleway-Regular.ttf);
+    src: url("../fonts/Raleway-Regular.ttf");
 }
 
 @font-face {
     font-family: "RalewayMedium";
-    src: url(../fonts/Raleway-Medium.ttf);
+    src: url("../fonts/Raleway-Medium.ttf");
 }
 
 /*Info
@@ -35,6 +35,8 @@
 body {
   background-image: url('../images/bg.png');
   font-family: 'OpenSans';
+  margin: 0;
+  padding: 0;
 }
 
 #rO .navbar-default .navbar-nav > .open > a,
@@ -328,6 +330,34 @@ body {
   border-bottom: none;
 }
 
+/* Resource list styling */
+
+#rO .resourceList {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+#rO .resourceList li{
+  display: inline-block;
+  width: 25%;
+  height: 0;
+  padding: 0;
+  padding-bottom: 25%;
+  float: left;
+  position: relative;
+}
+
+#rO .resourceList a {
+  border: 5px solid #eee;
+  border-radius: 50%;
+  text-align:center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+}
+
 /* jump to top */
 .sometimesUp {
   background-color: rgba(155,155,155,.2);
@@ -400,6 +430,10 @@ body {
 /*support.php files next...*/
 #donations {
   background-image: url("../images/pagePhotos/donations.jpg");
+}
+
+#fundraising {
+  background-image: url("../images/pagePhotos/");
 }
 
 #sponsors {
