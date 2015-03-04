@@ -260,6 +260,10 @@ body {
   font-size: 1.25em;
 }
 
+#rO iframe {
+  border: none;
+}
+
 #rO .fullW {
   width: 100%;
   height: auto;
