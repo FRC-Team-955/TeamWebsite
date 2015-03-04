@@ -14,7 +14,9 @@
           <div class="row crossScreenImg" id="Calendar"> <!-- set background image by css with the linking id -->
             <section class="col-md-12 centerV">
               <h2 class="titleC darkBG">Calendar</h2>
-          <?php include "../includes/calendar.php"; ?>
+              <section class="col-md-8">
+                <iframe src="../includes/calendar.php";></iframe>
+              </section>
             </section>
           </div>
         </div>
