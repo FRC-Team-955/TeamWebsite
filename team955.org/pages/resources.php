@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <!--
   pages/resources.php#student
   pages/resources.php#parent

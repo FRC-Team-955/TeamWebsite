@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <!--
   pages/support.php#donations
   pages/support.php#fundraising
@@ -119,7 +120,7 @@
             </section>
           </div>
         </div>
-        
+
         <!--START SPONSORS-->
         <div class="subpageBox">
           <div class="row crossScreenImg" id="sponsors"> <!-- set background image by css with the linking id -->

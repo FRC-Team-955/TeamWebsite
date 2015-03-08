@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <!--
   pages/about.php#team
   pages/about.php#FIRST
