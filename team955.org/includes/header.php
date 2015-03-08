@@ -79,6 +79,12 @@
                                     </ul>
                                 </li>
                                 <li><a href="http://cvhs.csd509j.net" target="_blank">CVHS</a></li><!--http://cvhs.csd509j.net-->
+                                <li class="dropdown">
+                                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Apps</a>
+                                  <ul class="dropdown-menu" role="menu">
+                                        <li><a href="../opr" target="_blank">OPR Program</a></li>
+                                    </ul>
+                                </li>
                             </ul>
                         </div>
                     </div>

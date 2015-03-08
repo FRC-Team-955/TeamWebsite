@@ -1,0 +1,143 @@
+@font-face
+{
+	font-family: orbitron;
+	src: url("../fonts/orbitron/Orbitron-Medium.ttf") format("truetype");
+}
+
+@font-face
+{
+	font-family: lato;
+	src: url("../fonts/lato/Lato-Medium.ttf");
+}
+
+body
+{
+	background-image: url("../images/background.png");
+	font-family: orbitron;
+	cursor: default;
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
+
+#header
+{
+	background-image: url("../images/background.png");
+	position: fixed;
+	width: 100%;
+	margin-left: 0;
+	margin-right: 0;
+	padding-left: 0;
+	padding-right: 0;
+	top: 0px;
+	left: 0xp;
+	right: 0px;
+	height: 190px;
+	z-index: 1;
+}
+
+#title
+{
+	text-align: center;
+	color: maroon;
+}
+
+#eventCodeContainer
+{
+	width: 370px;
+	margin: 0 auto;
+}
+
+#eventCodeInput
+{
+	float: left;
+	width: 125px;
+}
+
+#eventCodeSubmitButton
+{
+	text-align: center;
+	color: white;
+	float: left;
+	width: 100px;
+	height: 21px;
+	margin-left: 5px;
+	background-color: #840204;
+}
+
+#eventCodeDownloadButton
+{
+	text-align: center;
+	color: white;
+	float: left;
+	width: 125px;
+	height: 21px;
+	margin-left: 10px;
+	background-color: #840204;
+}
+
+/* Table */
+.lightGray
+{
+	background-color: rgb(222, 222, 222);
+}
+
+.gray
+{
+	background-color: rgb(204, 204, 204);
+}
+
+.darkGray
+{
+	background-color: #dfdfdf;
+}
+
+#headerTable
+{
+	width: 1200px;
+	position: absolute;
+	margin: 0 auto;
+	left: 0px;
+	right: 0px;
+	top: 150px;
+}
+
+#dataTable
+{
+	font-family: lato; 
+	width: 1200px;
+	position: absolute;
+	margin: 0 auto;
+	left: 0px;
+	right: 0px;
+	margin-top: 185px;
+}
+
+.table
+{
+/*	border-collapse: collapse*/
+}
+
+.tableRow
+{
+	text-align: center;
+}
+
+.tableCell
+{
+	width: 150px;
+	height: 30px;
+}
+
+.tableCellHeader
+{
+	font-weight: bold;
+}
+
+.tableCellHeader:hover
+{
+	opacity: .75;
+}

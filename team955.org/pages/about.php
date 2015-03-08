@@ -202,7 +202,7 @@
         <!-- START ROBOTS -->
 
         <div class="subpageBox">
-          <div class="row crossScreenImg" id="robots"> <!-- set background image by css with the linking id -->
+          <div class="row crossScreenImg" id="robots"> <!-- set background image by css with the linking id -->git submodule foreach git pull origin master
             <section class="col-md-12 centerV">
               <h2 class="titleC darkBG">Past Robots</h2>
               <p>We've made a few robots in our time, here's a list of them.</p>
