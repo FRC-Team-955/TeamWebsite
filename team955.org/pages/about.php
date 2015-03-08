@@ -14,18 +14,18 @@
       <?php include "../includes/header.php"; ?> <!-- This will include everything before .bodyText -->
         <div class="subpageBox">
         <div class="row crossScreenImg" id="team"> <!-- set background image by css with the linking id -->
-                <section class="col-md-12 centerV">
-                    <h2 class="titleC darkBG">Who we are</h2>
-        <p class="crossScreenImgCols">
-        <b>Robot Name:</b> Based on the <a class="dark" href="http://en.wikipedia.org/wiki/Titan_(mythology)" target="_blank">mythical Titans</a><br/>
-                      <b>Rookie Year:</b> 2002<br/>
-                      <b><abbr title="FIRST Robotics Competition">FRC</abbr> Team Number:</b> 955<br/>
-                      <b>Team Size:</b> 40+<br/>
-                      <b>Team Colors:</b> Maroon & Gold<br/>
-                      <b>Location:</b> Crescent Valley High School in Corvallis, Oregon<br/>
-                      <b>Coach:</b> Jim Bowey<br/>
-                        </p>
-                </section>
+          <section class="col-md-12 centerV">
+              <h2 class="titleC darkBG">Who we are</h2>
+              <p class="crossScreenImgCols">
+                <b>Robot Name:</b> Based on the <a class="dark" href="http://en.wikipedia.org/wiki/Titan_(mythology)" target="_blank">mythical Titans</a><br/>
+                <b>Rookie Year:</b> 2002<br/>
+                <b><abbr title="FIRST Robotics Competition">FRC</abbr> Team Number:</b> 955<br/>
+                <b>Team Size:</b> 40+<br/>
+                <b>Team Colors:</b> Maroon & Gold<br/>
+                <b>Location:</b> Crescent Valley High School in Corvallis, Oregon<br/>
+                <b>Coach:</b> Jim Bowey<br/>
+              </p>
+          </section>
         </div>
         <div class="row">
           <section class="roboR col-xs-12 col-sm-4 col-md-4 col-lg-4">
@@ -54,71 +54,71 @@
           </section>
         </div>
         <div class="row">
-                <section class="col-md-12">
-                    <h2 class="titleC">Some of our Goals</h2>
-                </section>
-                <section class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
-                    <p>We constantly strive to increase the amount of time we spend volunteering, primarily by going to elementary schools to actively engage younger students in science and technology education. This extends to middle schools as well. This is a way to spread the FIRST message while recruiting inspired students for future years. We highly value promoting enthusiasm for science and technology in younger students.</p>
-                </section>
-                <section class="quarterRow col-xs-12 col-sm-3 col-md-3 col-lg-3">
-                      <p>A goal of ours is also to streamline fundraising methods that allow the team to work towards providing funds for our program while still allowing students to focus on participating in robotics. We hope that by establishing annual community fundraisers, such as Mother’s Day flower sales, our program will become sustainable and decrease the overall time we spend fundraising to allow for more robotics activities.</p>
-                </section>
-                <section class="quarterRow col-xs-12 col-sm-3 col-md-3 col-lg-3">
-                      <p>We aim to increase the number of partnerships within the local community to promote investment in FIRST and its programs. This will allow the team to exert less effort in fundraising, and put a larger amount of effort into community outreach programs, like Da Vinci Days. Such partnerships link us to our community, and maintaining these partnerships increases the sustainability of our program in future years.</p>
-                </section>
-                <section class="quarterRow col-xs-12 col-sm-3 col-md-3 col-lg-3">
-                      <p>As well as raise the current level of awareness of all sub-team activities within our team. This will allow our team to better function as a whole, and create less miscommunication between sub-teams, like coordinating team activities that involve all members; including fundraisers, or even competition deadlines.</p>
-                </section>
-            </div>
+          <section class="col-md-12">
+            <h2 class="titleC">Some of our Goals</h2>
+          </section>
+          <section class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
+            <p>We constantly strive to increase the amount of time we spend volunteering, primarily by going to elementary schools to actively engage younger students in science and technology education. This extends to middle schools as well. This is a way to spread the FIRST message while recruiting inspired students for future years. We highly value promoting enthusiasm for science and technology in younger students.</p>
+          </section>
+          <section class="quarterRow col-xs-12 col-sm-3 col-md-3 col-lg-3">
+            <p>A goal of ours is also to streamline fundraising methods that allow the team to work towards providing funds for our program while still allowing students to focus on participating in robotics. We hope that by establishing annual community fundraisers, such as Mother’s Day flower sales, our program will become sustainable and decrease the overall time we spend fundraising to allow for more robotics activities.</p>
+          </section>
+          <section class="quarterRow col-xs-12 col-sm-3 col-md-3 col-lg-3">
+            <p>We aim to increase the number of partnerships within the local community to promote investment in FIRST and its programs. This will allow the team to exert less effort in fundraising, and put a larger amount of effort into community outreach programs, like Da Vinci Days. Such partnerships link us to our community, and maintaining these partnerships increases the sustainability of our program in future years.</p>
+          </section>
+          <section class="quarterRow col-xs-12 col-sm-3 col-md-3 col-lg-3">
+            <p>As well as raise the current level of awareness of all sub-team activities within our team. This will allow our team to better function as a whole, and create less miscommunication between sub-teams, like coordinating team activities that involve all members; including fundraisers, or even competition deadlines.</p>
+          </section>
+        </div>
         </div>
 
         <!-- START FIRST -->
 
         <div class="subpageBox">
-            <div class="row crossScreenImg" id="FIRST"> <!-- set background image by css with the linking id -->
-                <section class="col-md-12 titleC">
-                    <h2 class="titleC darkBG">FIRST Robotics Programs</h2>
-                </section>
-                <section class="col-md-6 col-md-offset-3">
-                    <a href="http://www.usfirst.org/roboticsprograms/frc" target="_blank"><img src="../images/brands/FRCicon.png" class="img-circle logoImg col-xs-4 col-sm-4 col-md-4" alt="FIRST Robotics Competition"></a>
-                    <a href="http://www.usfirst.org/roboticsprograms/ftc" target="_blank"><img src="../images/brands/FTCicon.png" class="img-circle logoImg col-xs-4 col-sm-4 col-md-4" alt="FIRST Tech Challenge"></a>
-                    <a href="http://www.usfirst.org/roboticsprograms/fll" target="_blank"><img src="../images/brands/FLLicon.png" class="img-circle logoImg col-xs-4 col-sm-4 col-md-4" alt="FIRST Lego League"></a>
-                    <br/>
-                    <h2 class="headerNB darkBG col-md-12">CV Robotics is a <abbr title="FIRST Robotics Competition">FRC</abbr> team that was founded in 2002.</h3>
-                </section>
-            </div>
-        <div class="row">
-          <section class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
-            <img src="../images/pagePhotos/image6.jpg" alt="FIRST provides an amazing experience for diverse groups of people." class="imgBorder fullW"/>
-          </section>
-          <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
-            <p>FIRST stands for "For Inspiration and Recognition of Science and Technology." It is a non-profit organization that seeks to boost interest in STEAM (science, technology, engineering, art, and mathematics) and develop young people into leaders of those fields. Founded in 1989, FIRST has created many team-structured opportunities to help accomplish their goal, such as FLL, FTC, and FRC.</p>
-            <p>The FIRST Robotics Competition (FRC) is an international varsity sport of the mind designed to help high-school-aged young people discover how interesting and rewarding the life of engineers and researchers can be. The FIRST Robotics Competition tests the ability of teams and their mentors to complete a challenge in a six-week time frame using a common set of rules. Teams build robots from industrial-grade parts and enter them in competitions designed by Dean Kamen, Dr. Woodie Flowers, and a committee of engineers and other professionals. FIRST redefines winning for these students because they are rewarded for more than just their robot's ability to win. Not only are teams recognized for excellence and creativity in robot design, but they must also demonstrate team spirit, involvement in their communities, gracious professionalism, maturity, and the ability to overcome obstacles. Scoring the most points is a secondary goal. Winning means building skills and partnerships that last. For more information on FIRST, <a href="http://www.usfirst.org/" target="_blank">visit their website.</a></p>
-          </section>
-        </div>
-        <div class="row">
-          <section class="roboR col-xs-12 col-sm-4 col-md-4 col-lg-4">
-            <img src="../images/pagePhotos/image5.jpg" alt="There's always a robot being worked on." class="imgBorder fullW"/>
-          </section>
-          <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
-            <p>Recently, Brandeis University's Center for Youth and Communities conducted an independent, retrospective survey of FIRST Robotics Competition participants and compared results to a group of non-FIRST students with similar backgrounds and academic experiences, including math and science. Highlights of the study's findings include: When compared with the comparison group, FIRST students are: Significantly more likely to attend college on a full-time basis than comparison students (88% vs. 53%) More than 3 times as likely to major specifically in engineering. Roughly 10 times as likely to have had an apprenticeship, internship, or co-op job in their freshman year. Significantly more likely to expect to achieve a postgraduate degree. More than twice as likely to expect to pursue a career in science and technology. Nearly 4 times as likely to expect to pursue a career specifically in engineering. More than twice as likely to volunteer in their communities. You can see the whole survey <a href="http://www.usfirst.org/aboutus/impact" targer="_blank">here</a>.</p>
-          </section>
-        </div>
+          <div class="row crossScreenImg" id="FIRST"> <!-- set background image by css with the linking id -->
+            <section class="col-md-12 titleC">
+              <h2 class="titleC darkBG">FIRST Robotics Programs</h2>
+            </section>
+            <section class="col-md-6 col-md-offset-3">
+              <a href="http://www.usfirst.org/roboticsprograms/frc" target="_blank"><img src="../images/brands/FRCicon.png" class="img-circle logoImg col-xs-4 col-sm-4 col-md-4" alt="FIRST Robotics Competition"></a>
+              <a href="http://www.usfirst.org/roboticsprograms/ftc" target="_blank"><img src="../images/brands/FTCicon.png" class="img-circle logoImg col-xs-4 col-sm-4 col-md-4" alt="FIRST Tech Challenge"></a>
+              <a href="http://www.usfirst.org/roboticsprograms/fll" target="_blank"><img src="../images/brands/FLLicon.png" class="img-circle logoImg col-xs-4 col-sm-4 col-md-4" alt="FIRST Lego League"></a>
+              <br/>
+              <h2 class="headerNB darkBG col-md-12">CV Robotics is a <abbr title="FIRST Robotics Competition">FRC</abbr> team that was founded in 2002.</h3>
+            </section>
+          </div>
+          <div class="row">
+            <section class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+              <img src="../images/pagePhotos/image6.jpg" alt="FIRST provides an amazing experience for diverse groups of people." class="imgBorder fullW"/>
+            </section>
+            <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+              <p>FIRST stands for "For Inspiration and Recognition of Science and Technology." It is a non-profit organization that seeks to boost interest in STEAM (science, technology, engineering, art, and mathematics) and develop young people into leaders of those fields. Founded in 1989, FIRST has created many team-structured opportunities to help accomplish their goal, such as FLL, FTC, and FRC.</p>
+              <p>The FIRST Robotics Competition (FRC) is an international varsity sport of the mind designed to help high-school-aged young people discover how interesting and rewarding the life of engineers and researchers can be. The FIRST Robotics Competition tests the ability of teams and their mentors to complete a challenge in a six-week time frame using a common set of rules. Teams build robots from industrial-grade parts and enter them in competitions designed by Dean Kamen, Dr. Woodie Flowers, and a committee of engineers and other professionals. FIRST redefines winning for these students because they are rewarded for more than just their robot's ability to win. Not only are teams recognized for excellence and creativity in robot design, but they must also demonstrate team spirit, involvement in their communities, gracious professionalism, maturity, and the ability to overcome obstacles. Scoring the most points is a secondary goal. Winning means building skills and partnerships that last. For more information on FIRST, <a href="http://www.usfirst.org/" target="_blank">visit their website.</a></p>
+            </section>
+          </div>
+          <div class="row">
+            <section class="roboR col-xs-12 col-sm-4 col-md-4 col-lg-4">
+              <img src="../images/pagePhotos/image5.jpg" alt="There's always a robot being worked on." class="imgBorder fullW"/>
+            </section>
+            <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+              <p>Recently, Brandeis University's Center for Youth and Communities conducted an independent, retrospective survey of FIRST Robotics Competition participants and compared results to a group of non-FIRST students with similar backgrounds and academic experiences, including math and science. Highlights of the study's findings include: When compared with the comparison group, FIRST students are: Significantly more likely to attend college on a full-time basis than comparison students (88% vs. 53%) More than 3 times as likely to major specifically in engineering. Roughly 10 times as likely to have had an apprenticeship, internship, or co-op job in their freshman year. Significantly more likely to expect to achieve a postgraduate degree. More than twice as likely to expect to pursue a career in science and technology. Nearly 4 times as likely to expect to pursue a career specifically in engineering. More than twice as likely to volunteer in their communities. You can see the whole survey <a href="http://www.usfirst.org/aboutus/impact" targer="_blank">here</a>.</p>
+            </section>
+          </div>
         </div>
 
         <!-- START STRUCTURE -->
 
         <div class="subpageBox">
-            <div class="row crossScreenImg" id="structure"> <!-- set background image by css with the linking id -->
-                <section class="col-md-12 centerV">
-                    <h2 class="titleC darkBG">Team Structure</h2>
-                    <p class="titleC">
-                      <b>Coach:</b> The Great Jim Bowey <br/>
-                      <b>Program Managers:</b> Ryan Dunn and Parker Lewis<br/>
-                      <b>Sub-teams:</b> CAD, Mechanical, Electrical, Programming, Business, Website, and Scouting<br/>
-                    </p>
-                </section>
-            </div>
+          <div class="row crossScreenImg" id="structure"> <!-- set background image by css with the linking id -->
+            <section class="col-md-12 centerV">
+              <h2 class="titleC darkBG">Team Structure</h2>
+              <p class="titleC">
+                <b>Coach:</b> The Great Jim Bowey <br/>
+                <b>Program Managers:</b> Ryan Dunn and Parker Lewis<br/>
+                <b>Sub-teams:</b> CAD, Mechanical, Electrical, Programming, Business, Website, and Scouting<br/>
+              </p>
+            </section>
+          </div>
         <div class="row">
           <section class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
             <img src="../images/pagePhotos/image4.jpg" alt="Students work closely with mentors and Coach Bowey" class="imgBorder fullW"/>
@@ -173,29 +173,66 @@
               <img src="../images/pagePhotos/image1.jpg" alt="Mentors closely col" class="imgBorder fullW"/>
             </section>
             <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
-                <h2 class="titleL">2014-15 Mentors</h2>
-                <ul>
-                  <li>Annie Smith</li>
-                  <li>Brenda Brumbaugh</li>
-                  <li>Carla Moore</li>
-                  <li>Charles Dupuy</li>
-                  <li>Connor King</li>
-                  <li>Dave Regan</li>
-                  <li>Jamie Moore</li>
-                  <li>Joe Elwood</li>
-                  <li>Kevin Groom</li>
-                  <li>Lynn Thompson</li>
-                  <li>Marc Hayden</li>
-                  <li>Mark Lewis</li>
-                  <li>Masami Takikawa</li>
-                  <li>Michael Groom</li>
-                  <li>Ron Sims, Emeritus</li>
-                  <li>Stan Sevruk</li>
-                  <li>Tanya Corone</li>
-                  <li>Walt Mahaffee</li>
-                </ul>
+              <h2 class="titleL">2014-15 Mentors</h2>
+              <ul>
+                <li>Annie Smith</li>
+                <li>Brenda Brumbaugh</li>
+                <li>Carla Moore</li>
+                <li>Charles Dupuy</li>
+                <li>Connor King</li>
+                <li>Dave Regan</li>
+                <li>Jamie Moore</li>
+                <li>Joe Elwood</li>
+                <li>Kevin Groom</li>
+                <li>Lynn Thompson</li>
+                <li>Marc Hayden</li>
+                <li>Mark Lewis</li>
+                <li>Masami Takikawa</li>
+                <li>Michael Groom</li>
+                <li>Ron Sims, Emeritus</li>
+                <li>Stan Sevruk</li>
+                <li>Tanya Corone</li>
+                <li>Walt Mahaffee</li>
+              </ul>
             </section>
           </div>
         </div>
+
+        <!-- START ROBOTS -->
+
+        <div class="subpageBox">
+          <div class="row crossScreenImg" id="robots"> <!-- set background image by css with the linking id -->
+            <section class="col-md-12 centerV">
+              <h2 class="titleC darkBG">Past Robots</h2>
+              <p>We've made a few robots in our time, here's a list of them.</p>
+            </section>
+          </div>
+          <div class="row">
+            <section class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+              <img src="../images/pagePhotos/" alt="" class="imgBorder fullW"/>
+            </section>
+            <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+            </section>
+          </div>
+        </div>
+
+        <!-- START COLOPHON -->
+
+        <div class="subpageBox">
+          <div class="row crossScreenImg" id="colophon"> <!-- set background image by css with the linking id -->
+            <section class="col-md-12 centerV">
+              <h2 class="titleC darkBG">About the Website</h2>
+
+            </section>
+          </div>
+          <div class="row">
+            <section class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+              <img src="../images/pagePhotos/" alt="" class="imgBorder fullW"/>
+            </section>
+            <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+            </section>
+          </div>
+        </div>
+
       <?php include "../includes/endDoc.php"; ?>
 </html>

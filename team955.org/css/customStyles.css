@@ -427,6 +427,10 @@ body {
   background-image: url("../images/pagePhotos/mentors.jpg");
 }
 
+#robots {
+  background-image: url("../images/pagePhotos/robots.jpg");
+}
+
 /*support.php files next...*/
 #donations {
   background-image: url("../images/pagePhotos/donations.jpg");
