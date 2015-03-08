@@ -225,7 +225,7 @@
               <h2 class="titleC darkBG">About the Website</h2>
               <p class="titleC">We appreciate having an up-to-date website with good design.</p><br/>
               <p class="titleC">
-                <img src="../pagePhotos/brands/HTML5Badge.svg" alt="We use HTML5! Woohoo!" />
+                <img src="../images/brands/HTML5Badge.svg" alt="We use HTML5! Woohoo!" />
                 <a href="http://jigsaw.w3.org/css-validator/check/referer">
                   <img style="border:0;width:88px;height:31px"
                     src="http://jigsaw.w3.org/css-validator/images/vcss-blue"
