@@ -223,7 +223,14 @@
           <div class="row crossScreenImg" id="colophon"> <!-- set background image by css with the linking id -->
             <section class="col-md-12 centerV">
               <h2 class="titleC darkBG">About the Website</h2>
-
+              <p class="titleC">We appreciate having an up-to-date website with good design.</p><br/>
+              <p class="titleC">
+                <a href="http://jigsaw.w3.org/css-validator/check/referer">
+                  <img style="border:0;width:88px;height:31px"
+                    src="http://jigsaw.w3.org/css-validator/images/vcss-blue"
+                    alt="Valid CSS!" />
+                </a>
+              </p>
             </section>
           </div>
           <div class="row">
