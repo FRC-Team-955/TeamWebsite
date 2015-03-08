@@ -1,7 +1,7 @@
 RewriteEngine On
-RewriteRule opr apps/tempOPR/ [NC]
+RewriteRule opr apps/tempOPR [NC]
 
-RewriteCond %{REQUEST_URI} !/apps [NC]
+RewriteCond %{REQUEST_URI} /pages [NC]
 RewriteRule ^([^\.]+)$ pages/$1.php [NC]
 
 
