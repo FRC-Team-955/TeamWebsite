@@ -1,2 +1,7 @@
 RewriteEngine On
-RewriteRule ^([^\.]+)$ pages/$1.php [NC,L]
+RewriteRule ^([^\.]+)$ pages/$1.php [NC]
+RewriteRule opr apps/955-OPR-Calculator/ [NC]
+
+RewriteCond %{SCRIPT_FILENAME} -d [OR]
+RewriteCond %{SCRIPT_FILENAME} -f
+RewriteRule "(^|/)\." - [F]
