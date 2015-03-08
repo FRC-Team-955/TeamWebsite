@@ -85,7 +85,7 @@
               <a href="http://www.usfirst.org/roboticsprograms/ftc" target="_blank"><img src="../images/brands/FTCicon.png" class="img-circle logoImg col-xs-4 col-sm-4 col-md-4" alt="FIRST Tech Challenge"></a>
               <a href="http://www.usfirst.org/roboticsprograms/fll" target="_blank"><img src="../images/brands/FLLicon.png" class="img-circle logoImg col-xs-4 col-sm-4 col-md-4" alt="FIRST Lego League"></a>
               <br/>
-              <h2 class="headerNB darkBG col-md-12">CV Robotics is a <abbr title="FIRST Robotics Competition">FRC</abbr> team that was founded in 2002.</h3>
+              <h2 class="headerNB darkBG col-md-12">CV Robotics is a <abbr title="FIRST Robotics Competition">FRC</abbr> team that was founded in 2002.</h2>
             </section>
           </div>
           <div class="row">
@@ -102,7 +102,7 @@
               <img src="../images/pagePhotos/image5.jpg" alt="There's always a robot being worked on." class="imgBorder fullW"/>
             </section>
             <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
-              <p>Recently, Brandeis University's Center for Youth and Communities conducted an independent, retrospective survey of FIRST Robotics Competition participants and compared results to a group of non-FIRST students with similar backgrounds and academic experiences, including math and science. Highlights of the study's findings include: When compared with the comparison group, FIRST students are: Significantly more likely to attend college on a full-time basis than comparison students (88% vs. 53%) More than 3 times as likely to major specifically in engineering. Roughly 10 times as likely to have had an apprenticeship, internship, or co-op job in their freshman year. Significantly more likely to expect to achieve a postgraduate degree. More than twice as likely to expect to pursue a career in science and technology. Nearly 4 times as likely to expect to pursue a career specifically in engineering. More than twice as likely to volunteer in their communities. You can see the whole survey <a href="http://www.usfirst.org/aboutus/impact" targer="_blank">here</a>.</p>
+              <p>Recently, Brandeis University's Center for Youth and Communities conducted an independent, retrospective survey of FIRST Robotics Competition participants and compared results to a group of non-FIRST students with similar backgrounds and academic experiences, including math and science. Highlights of the study's findings include: When compared with the comparison group, FIRST students are: Significantly more likely to attend college on a full-time basis than comparison students (88% vs. 53%) More than 3 times as likely to major specifically in engineering. Roughly 10 times as likely to have had an apprenticeship, internship, or co-op job in their freshman year. Significantly more likely to expect to achieve a postgraduate degree. More than twice as likely to expect to pursue a career in science and technology. Nearly 4 times as likely to expect to pursue a career specifically in engineering. More than twice as likely to volunteer in their communities. You can see the whole survey <a href="http://www.usfirst.org/aboutus/impact" target="_blank">here</a>.</p>
             </section>
           </div>
         </div>
