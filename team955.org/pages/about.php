@@ -149,7 +149,7 @@
               <li><b>Web Overlord:</b> Graham Barber</li>
               <li><b>Competitive Analysis Captain:</b> Graham Barber</li>
               <li><b>Video Captain:</b> Aaron Celeste</li>
-              <li><b>Team Photographer:</b> Tony Liu</li>
+              <li><b>Team Photographer:</b> Tony Liu & David So</li>
             </ul>
           </section>
         </div>
@@ -202,7 +202,7 @@
         <!-- START ROBOTS -->
 
         <div class="subpageBox">
-          <div class="row crossScreenImg" id="robots"> <!-- set background image by css with the linking id -->git submodule foreach git pull origin master
+          <div class="row crossScreenImg" id="robots"> <!-- set background image by css with the linking id -->
             <section class="col-md-12 centerV">
               <h2 class="titleC darkBG">Past Robots</h2>
               <p>We've made a few robots in our time, here's a list of them.</p>
