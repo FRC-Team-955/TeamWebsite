@@ -82,8 +82,8 @@
                                 <li class="dropdown">
                                   <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Apps</a>
                                   <ul class="dropdown-menu" role="menu">
-                                        <li><a href="../opr" target="_blank">OPR Program</a></li>
-                                    </ul>
+                                    <li><a href="../opr">OPR Program</a></li>
+                                  </ul>
                                 </li>
                             </ul>
                         </div>
