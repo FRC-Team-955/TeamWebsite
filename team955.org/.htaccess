@@ -2,7 +2,7 @@ RewriteEngine On
 RewriteRule ^about$ pages/about.php [NC]
 RewriteRule ^resources$ pages/resources.php [NC]
 RewriteRule ^support$ pages/support.php [NC]
-RewriteRule ^opr$ apps/oprs [NC]
+RewriteRule ^opr$ apps/opr [NC]
 
 RewriteCond %{SCRIPT_FILENAME} -d [OR]
 RewriteCond %{SCRIPT_FILENAME} -f
