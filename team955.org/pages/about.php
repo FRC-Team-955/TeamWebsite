@@ -224,7 +224,7 @@
             <section class="col-md-12 centerV">
               <h2 class="titleC darkBG">About the Website</h2>
               <p class="titleC">We appreciate having an up-to-date website with good design.</p><br/>
-              <p class="titleC col-md-offset-3 col-md-6">
+              <p class="titleC col-md-offset-4 col-md-4">
                 <img class="col-md-6" src="../images/brands/HTML5Badge.svg" alt="We use HTML5! Woohoo!"/>
                 <a class="noB col-md-6" href="http://jigsaw.w3.org/css-validator/check/referer">
                   <img style="border:0;width:100%;height:auto"
@@ -239,6 +239,7 @@
               <img src="../images/pagePhotos/" alt="" class="imgBorder fullW"/>
             </section>
             <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+              <p>This iteration of the Team 955 website was build from the ground up in 2015. Based upon <a href="https://www.getbootstrap.com" target="_blank">Bootstrap</a>, the website was made with scraps of the old website, which was once based on Wordpress, which had been abandoned in previous years. The first generation of <i>this</i> website was written and compiled by Matthew Sundberg, with the oversight and guidance of Graham Barber.</p>
             </section>
           </div>
         </div>
