@@ -2,6 +2,6 @@ RewriteEngine On
 RewriteRule ^about$ pages/about.php [NC]
 RewriteRule ^resources$ pages/resources.php [NC]
 RewriteRule ^support$ pages/support.php [NC]
-RewriteRule ^opr.(.*) apps/955-OPR-Calculator/$1 [NC]
+RewriteRule ^opr/(.*) apps/955-OPR-Calculator/$1 [NC]
 
 RedirectMatch 404 /\..*$
