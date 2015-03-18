@@ -358,6 +358,10 @@ body {
   position: absolute;
 }
 
+#rO .noB {
+  border: none;
+}
+
 /* jump to top */
 .sometimesUp {
   background-color: rgba(155,155,155,.2);
