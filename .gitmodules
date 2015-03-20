@@ -1,0 +1,3 @@
+[submodule "team955.org/apps/opr"]
+	path = team955.org/apps/opr
+	url = https://github.com/FRC-Team-955/955-OPR-Calculator.git
