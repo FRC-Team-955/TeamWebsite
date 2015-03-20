@@ -435,6 +435,10 @@ body {
   background-image: url("../images/pagePhotos/robots.jpg");
 }
 
+#colophon {
+  background-image: url("../images/pagePhotos/colophon.jpg");
+}
+
 /*support.php files next...*/
 #donations {
   background-image: url("../images/pagePhotos/donations.jpg");

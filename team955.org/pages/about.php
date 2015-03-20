@@ -205,14 +205,27 @@
           <div class="row crossScreenImg" id="robots"> <!-- set background image by css with the linking id -->
             <section class="col-md-12 centerV">
               <h2 class="titleC darkBG">Past Robots</h2>
-              <p>We've made a few robots in our time, here's a list of them.</p>
+              <p class="titleC">We've made a few robots in our time, for <a href="http://www.usfirst.org/roboticsprograms/frc/archived-game-documentation-and-event-results" class="dark" target="_blank">quite a few games</a>, here's a list of them.</p>
             </section>
           </div>
           <div class="row">
             <section class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
-              <img src="../images/pagePhotos/" alt="" class="imgBorder fullW"/>
+              <img src="../images/robots/robot2013.jpg" alt="Our 2013 FRC Robot" class="imgBorder fullW"/>
             </section>
             <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+                  <h2 class="titleL">2013</h2>
+                  <p>2013's game was <a href="http://www.usfirst.org/uploadedFiles/Robotics_Programs/FRC/Marketing_Tools/Communication_Assets/2013/2013_FRC_Game_1page.pdf" target="_blank">Ultimate Ascent</a>, which involved catching and throwing frisbees, and climbing a ladder for end-game points.</p>
+                  <p><b>Our drivetrain:</b> Four-wheel drive with six SIMs</p>
+            </section>
+          </div>
+          <div class="row">
+            <section class="roboR col-xs-12 col-sm-4 col-md-4 col-lg-4">
+              <img src="../images/robots/robot2012.jpg" alt="Our 2013 FRC Robot" class="imgBorder fullW"/>
+            </section>
+            <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+                  <h2 class="titleR">2012</h2>
+                  <p>2012's game was <a href="http://www3.usfirst.org/sites/default/files/uploadedFiles/Robotics_Programs/FRC/Marketing_Tools/Communication_Assets/2012/2012_game_description_1page.pdf" target="_blank">Rebound Rumble</a>, where basketballs were shot at hoops of various values, and end-game points were gotten by ballancing on bridges.</p>
+                  <p><b>Our drivetrain:</b> Six-wheel drive</p>
             </section>
           </div>
         </div>
