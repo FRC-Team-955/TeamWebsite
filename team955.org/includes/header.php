@@ -43,7 +43,7 @@
                                         <li><a href="about#colophon">Website</a></li>
                                     </ul>
                                 </li>
-                                <li class="dropdown">
+                                <!--<li class="dropdown">
                                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Media</a>
                                     <ul class="dropdown-menu" role="menu">
                                         <li><a href="photos">Photos</a></li>
@@ -60,7 +60,7 @@
                                         <li><a href="resources#safety">Safety</a></li>
                                         <li class="jim"><a href="#"><img src="../images/jimHalfHead.png" alt="Coach's Corner"></a></li>
                                     </ul>
-                                </li>
+                                </li>-->
                                 <li class="dropdown">
                                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Support</a>
                                     <ul class="dropdown-menu" role="menu">
@@ -83,6 +83,7 @@
                                   <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Apps</a>
                                   <ul class="dropdown-menu" role="menu">
                                     <li><a href="../opr">OPR Program</a></li>
+                                    <li><a href="../scouting">2015 Scouting</a></li>
                                   </ul>
                                 </li>
                             </ul>

@@ -42,7 +42,7 @@
 </p>
             </section>
           </div>
-          <div class="row">
+          <!-- We don't do these now, sorry sponsors <div class="row">
             <section class="col-md-offset-2 col-md-8">
               <section class="col-md-6">
                 <h2 class="titleC">Friend</h2>
@@ -59,7 +59,7 @@
                 <b>$20,000+</b> above and larger logo on Raiderbot or 4.5"x4.5" logo on Raiderbot for 3 years, plus thank you in Gazette Times
               </section>
             </section>
-          </div>
+          </div>-->
           <div class="row">
             <section class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
               <img src="../images/pagePhotos/" alt="" class="imgBorder fullW"/>

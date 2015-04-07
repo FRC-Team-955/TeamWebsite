@@ -1,3 +1,6 @@
 [submodule "team955.org/apps/opr"]
 	path = team955.org/apps/opr
 	url = https://github.com/FRC-Team-955/955-OPR-Calculator.git
+[submodule "team955.org/apps/scouting"]
+	path = team955.org/apps/scouting
+	url = https://www.github.com/FRC-Team-955/RecycleRushScouting.git
