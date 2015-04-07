@@ -3,6 +3,6 @@ RewriteRule ^about$ pages/about.php [NC]
 RewriteRule ^resources$ pages/resources.php [NC]
 RewriteRule ^support$ pages/support.php [NC]
 RewriteRule ^opr(.*) apps/opr$1 [NC]
-RewriteRule ^scouting(.*) apps/scouting/code$1 [NC]
+RewriteRule ^scouting(.*) apps/scouting/Code$1 [NC]
 
 RedirectMatch 404 /\..*$
