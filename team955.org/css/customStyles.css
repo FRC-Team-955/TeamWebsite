@@ -330,6 +330,10 @@ body {
   border-bottom: none;
 }
 
+.showInstruction {
+  display: none;
+}
+
 /* Resource list styling */
 
 #rO .resourceList {
