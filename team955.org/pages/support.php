@@ -23,9 +23,9 @@
               </section>
             </div>
           </div>
-          <div class="row showInstruction">
+          <div class="row showInstructions">
             <section class="col-md-12">
-              <button onclick="$('.donationsInstructions').fadein(); $('.showInstructions').hide();">Donation Instructions</button>
+              <button onclick="$('.donationsInstructions').fadein(); $('.showInstructions').hide();" class="button">Donation Instructions</button>
             </section>
           </div>
           <div class="row">
