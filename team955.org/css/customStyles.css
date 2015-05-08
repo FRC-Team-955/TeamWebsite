@@ -330,7 +330,7 @@ body {
   border-bottom: none;
 }
 
-.showInstructions .button{
+#rO .showInstructions .button{
   display: none;
   text-align: center;
 }
