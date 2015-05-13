@@ -353,10 +353,10 @@ body {
 #rO .textCenterContainer {
   position: absolute;
   width: 100%;
-  top: 50%;
-  bottom: 50%;
+  top: 44%;
   border-bottom: none !important;
   left: 0;
+  right: 0;
 }
 
 /** This is for general buttons, they chill. Basic box outline, plus some hover filling */
