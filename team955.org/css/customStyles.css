@@ -351,7 +351,8 @@ body {
 }
 
 #rO .textCenterContainer {
-padding-top: 45%;
+  margin-top: 45%;
+    position: absolute;
 }
 
 /** This is for general buttons, they chill. Basic box outline, plus some hover filling */
@@ -367,6 +368,7 @@ padding-top: 45%;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
   text-transform: uppercase;
+  font-family: "RalewayRegular";
 }
 
 #rO .button:hover, #rO .button:active {
