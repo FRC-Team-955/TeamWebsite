@@ -68,7 +68,7 @@
           <div class="row">
             <section class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
               <div class="button beRound">
-                <a href="http://cpsfoundation.org" target="_blank"><div class="bigButtonText">Donate Here.</div></a>
+                <a href="http://cpsfoundation.org" class="textCenterContainer" target="_blank"><div class="bigButtonText">Donate Here.</div></a>
               </div>
             </section>
             <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
