@@ -353,7 +353,6 @@ body {
 #rO .textCenterContainer {
   display: table-cell;
   vertical-align: middle;
-  position: absolute;
 }
 
 /** This is for general buttons, they chill. Basic box outline, plus some hover filling */
@@ -380,7 +379,7 @@ body {
   height: 100%;
   font-size: 50px;
   text-align: center;
-  border-bottom: none;
+  border-bottom: none !important;
 }
 
 /* Resource list styling */
