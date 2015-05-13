@@ -343,7 +343,7 @@ body {
   padding-bottom: 100%;
   float: left;
   position: relative;
-  border-radius: 50%;
+  border-radius: 50% !important;
   text-align: center;
 }
 
@@ -357,7 +357,7 @@ body {
   transition: background-color 0.25s ease;
   transition: border-color 0.25s ease;
 }
-#rO .button:active, #rO .button:active {
+#rO .button:hover, #rO .button:active {
   background-color: #F5B50C;
   border: 0 solid transparent;
 }
@@ -366,6 +366,7 @@ body {
   text-align: center;
   display: table-cell;
   vertical-align: middle;
+  border: none;
 }
 
 /* Resource list styling */
