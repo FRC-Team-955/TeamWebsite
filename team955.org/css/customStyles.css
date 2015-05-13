@@ -345,6 +345,9 @@ body {
   position: relative;
   border-radius: 50% !important;
   text-align: center;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 /** This is for general buttons, they chill. Basic box outline, plus some hover filling */
@@ -371,7 +374,9 @@ body {
   text-align: center;
   display: table-cell;
   vertical-align: middle;
-  border: none;
+  border-bottom: none;
+  position: absolute;
+  
 }
 
 /* Resource list styling */
