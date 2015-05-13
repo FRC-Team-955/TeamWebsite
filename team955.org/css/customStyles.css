@@ -356,6 +356,7 @@ body {
   top: 50%;
   bottom: 50%;
   border-bottom: none !important;
+  left: 0;
 }
 
 /** This is for general buttons, they chill. Basic box outline, plus some hover filling */
