@@ -351,8 +351,7 @@ body {
 }
 
 #rO .textCenterContainer {
-  display: table-cell;
-  vertical-align: middle;
+padding-top: 45%;
 }
 
 /** This is for general buttons, they chill. Basic box outline, plus some hover filling */
@@ -367,6 +366,7 @@ body {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
+  text-transform: uppercase;
 }
 
 #rO .button:hover, #rO .button:active {
