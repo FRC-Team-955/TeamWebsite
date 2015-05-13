@@ -367,6 +367,7 @@ body {
   background-color: transparent;
   transition: background-color 0.25s ease;
   transition: border-color 0.25s ease;
+  transition: color 0.25s ease;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
@@ -377,7 +378,7 @@ body {
 #rO .button:hover, #rO .button:active {
   background-color: #F5B50C;
   border: 5px solid transparent;
-  color: #fff;
+  color: #fff !important;
 }
 
 #rO .bigButtonText {
