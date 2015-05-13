@@ -378,16 +378,14 @@ body {
 #rO .button:hover, #rO .button:active {
   background-color: #F5B50C;
   border: 5px solid transparent;
+  color: #fff;
 }
 
 #rO .bigButtonText {
   font-size: 50px;
   text-align: center;
   position: absolute;
-}
-
-#rO .bitButtonText:hover {
-  color: #fff;
+  right: 50%;
 }
 
 /* Resource list styling */
