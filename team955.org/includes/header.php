@@ -35,12 +35,12 @@
                                 <li class="dropdown">
                                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">About</a>
                                     <ul class="dropdown-menu" role="menu">
-                                        <li><a href="about#team">About Us</a></li>
-                                        <li><a href="about#FIRST">About FIRST</a></li>
-                                        <li><a href="about#structure">Structure</a></li>
-                                        <li><a href="about#mentors">Mentors</a></li>
-                                        <li><a href="about#robots">Past Robots</a></li>
-                                        <li><a href="about#colophon">Website</a></li>
+                                        <li><a href="pages/about.php#team">About Us</a></li>
+                                        <li><a href="pages/about.php#FIRST">About FIRST</a></li>
+                                        <li><a href="pages/about.php#structure">Structure</a></li>
+                                        <li><a href="pages/about.php#mentors">Mentors</a></li>
+                                        <li><a href="pages/about.php#robots">Past Robots</a></li>
+                                        <li><a href="pages/about.php#colophon">Website</a></li>
                                     </ul>
                                 </li>
                                 <!--<li class="dropdown">
@@ -64,9 +64,9 @@
                                 <li class="dropdown">
                                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Support</a>
                                     <ul class="dropdown-menu" role="menu">
-                                        <li><a href="support#donations">Donations</a></li>
-                                        <li><a href="support#fundraising">Fundraising</a></li>
-                                        <li><a href="support#sponsors">Sponsors</a></li>
+                                        <li><a href="pages/support.php#donations">Donations</a></li>
+                                        <li><a href="pages/support.php#fundraising">Fundraising</a></li>
+                                        <li><a href="pages/support.php#sponsors">Sponsors</a></li>
                                     </ul>
                                 </li>
                                 <li class="dropdown">
@@ -79,7 +79,7 @@
                                     </ul>
                                 </li>
                                 <li><a href="http://cvhs.csd509j.net" target="_blank">CVHS</a></li><!--http://cvhs.csd509j.net-->
-                        </div>
+                       </div>
                     </div>
                 </nav>
             </div>
