@@ -114,9 +114,9 @@
             <section class="col-md-12 centerV">
               <h2 class="titleC darkBG">Team Structure</h2>
               <p class="titleC">
-                <b>Coach:</b> The Great Jim Bowey <br/>
-                <b>Program Managers:</b> Ryan Dunn and Parker Lewis<br/>
-                <b>Sub-teams:</b> CAD, Mechanical, Electrical, Programming, Business, Website, and Scouting<br/>
+                <b>Coach:</b> Matthew Shuman <br/>
+                <b>Team Captain:</b> Towaki Takikawa<br/>
+                <b>Sub-teams:</b> Design, Mechanical, Electrical, Programming, Business, and HR<br/>
               </p>
             </section>
           </div>
@@ -134,23 +134,41 @@
           </section>
           <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
             <p>Since our founding we have grown into more than just a robotics team. We have become a family of diverse students connected by a shared passion for <abbr title="Science, Technology, Engineering, Art, and Mathematics">STEAM</abbr> and robotics. Our current coach, Jim Bowey, leads this family of students, mentors, parents, and business partners in the pursuit of our shared passion.</p>
-            <ul>
-              <li><b>Engineering Manager:</b> Ryan Dunn</li>
-              <li><b>Business Manager:</b> Parker Lewis</li>
-              <li><b>Fabrication Captain:</b> Towaki Takikawa</li>
-              <li><b>CAD Captain:</b> Andrey Kornilovich</li>
-              <li><b>Co-Software Captain:</b> Fauzi Kliman</li>
-              <li><b>Co-Software Captain:</b> Pedro Morais</li>
-              <li><b>Electrical Captain:</b> Alicia Carone</li>
-              <li><b>Co-Safety Captain:</b> Bryce Rasmussen</li>
-              <li><b>Co-Safety Captain:</b> Berkley Noble</li>
-              <li><b>Bling Captain:</b> Alana Moore</li>
-              <li><b>Battery Captain:</b> Josh Pauls</li>
-              <li><b>Web Overlord:</b> Graham Barber</li>
-              <li><b>Competitive Analysis Captain:</b> Graham Barber</li>
-              <li><b>Video Captain:</b> Aaron Celeste</li>
-              <li><b>Team Photographer:</b> Tony Liu & David So</li>
-            </ul>
+            <ul class="nav nav-tabs">
+				<li class="active"><a data-toggle="tab" href="#2016">2016</a></li>
+				<li><a data-toggle="tab" href="#2015">2015</a></li>
+			</ul>
+			<div class="tab-content">
+				<div id="2016" class="tab-pane fade in active">
+					<ul>
+					  <li><b>Business Captain:</b> Matthew Sundberg</li>
+					  <li><b>Design Captain:</b> Andrey Kornilovich</li>
+					  <li><b>Electrical Captain:</b> Alicia Carone</li>
+					  <li><b>Fabrication Captain:</b> Kathy Hu</li>
+					  <li><b>Programming Captain:</b> Gabriel Kulp</li>
+					  <li><b>HR Captain:</b> Graham Barber</li>
+					</ul>
+				</div>
+				<div id="2015" class="tab-pane fade">
+					<ul>
+					  <li><b>Engineering Manager:</b> Ryan Dunn</li>
+					  <li><b>Business Manager:</b> Parker Lewis</li>
+					  <li><b>Fabrication Captain:</b> Towaki Takikawa</li>
+					  <li><b>CAD Captain:</b> Andrey Kornilovich</li>
+					  <li><b>Co-Software Captain:</b> Fauzi Kliman</li>
+					  <li><b>Co-Software Captain:</b> Pedro Morais</li>
+					  <li><b>Electrical Captain:</b> Alicia Carone</li>
+					  <li><b>Co-Safety Captain:</b> Bryce Rasmussen</li>
+					  <li><b>Co-Safety Captain:</b> Berkley Noble</li>
+					  <li><b>Bling Captain:</b> Alana Moore</li>
+					  <li><b>Battery Captain:</b> Josh Pauls</li>
+					  <li><b>Web Overlord:</b> Graham Barber</li>
+					  <li><b>Competitive Analysis Captain:</b> Graham Barber</li>
+					  <li><b>Video Captain:</b> Aaron Celeste</li>
+					  <li><b>Team Photographer:</b> Tony Liu & David So</li>
+					</ul>
+				</div>
+			</div>
           </section>
         </div>
         <div class="row">
