@@ -18,13 +18,12 @@
           <section class="col-md-12 centerV">
               <h2 class="titleC darkBG">Who we are</h2>
               <p class="crossScreenImgCols">
-                <b>Robot Name:</b> Based on the <a class="dark" href="http://en.wikipedia.org/wiki/Titan_(mythology)" target="_blank">mythical Titans</a><br/>
                 <b>Rookie Year:</b> 2002<br/>
                 <b><abbr title="FIRST Robotics Competition">FRC</abbr> Team Number:</b> 955<br/>
                 <b>Team Size:</b> 40+<br/>
-                <b>Team Colors:</b> Maroon & Gold<br/>
+                <b>Team Colors:</b> <a href="#colophon">Dark and Light Grey, Gold</a><br/>
                 <b>Location:</b> Crescent Valley High School in Corvallis, Oregon<br/>
-                <b>Coach:</b> Jim Bowey<br/>
+                <b>Coach:</b> Matthew Shuman<br/>
               </p>
           </section>
         </div>
@@ -272,6 +271,10 @@
             <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
               <p>This iteration of the Team 955 website was build from the ground up in 2015. Based upon <a href="https://www.getbootstrap.com" target="_blank">Bootstrap</a>, the website was made with scraps of the old website, which was once based on Wordpress, which had been abandoned in previous years. The first generation of <i>this</i> website was written and compiled by Matthew Sundberg, with the oversight and guidance of Graham Barber.</p>
             </section>
+			<section class="col-xs-12 col-sm-12-col-md-12 col-lg-12">
+			<h2 class="titleC">Our Colors</h2>
+				<p class="center">#0F0F0F #F0F0F0 #C69D3E</p>
+			</section>
           </div>
         </div>
 
