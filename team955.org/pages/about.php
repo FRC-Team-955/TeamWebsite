@@ -84,7 +84,7 @@
               <a href="http://www.usfirst.org/roboticsprograms/ftc" target="_blank"><img src="../images/brands/FTCicon.png" class="img-circle logoImg col-xs-4 col-sm-4 col-md-4" alt="FIRST Tech Challenge"></a>
               <a href="http://www.usfirst.org/roboticsprograms/fll" target="_blank"><img src="../images/brands/FLLicon.png" class="img-circle logoImg col-xs-4 col-sm-4 col-md-4" alt="FIRST Lego League"></a>
               <br/>
-              <h2 class="headerNB darkBG col-md-12">CV Robotics is a <abbr title="FIRST Robotics Competition">FRC</abbr> team that was founded in 2002.</h2>
+              <h2 class="headerNB darkBG col-md-12">CV Robotics is an <abbr title="FIRST Robotics Competition">FRC</abbr> team that was founded in 2002.</h2>
             </section>
           </div>
           <div class="row">
@@ -134,11 +134,11 @@
           <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
             <p>Since our founding we have grown into more than just a robotics team. We have become a family of diverse students connected by a shared passion for <abbr title="Science, Technology, Engineering, Art, and Mathematics">STEAM</abbr> and robotics. Our current coach, Jim Bowey, leads this family of students, mentors, parents, and business partners in the pursuit of our shared passion.</p>
             <ul class="nav nav-tabs">
-				<li class="active"><a data-toggle="tab" href="#2016">2016</a></li>
-				<li><a data-toggle="tab" href="#2015">2015</a></li>
+				<li class="active"><a data-toggle="tab" href="#2016c">2016</a></li>
+				<li><a data-toggle="tab" href="#2015c">2015</a></li>
 			</ul>
 			<div class="tab-content">
-				<div id="2016" class="tab-pane fade in active">
+				<div id="2016c" class="tab-pane fade in active">
 					<ul>
 					  <li><b>Business Captain:</b> Matthew Sundberg</li>
 					  <li><b>Design Captain:</b> Andrey Kornilovich</li>
@@ -148,7 +148,7 @@
 					  <li><b>HR Captain:</b> Graham Barber</li>
 					</ul>
 				</div>
-				<div id="2015" class="tab-pane fade">
+				<div id="2015c" class="tab-pane fade">
 					<ul>
 					  <li><b>Engineering Manager:</b> Ryan Dunn</li>
 					  <li><b>Business Manager:</b> Parker Lewis</li>
@@ -188,30 +188,49 @@
           </div>
           <div class="row">
             <section class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
-              <img src="../images/pagePhotos/image1.jpg" alt="Mentors closely col" class="imgBorder fullW"/>
+              <img src="../images/pagePhotos/image1.jpg" alt="Mentors closely" class="imgBorder fullW"/>
             </section>
             <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
-              <h2 class="titleL">2014-15 Mentors</h2>
-              <ul>
-                <li>Annie Smith</li>
-                <li>Brenda Brumbaugh</li>
-                <li>Carla Moore</li>
-                <li>Charles Dupuy</li>
-                <li>Connor King</li>
-                <li>Dave Regan</li>
-                <li>Jamie Moore</li>
-                <li>Joe Elwood</li>
-                <li>Kevin Groom</li>
-                <li>Lynn Thompson</li>
-                <li>Marc Hayden</li>
-                <li>Mark Lewis</li>
-                <li>Masami Takikawa</li>
-                <li>Michael Groom</li>
-                <li>Ron Sims, Emeritus</li>
-                <li>Stan Sevruk</li>
-                <li>Tanya Corone</li>
-                <li>Walt Mahaffee</li>
-              </ul>
+				<ul class="nav nav-tabs">
+					<li class="active"><a data-toggle="tab" href="#2016m">2016 Mentors</a></li>
+					<li><a data-toggle="tab" href="#2015m">2015 Mentors</a></li>
+				</ul>
+				<div class="tab-content">
+					<div id="2016m" class="tab-pane fade in active">
+						<ul>
+							<li>Charles Dupuy <em>Voxtel</em>
+							<li>Nanette Dupuy <em>Tunnel Radio</em></li>
+							<li>Tanya Carone <em>self-employed medical device consultant</em></li>
+							<li>Peter Mes <em>agroGene, Inc.</em></li>
+							<li>Glory Abadilla <em>Hewlett-Packard</em></li>
+							<li>Walt Mahaffee <em>USDA - ARS</em></li>
+							<li>Patrick Freeman <em>Lucidyne Technologies</em></li>
+							<li>Masami Takikawa <em>Oracle</em></li>
+						</ul>
+					</div>
+					<div id="2015m" class="tab-pane fade">
+						<ul>
+							<li>Annie Smith</li>
+							<li>Brenda Brumbaugh</li>
+							<li>Carla Moore</li>
+							<li>Charles Dupuy</li>
+							<li>Connor King</li>
+							<li>Dave Regan</li>
+							<li>Jamie Moore</li>
+							<li>Joe Elwood</li>
+							<li>Kevin Groom</li>
+							<li>Lynn Thompson</li>
+							<li>Marc Hayden</li>
+							<li>Mark Lewis</li>
+							<li>Masami Takikawa</li>
+							<li>Michael Groom</li>
+							<li>Ron Sims, Emeritus</li>
+							<li>Stan Sevruk</li>
+							<li>Tanya Corone</li>
+							<li>Walt Mahaffee</li>
+						</ul>
+					</div>
+				</div>
             </section>
           </div>
         </div>
