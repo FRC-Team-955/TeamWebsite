@@ -21,7 +21,7 @@
                 <b>Rookie Year:</b> 2002<br/>
                 <b><abbr title="FIRST Robotics Competition">FRC</abbr> Team Number:</b> 955<br/>
                 <b>Team Size:</b> 40+<br/>
-                <b>Team Colors:</b> <a href="#colophon" class="darkBG">Dark and Light Grey, Gold</a><br/>
+                <b>Team Colors:</b> <a href="#colophon" class="dark">Dark and Light Grey, Gold</a><br/>
                 <b>Location:</b> Crescent Valley High School in Corvallis, Oregon<br/>
                 <b>Coach:</b> Matthew Shuman<br/>
               </p>
