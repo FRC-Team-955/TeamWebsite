@@ -50,17 +50,8 @@
                                         <li><a href="videos">Videos</a></li>
                                         <li><a href="press">Press</a></li>
                                     </ul>
-                                </li>
-                                <li class="dropdown">
-                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Resources</a>
-                                    <ul class="dropdown-menu" role="menu">
-                                        <li><a href="resources#calendar">Calendar</a></li>
-                                        <li><a href="resources#student">Student Resources</a></li>
-                                        <li><a href="resources#parent">Parent Resources</a></li>
-                                        <li><a href="resources#safety">Safety</a></li>
-                                        <li class="jim"><a href="#"><img src="../images/jimHalfHead.png" alt="Coach's Corner"></a></li>
-                                    </ul>
                                 </li>-->
+                                <li><a href="support.php">Calendar</a></li>
                                 <li class="dropdown">
                                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Support</a>
                                     <ul class="dropdown-menu" role="menu">
