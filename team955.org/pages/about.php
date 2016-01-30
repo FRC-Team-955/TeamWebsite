@@ -29,7 +29,7 @@
         </div>
         <div class="row">
           <section class="roboR col-xs-12 col-sm-4 col-md-4 col-lg-4">
-            <img src="../images/pagePhotos/TeamPhoto.jpg" alt="Team photo at Bunnybot." class="imgBorder fullW"/>
+            <img src="../images/pagePhotos/TeamPhoto1.jpg" alt="Team photo at Bunnybot." class="imgBorder fullW"/>
           </section>
           <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
             <p>The Crescent Valley High School Robotics Team (<abbr title="FIRST Robotics Competition">FRC</abbr> Team 955) was founded in September 2002 by engineering teacher Mark Baldwin, an applied arts teacher at Crescent Valley High School. We are now a 14 year old FIRST Robotics team, and have grown from just twelve students in 2002 to a family of over 40 diverse students in recent years. The team is a club activity at Crescent Valley High School in Corvallis Oregon, and is a part of the NASA sponsored <abbr title="For Inspiration and Recognition of Science and Technology">FIRST</abbr> program. Each year we participate in community education and outreach activities, and compete in local robotics competitions and the worldwide FRC challenge.</p>
@@ -89,7 +89,7 @@
           </div>
           <div class="row">
             <section class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
-              <img src="../images/pagePhotos/2016image2%20Cropped.jpg" alt="FIRST provides an amazing experience for diverse groups of people." class="imgBorder fullW"/>
+              <img src="../images/pagePhotos/2016image2.jpg" alt="FIRST provides an amazing experience for diverse groups of people." class="imgBorder fullW"/>
             </section>
             <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
               <p>FIRST stands for "For Inspiration and Recognition of Science and Technology." It is a non-profit organization that seeks to boost interest in STEAM (science, technology, engineering, art, and mathematics) and develop young people into leaders of those fields. Founded in 1989, FIRST has created many team-structured opportunities to help accomplish their goal, such as FLL, FTC, and FRC.</p>
@@ -98,7 +98,7 @@
           </div>
           <div class="row">
             <section class="roboR col-xs-12 col-sm-4 col-md-4 col-lg-4">
-              <img src="../images/pagePhotos/2016image3%20Cropped.jpg" alt="There's always a robot being worked on, even wood ones." class="imgBorder fullW"/>
+              <img src="../images/pagePhotos/2016image3.jpg" alt="There's always a robot being worked on, even wood ones." class="imgBorder fullW"/>
             </section>
             <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
               <p>Recently, Brandeis University's Center for Youth and Communities conducted an independent, retrospective survey of FIRST Robotics Competition participants and compared results to a group of non-FIRST students with similar backgrounds and academic experiences, including math and science. Highlights of the study's findings include: When compared with the comparison group, FIRST students are: Significantly more likely to attend college on a full-time basis than comparison students (88% vs. 53%) More than 3 times as likely to major specifically in engineering. Roughly 10 times as likely to have had an apprenticeship, internship, or co-op job in their freshman year. Significantly more likely to expect to achieve a postgraduate degree. More than twice as likely to expect to pursue a career in science and technology. Nearly 4 times as likely to expect to pursue a career specifically in engineering. More than twice as likely to volunteer in their communities. You can see the whole survey <a href="http://www.usfirst.org/aboutus/impact" target="_blank">here</a>.</p>
@@ -121,7 +121,7 @@
           </div>
         <div class="row">
           <section class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
-            <img src="../images/pagePhotos/2016image5%20Cropped.jpg" alt="Students work closely with mentors and Coach Shuman" class="imgBorder fullW"/>
+            <img src="../images/pagePhotos/2016image5.jpg" alt="Students work closely with mentors and Coach Shuman" class="imgBorder fullW"/>
           </section>
           <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
             <p>Our team utilizes a fairly flat engineering leadership structure. Team responsibilities are divided among the two program managers, Ryan Dunn and Parker Lewis.  The two managers essentially plan large scale activities: one manager for the robot side and one for the business side. Other student leaders work with them to help lead the various sub-teams. This provides numerous opportunities for students to develop technical, business, leaderships and organizational skills.</p>
@@ -129,7 +129,7 @@
         </div>
         <div class="row">
           <section class="roboR col-xs-12 col-sm-4 col-md-4 col-lg-4">
-            <img src="../images/pagePhotos/2016image9%20Cropped.jpg" alt="Group discusses the structure of the robot." class="imgBorder fullW"/>
+            <img src="../images/pagePhotos/2016image9.jpg" alt="Group discusses the structure of the robot." class="imgBorder fullW"/>
           </section>
           <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
             <p>Since our founding we have grown into more than just a robotics team. We have become a family of diverse students connected by a shared passion for <abbr title="Science, Technology, Engineering, Art, and Mathematics">STEAM</abbr> and robotics. Our current coach, Jim Bowey, leads this family of students, mentors, parents, and business partners in the pursuit of our shared passion.</p>
@@ -188,7 +188,7 @@
           </div>
           <div class="row">
             <section class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
-              <img src="../images/pagePhotos/2016image11%20Cropped.jpg" alt="Mentors closely" class="imgBorder fullW"/>
+              <img src="../images/pagePhotos/2016image11.jpg" alt="Mentors closely" class="imgBorder fullW"/>
             </section>
             <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
 				<ul class="nav nav-tabs">
