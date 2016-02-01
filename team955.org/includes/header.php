@@ -51,7 +51,6 @@
                                         <li><a href="press">Press</a></li>
                                     </ul>
                                 </li>-->
-                                <li><a href="support.php">Calendar</a></li>
                                 <li class="dropdown">
                                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Support</a>
                                     <ul class="dropdown-menu" role="menu">
@@ -60,6 +59,7 @@
                                         <li><a href="support.php#sponsors">Sponsors</a></li>
                                     </ul>
                                 </li>
+                                <li><a href="calendar.php">Calendar</a></li>
                                 <li class="dropdown">
                                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">FIRST</a>
                                     <ul class="dropdown-menu" role="menu">
