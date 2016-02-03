@@ -19,7 +19,7 @@
               <section class="col-md-offset-3 col-md-6">
                 <div class="col-md-6">Please give a tax deductible gift through the <a href="http://cpsfoundation.org" class="dark">Corvallis School District online</a>.
   Donations given through this method should specify CV Robotics on the online form.</div>
-                <div class="col-md-6">Or, Write a check to "Corvallis Public Schools Foundation" with "CV Robotics" on the memo line. You can give it to Coach Bowey along with a completed Donor Card form, for record keeping purposes.</div>
+                <div class="col-md-6">Or, Write a check to "Corvallis Public Schools Foundation" with "CV Robotics" on the memo line. You can give it to Coach Matthew Shuman along with a completed Donor Card form, for record keeping purposes.</div>
               </section>
             </div>
           </div>
@@ -30,7 +30,7 @@
           </div>
           <div class="row">
             <section class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
-              <img src="../images/pagePhotos/" alt="" class="imgBorder fullW"/>
+              <img src="../images/pagePhotos/2016image10.jpg" alt="" class="imgBorder fullW"/>
             </section>
             <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
               <p>It's not about the robot. The robotics program at Crescent Valley High School is about teamwork and building a family. It's about learning that hard work and long hours can lead to success. It's about learning that failure is part of pushing yourself to try new things and learn. It's about making sure that everyone contributes and feels valuable. The robot is just the vehicle.</p>
