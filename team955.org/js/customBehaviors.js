@@ -34,3 +34,11 @@ function scrollToThis(thing){ /*input "top" for scroll to top */
   }
   $("html,body").animate({"scrollTop":$(thing).offset().top}, 200);
 };
+
+$("#linkSupport").dblclick(function() {
+	window.location.replace("http://team955.org/pages/support");
+});
+
+$("#linkAbout").dblclick(function() {
+	window.location.replace("http://team955.org/pages/about");
+});

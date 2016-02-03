@@ -261,7 +261,7 @@
             <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
                   <h2 class="titleR">2012</h2>
                   <p>2012's game was <a href="http://www3.usfirst.org/sites/default/files/uploadedFiles/Robotics_Programs/FRC/Marketing_Tools/Communication_Assets/2012/2012_game_description_1page.pdf" target="_blank">Rebound Rumble</a>, where basketballs were shot at hoops of various values, and end-game points were gotten by ballancing on bridges.</p>
-                  <p><b>Our drivetrain:</b> Six-wheel drive</p>
+                  <p><b>Our drivetrain:</b> Eight-wheel drive</p>
             </section>
           </div>
         </div>
