@@ -27,11 +27,11 @@ $(document).ready(function(){
     }
       
 $("#linkSupport").dblclick(function() {
-	window.location.replace("http://team955.org/pages/support");
+	window.location.replace("http://team955.org/pages/support.php");
 });
 
 $("#linkAbout").dblclick(function() {
-	window.location.replace("http://team955.org/pages/about");
+	window.location.replace("http://team955.org/pages/about.php");
 });
   });
 });/*end doc.ready*/
