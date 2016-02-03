@@ -25,6 +25,14 @@ $(document).ready(function(){
         $(".sometimesUp").css("right","-45px");
       }
     }
+      
+$("#linkSupport").dblclick(function() {
+	window.location.replace("http://team955.org/pages/support");
+});
+
+$("#linkAbout").dblclick(function() {
+	window.location.replace("http://team955.org/pages/about");
+});
   });
 });/*end doc.ready*/
 
