@@ -33,7 +33,7 @@
                             <ul class="nav navbar-nav">
                                 <li><a href="..">Home</a></li>
                                 <li class="dropdown">
-                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">About</a>
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false" id="linkAbout">About</a>
                                     <ul class="dropdown-menu" role="menu">
                                         <li><a href="about.php#team">About Us</a></li>
                                         <li><a href="about.php#FIRST">About FIRST</a></li>
@@ -52,7 +52,7 @@
                                     </ul>
                                 </li>-->
                                 <li class="dropdown">
-                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Support</a>
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false" id="linkSupport">Support</a>
                                     <ul class="dropdown-menu" role="menu">
                                         <li><a href="support.php#donations">Donations</a></li>
                                         <li><a href="support.php#fundraising">Fundraising</a></li>
@@ -61,7 +61,7 @@
                                 </li>
                                 <li><a href="calendar.php">Calendar</a></li>
                                 <li class="dropdown">
-                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">FIRST</a>
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false" id="linkFIRST">FIRST</a>
                                     <ul class="dropdown-menu" role="menu">
                                         <li><a href="http://www.usfirst.org/" target="_blank">US FIRST Homepage</a></li>
                                         <li><a href="http://www.usfirst.org/roboticsprograms/fll" target="_blank">Lego League</a></li>
