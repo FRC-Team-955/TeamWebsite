@@ -36,9 +36,9 @@ function scrollToThis(thing){ /*input "top" for scroll to top */
 };
 
 $("#linkSupport").dblclick(function() {
-	window.location.replace("http://team955.org/support.php");
+	window.location.replace("http://team955.org/support");
 });
 
-$("#linkABoutT").dblclick(function() {
-	window.location.replace("http://team955.org/about.php");
+$("#linkAbout").dblclick(function() {
+	window.location.replace("http://team955.org/about");
 });
