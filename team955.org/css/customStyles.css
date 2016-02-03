@@ -42,10 +42,10 @@ body {
 #rO .navbar-default .navbar-nav > .open > a,
 #rO .navbar-default .navbar-nav > .active > a {
   background-image:none;
-  background-color: #000;
-  color: #fff;
+  background-color: #0f0f0f;
+  color: #f0f0f0;
 }
-
+    
 #rO .navbar-toggle {
   background-color: transparent;
 }
@@ -85,7 +85,8 @@ body {
 #rO .dropdown-menu > li > a:hover,
 #rO .dropdown-menu > li > a:focus {
   background-image: none;
-  background-color: #9c0812;
+  background-color: #f0f0f0;
+  color: #0f0f0f;
 }
 
 #rO .dropdown-menu {
@@ -97,9 +98,9 @@ body {
 }
 
 #rO .dropdown-menu > li > a {
-  background-color: #000;
+  background-color: #0f0f0f;
   background-image: none;
-  color: #fff;
+  color: #f0f0f0;
   padding: 7px 15px;
 }
 
@@ -117,7 +118,7 @@ body {
 #rO .navbar-brand {
   font-family: "OrbitronBold";
   text-transform: uppercase;
-  color: #000;
+  color: #f0f0f0;
   margin: 0;
   display: block;
   text-shadow: none;
@@ -130,7 +131,7 @@ body {
 }
 
 #rO .navbar-brand:hover h1{
-  color: #9c0812;
+  color: #C69D3E;
 }
 
 #rO .navbar-brand h1 {
