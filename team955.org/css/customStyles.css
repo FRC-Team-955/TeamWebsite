@@ -54,7 +54,7 @@ body {
 #rO .navbar {
   background-image: none;
   border: none;
-  background-color: #F5B50C;
+  background-color: #0f0f0f;
   position: relative;
   height: auto !important;
   padding-top: 12px;
@@ -70,7 +70,7 @@ body {
 }
 
 #rO .navbar-nav > li > a {
-  color: #000;
+  color: #f0f0f0;
   text-shadow: none;
   font-family: "RalewayMedium";
   text-transform: uppercase;
