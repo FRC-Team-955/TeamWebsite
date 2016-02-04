@@ -101,7 +101,7 @@
           </div>
           <div class="row">
             <section class="roboR col-xs-12 col-sm-4 col-md-4 col-lg-4">
-              <img src="../images/pagePhotos/" alt="Tasty pancakes with team spirit." class="imgBorder fullW"/>
+              <img src="../images/pagePhotos/2016image15.jpg" alt="Tasty pancakes with team spirit." class="imgBorder fullW"/>
             </section>
             <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
               <h2 class="titleR">Pancake Breakfast</h2>
@@ -110,7 +110,7 @@
           </div>
           <div class="row">
             <section class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
-              <img src="../images/pagePhotos/" alt="" class="imgBorder fullW"/>
+              <img src="../images/pagePhotos/2016image16.jpg" alt="" class="imgBorder fullW"/>
             </section>
             <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
               <h2 class="titleL">Car Wash</h2>
@@ -119,7 +119,7 @@
           </div>
           <div class="row">
             <section class="roboR col-xs-12 col-sm-4 col-md-4 col-lg-4">
-              <img src="../images/pagePhotos/" alt="" class="imgBorder fullW"/>
+              <img src="../images/pagePhotos/.jpg" alt="" class="imgBorder fullW"/>
             </section>
             <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
               <h2 class="titleR">Dine out</h2>
