@@ -13,7 +13,7 @@
       </div>
       <div class="row">
         <section class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
-          <img src="../images/pagePhotos/" alt="" class="imgBorder fullW"/>
+          <img src="../images/pagePhotos/2016image14.jpg" alt="" class="imgBorder fullW"/>
         </section>
         <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
         </section>

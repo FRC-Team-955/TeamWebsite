@@ -26,13 +26,13 @@ $(document).ready(function(){
       }
     }
       
-$("#linkSupport").dblclick(function() {
-	window.location.replace("http://team955.org/pages/support");
-});
+  });
+  $("#linkSupport").dblclick(function() {
+    window.location.replace("http://team955.org/pages/support.php");
+  });
 
-$("#linkAbout").dblclick(function() {
-	window.location.replace("http://team955.org/pages/about");
-});
+  $("#linkAbout").dblclick(function() {
+    window.location.replace("http://team955.org/pages/about.php");
   });
 });/*end doc.ready*/
 
@@ -42,11 +42,3 @@ function scrollToThis(thing){ /*input "top" for scroll to top */
   }
   $("html,body").animate({"scrollTop":$(thing).offset().top}, 200);
 };
-
-$("#linkSupport").dblclick(function() {
-	window.location.replace("http://team955.org/pages/support");
-});
-
-$("#linkAbout").dblclick(function() {
-	window.location.replace("http://team955.org/pages/about");
-});
