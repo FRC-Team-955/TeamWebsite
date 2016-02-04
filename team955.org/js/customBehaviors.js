@@ -26,13 +26,13 @@ $(document).ready(function(){
       }
     }
       
-$("#linkSupport").dblclick(function() {
-	window.location.replace("http://team955.org/pages/support.php");
-});
+  });
+  $("#linkSupport").dblclick(function() {
+    window.location.replace("http://team955.org/pages/support.php");
+  });
 
-$("#linkAbout").dblclick(function() {
-	window.location.replace("http://team955.org/pages/about.php");
-});
+  $("#linkAbout").dblclick(function() {
+    window.location.replace("http://team955.org/pages/about.php");
   });
 });/*end doc.ready*/
 
