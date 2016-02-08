@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg2" inkscape:export-filename="C:\Users\Nathan\thebluealliance.png" inkscape:export-ydpi="90" inkscape:export-xdpi="90" sodipodi:docname="ic_tba_lamp.svg" inkscape:version="0.48.5 r10040" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="192px" height="192px"
+	 viewBox="0 0 192 192" enable-background="new 0 0 192 192" xml:space="preserve">
+<path id="path4095" sodipodi:ry="88" sodipodi:rx="88" sodipodi:cy="96" sodipodi:cx="96" sodipodi:type="arc" fill="#3F51B5" d="
+	M183.702,956.671c0,48.601-39.399,88-88,88c-48.601,0-88-39.399-88-88c0-48.602,39.399-88,88-88
+	C144.303,868.671,183.702,908.069,183.702,956.671z"/>
+<sodipodi:namedview  id="base" inkscape:snap-global="false" inkscape:guide-bbox="true" inkscape:window-y="-8" inkscape:window-x="-8" inkscape:window-height="1017" inkscape:window-width="1920" inkscape:current-layer="layer1" inkscape:document-units="px" inkscape:pageshadow="2" inkscape:pageopacity="0" showguides="true" showgrid="true" inkscape:cy="95.421524" inkscape:cx="15.994936" inkscape:zoom="2.8284271" borderopacity="1.0" bordercolor="#666666" pagecolor="#ffffff" inkscape:window-maximized="1">
+	
+		<inkscape:grid  id="grid2987" type="xygrid" dotted="false" enabled="false" visible="true" empspacing="4" snapvisiblegridlinesonly="true">
+		</inkscape:grid>
+</sodipodi:namedview>
+<g>
+	<rect x="101.777" y="99" fill="#010002" width="29.805" height="32.396"/>
+	<path fill="#010002" d="M131.582,136.797h-29.805v32.1C118.445,167.504,131.582,153.764,131.582,136.797z"/>
+	<rect x="101.777" y="61.204" fill="#010002" width="29.805" height="32.396"/>
+	<rect x="66.553" y="61.204" fill="#010002" width="29.805" height="32.396"/>
+	<path fill="#010002" d="M156.012,0H36.003C16.117,0,0,16.118,0,36.003v120.009c0,19.886,16.117,36.003,36.003,36.003h120.009
+		c19.887,0,36.004-16.117,36.004-36.003V36.003C192.016,16.118,175.898,0,156.012,0z M147.84,61.204h-10.838v75.593
+		c0,20.873-16.984,37.795-37.934,37.795c-20.951,0-37.934-16.922-37.934-37.795V61.204H50.296V23.408h97.544V61.204z"/>
+	<rect x="66.553" y="99" fill="#010002" width="29.805" height="32.396"/>
+	<path fill="#010002" d="M96.358,168.896v-32.1H66.553C66.553,153.764,79.69,167.504,96.358,168.896z"/>
+</g>
+<g id="layer2" inkscape:label="Foreground Gradient" inkscape:groupmode="layer" display="none">
+	<defs>
+		<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="2.516" y="1.476" width="185.262" height="186.323">
+			<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+		</filter>
+	</defs>
+	<mask maskUnits="userSpaceOnUse" x="2.516" y="1.476" width="185.262" height="186.323" id="mask4093-0" display="inline">
+		
+			<path id="path4095-3" sodipodi:ry="88" sodipodi:rx="88" sodipodi:cy="96" sodipodi:cx="96" sodipodi:type="arc" fill="#3F51B5" filter="url(#Adobe_OpacityMaskFilter)" d="
+			M183.702,956.671c0,48.601-39.399,88-88,88c-48.601,0-88-39.399-88-88c0-48.602,39.399-88,88-88
+			C144.303,868.671,183.702,908.069,183.702,956.671z"/>
+	</mask>
+	
+		<linearGradient id="rect4061_1_" gradientUnits="userSpaceOnUse" x1="93.3345" y1="191.6104" x2="96.1629" y2="8.1166" gradientTransform="matrix(1 0 0 -1.0115 0.395 195.4785)">
+		<stop  offset="0" style="stop-color:#000000;stop-opacity:0"/>
+		<stop  offset="1" style="stop-color:#000000;stop-opacity:0.3922"/>
+	</linearGradient>
+	
+		<rect id="rect4061" x="2.516" y="1.476" display="inline" mask="url(#mask4093-0)" fill="url(#rect4061_1_)" width="185.262" height="186.323"/>
+</g>
+</svg>
