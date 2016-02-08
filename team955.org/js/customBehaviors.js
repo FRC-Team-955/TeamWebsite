@@ -41,4 +41,5 @@ function scrollToThis(thing){ /*input "top" for scroll to top */
     thing="body";
   }
   $("html,body").animate({"scrollTop":$(thing).offset().top}, 200);
+    
 };

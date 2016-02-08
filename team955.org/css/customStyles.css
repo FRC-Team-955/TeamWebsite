@@ -473,6 +473,9 @@ body {
     border-top: 1px solid #7d7d7d;
   }
 }
+.mediaIcons {
+    width: 75px;
+}
 
 
 /*PAGE SPECIFIC THINGS*/
