@@ -38,7 +38,7 @@
         </div>
         <div class="row">
           <section class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
-            <img src="../images/pagePhotos/mentors.jpg" alt="Manufacturing is done by a joint effort of mentors and students" class="imgBorder fullW"/>
+            <img src="../images/pagePhotos/2016image24.jpg" alt="Manufacturing is done by a joint effort of mentors and students" class="imgBorder fullW"/>
           </section>
           <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
             <p>Since our rookie year, when we earned the Motorola Quality Award at the Pacific Northwest Regionals, we have maintained a history of quality and craftsmanship. Below is a list of some of our accomplishments so far:</p>
@@ -188,7 +188,7 @@
           </div>
           <div class="row">
             <section class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
-              <img src="../images/pagePhotos/2016image11.jpg" alt="Mentors closely" class="imgBorder fullW"/>
+              <img src="../images/pagePhotos/2016image24.jpg" alt="Mentors closely" class="imgBorder fullW"/>
             </section>
             <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
 				<ul class="nav nav-tabs">
