@@ -473,8 +473,17 @@ body {
     border-top: 1px solid #7d7d7d;
   }
 }
+
 .mediaIcons {
     width: 75px;
+}
+
+
+.mediaList li {
+    list-style:none;
+    display: inline-block;
+    margin-right: 10px;
+    margin-left: 10px;
 }
 
 
