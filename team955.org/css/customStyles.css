@@ -58,6 +58,7 @@ body {
   position: relative;
   height: auto !important;
   padding-top: 12px;
+  border-bottom: 10px solid #C69D3E;
 }
 
 #rO .navbar-wrapper .container-fluid {
