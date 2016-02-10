@@ -480,6 +480,10 @@ body {
 }
 
 
+#rO .mediaList li a {
+  border-bottom: none;
+}
+    
 .mediaList li {
     list-style:none;
     display: inline-block;
