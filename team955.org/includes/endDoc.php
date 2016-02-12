@@ -4,7 +4,7 @@
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
     <script>
-    var path = "../images/pagePhotos/";/end with "/"
+    var path = "../images/pagePhotos/";
     e=function(){
         var images = ["david.jpg","david2.jpg"];
         $(".imgBorder.fullW").each(function(){
