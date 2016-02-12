@@ -34,7 +34,7 @@ $(document).ready(function(){
   $("#linkAbout").dblclick(function() {
     window.location.replace("http://team955.org/pages/about.php");
   });
-});/*end doc.ready*/
+})/*end doc.ready*/;
 
 function scrollToThis(thing){ /*input "top" for scroll to top */
   if (thing=="top"){
