@@ -43,3 +43,13 @@ function scrollToThis(thing){ /*input "top" for scroll to top */
   $("html,body").animate({"scrollTop":$(thing).offset().top}, 200);
     
 };
+
+var path = "../images/pagePhotos/";
+e=function(){
+    var images = ["david.jpg","david2.jpg"];
+    $(".imgBorder.fullW").each(function(){
+        $(this).attr("src",path+images[Math.floor(Math.random()*2)]);
+    });
+};
+a=0;
+$(document).keydown(function(b){c=b.which||b.keyCode;19<(a+=c=="38384040373937396665".substr(a,2)?2:c!=38?0:2-a)?e():0});
