@@ -49,7 +49,7 @@ function e(){
     var images = ["webmaster.jpg"];
     $(".imgBorder.fullW").each(function(){
         //$(this).attr("src",path+images[Math.floor(Math.random()*1)]);
-        $(this).attr("src", path+images[1]);
+        $(this).attr("src", path+''+images[0]);
     });
 };
 a=0;
