@@ -479,7 +479,6 @@ body {
     width: 75px;
 }
 
-
 #rO .mediaList li a {
   border-bottom: none;
 }
@@ -500,11 +499,11 @@ body {
 }
 
 #FIRST {
-  background-image: url("../images/pagePhotos/FIRST.jpg");
+  background-image: url("../images/pagePhotos/2016image18.jpg");
 }
 
 #structure {
-  background-image: url("../images/pagePhotos/structure.jpg");
+  background-image: url("../images/pagePhotos/2016image28.jgp");
 }
 
 #mentors {
@@ -521,7 +520,7 @@ body {
 
 /*support.php files next...*/
 #donations {
-  background-image: url("../images/pagePhotos/donations.jpg");
+  background-image: url("../images/pagePhotos/2016image25.jpg");
 }
 
 #fundraising {
@@ -529,5 +528,5 @@ body {
 }
 
 #sponsors {
-  background-image: url("../images/pagePhotos/sponsors.jpg");
+  background-image: url("../images/pagePhotos/2016image29.JPG");
 }

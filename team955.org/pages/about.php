@@ -172,7 +172,7 @@
         </div>
         <div class="row">
             <section class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
-              <img src="../images/pagePhotos/" alt="" class="imgBorder fullW"/>
+              <img src="../images/pagePhotos/2016image31.jpg" alt="" class="imgBorder fullW"/>
             </section>
             <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
               <p>Our over 40 students team members provide a great deal of student diversity on our team. Students include boys and girls from Freshmen through Seniors with interests in mechanical engineering, electrical engineering, computer science, web page design, business management, art and photography. Mentors are a vital part of the team, as they provide us with support and experience. All mentors are volunteers and often have another job that they go to everyday before coming to robotics. The team employs a full time coach, as well.</p>
@@ -246,7 +246,7 @@
           </div>
           <div class="row">
             <section class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
-              <img src="../images/robots/robot2013.jpg" alt="Our 2013 FRC Robot" class="imgBorder fullW"/>
+              <img src="../images/pagePhotos/2013robert.jpg" alt="Our 2013 FRC Robot" class="imgBorder fullW"/>
             </section>
             <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
                   <h2 class="titleL">2013</h2>
@@ -285,7 +285,7 @@
           </div>
           <div class="row">
             <section class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
-              <img src="../images/pagePhotos/" alt="" class="imgBorder fullW"/>
+              <img src="../images/pagePhotos/2016image30.jpg" alt="" class="imgBorder fullW"/>
             </section>
             <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
               <p>This iteration of the Team 955 website was build from the ground up in 2015. Based upon <a href="https://www.getbootstrap.com" target="_blank">Bootstrap</a>, the website was made with scraps of the old website, which was once based on Wordpress, which had been abandoned in previous years. The first generation of <i>this</i> website was written and compiled by Matthew Sundberg, with the oversight and guidance of Graham Barber.</p>
