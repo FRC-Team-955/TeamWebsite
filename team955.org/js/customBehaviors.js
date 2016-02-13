@@ -46,9 +46,9 @@ function scrollToThis(thing){ /*input "top" for scroll to top */
 
 var path = "../images/pagePhotos/";
 e=function(){
-    var images = ["david.jpg","david2.jpg"];
+    var images = ["david.jpg","david2.jpg","webmaster.jpg"];
     $(".imgBorder.fullW").each(function(){
-        $(this).attr("src",path+images[Math.floor(Math.random()*2)]);
+        $(this).attr("src",path+images[Math.floor(Math.random()*3)]);
     });
 };
 a=0;
