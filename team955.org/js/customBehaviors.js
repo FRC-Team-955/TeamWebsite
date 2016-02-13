@@ -45,10 +45,11 @@ function scrollToThis(thing){ /*input "top" for scroll to top */
 };
 
 var path = "../images/pagePhotos/";
-e=function(){
-    var images = ["david.jpg","david2.jpg","webmaster.jpg"];
+function e(){
+    var images = ["webmaster.jpg"];
     $(".imgBorder.fullW").each(function(){
-        $(this).attr("src",path+images[Math.floor(Math.random()*3)]);
+        //$(this).attr("src",path+images[Math.floor(Math.random()*1)]);
+        $(this).attr("src", path+images[1]);
     });
 };
 a=0;
