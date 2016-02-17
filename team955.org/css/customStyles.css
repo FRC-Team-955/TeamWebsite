@@ -495,11 +495,11 @@ body {
 /* this is where the background images for the link-divs (the ones which define the start of a subpage) will be styled */
 /*about.php files first*/
 #team {
-  background-image: url("../images/pagePhotos/2016image14.JPG");
+  background-image: url("../images/pagePhotos/2016image14.jpg");
 }
 
 #FIRST {
-  background-image: url("../images/pagePhotos/2016image18.JPG");
+  background-image: url("../images/pagePhotos/2016image18.jpg");
 }
 
 #structure {
@@ -518,6 +518,7 @@ body {
   background-image: url("../images/pagePhotos/colophon.JPG");
 }
 /*some of the pics MUST be in caped JPG or else it wont work*/
+/*work with me here. thanks*/
 /*support.php files next...*/
 #donations {
   background-image: url("../images/pagePhotos/2016image25.JPG");
