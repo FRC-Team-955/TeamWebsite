@@ -495,36 +495,36 @@ body {
 /* this is where the background images for the link-divs (the ones which define the start of a subpage) will be styled */
 /*about.php files first*/
 #team {
-  background-image: url("../images/pagePhotos/2016image14.jpg");
+  background-image: url("../images/pagePhotos/2016image14.JPG");
 }
 
 #FIRST {
-  background-image: url("../images/pagePhotos/2016image18.jpg");
+  background-image: url("../images/pagePhotos/2016image18.JPG");
 }
 
 #structure {
-  background-image: url("../images/pagePhotos/2016image28.jpg");
+  background-image: url("../images/pagePhotos/2016image28.JPG");
 }
 
 #mentors {
-  background-image: url("../images/pagePhotos/2016image34.jpg");
+  background-image: url("../images/pagePhotos/2016image34.JPG");
 }
 
 #robots {
-  background-image: url("../images/pagePhotos/2016image33.jpg");
+  background-image: url("../images/pagePhotos/2016image33.JPG");
 }
 
 #colophon {
-  background-image: url("../images/pagePhotos/colophon.jpg");
+  background-image: url("../images/pagePhotos/colophon.JPG");
 }
-
+/*some of the pics MUST be in caped JPG or else it wont work*/
 /*support.php files next...*/
 #donations {
-  background-image: url("../images/pagePhotos/2016image25.jpg");
+  background-image: url("../images/pagePhotos/2016image25.JPG");
 }
 
 #fundraising {
-  background-image: url("../images/pagePhotos/2016image32.jpg");
+  background-image: url("../images/pagePhotos/2016image32.JPG");
 }
 
 #sponsors {
