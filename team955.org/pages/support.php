@@ -135,6 +135,22 @@
               <h2 class="titleC darkBG">Sponsors</h2>
             </section>
           </div>
+            <div class="container">
+    <div class="row">
+        <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4"><a href="http://www.tunnelradio.com/"><img src="../images/brands/Tunnel_Radio.svg" alt="Tunnel Radio" class="fullW"/></a></div>
+        <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4"><a href="http://www.cganodize.com/"><img src="../images/brands/" alt="CG Industries" class="fullW"/></a></div>
+        <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4"><a href="http://www.cpi.coop/"><img src="../images/brands/CPI.svg" alt="CPI" class="fullW"/></a></div>
+        </div>
+        <div class="row">
+        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6"><a href="http://www.triaxiseng.com/"><img src="../images/brands/TriAxis.svg" alt="Triaxiseng" class="fullW"/></a></div>
+        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6"><a href="http://www.korvis.com/home/"><img src="../images/brands/Korvis.svg" alt="Korvis" class="fullW"/></a></div>
+            </div>
+        <div class="row">    
+        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6"><a href="http://www.ode.state.or.us/home/"><img src="../images/brands/" alt="Oregon State Department of Education" class="fullW"/></a></div>
+        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6"><a href="http://www.autodesk.com/"><img src="../images/brands/AutodeskSVG.svg" alt="Autodesk" class="fullW"/></a></div>
+            </div>
+    </div>
+    </div>
           <div class="row">
             <section class="col-md-12">
               <p>Sponsors are a key component of our team, providing funds and supplies to support building the robot and other team activities.  We send sponsors newsletters during the year to keep them up to date with our work, and show them the results of their support.  We visit sponsors in person to build solid relationships and lasting partnerships, which in turn helps us with machining parts and getting donated materials.  Sponsors are invited to all of our robotics scrimmages, outreach events, and competitions. They are also invited to come visit us during the build season to see us at work.  In exchange for their donation, sponsors are also given different levels of recognition depending on the size of the donation.  These recognition levels are explained in the donations section.</p>
