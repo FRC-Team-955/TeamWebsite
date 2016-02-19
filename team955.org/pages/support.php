@@ -137,7 +137,7 @@
           </div>
             <div class="container">
     <div class="row">
-        <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4"><a href="http://www.tunnelradio.com/"><img src="../images/brands/Tunnel_Radio.svg" alt="Tunnel Radio" class="fullW"/></a></div>
+        <div class="col-xs-12 col-sm-8 col-md-8 col-lg-8"><a href="http://www.tunnelradio.com/"><img src="../images/brands/Tunnel_Radio.svg" alt="Tunnel Radio" class="fullW"/></a></div>
         <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4"><a href="http://www.cganodize.com/"><img src="../images/brands/" alt="CG Industries" class="fullW"/></a></div>
         <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4"><a href="http://www.cpi.coop/"><img src="../images/brands/CPI.svg" alt="CPI" class="fullW"/></a></div>
         </div>
@@ -147,7 +147,7 @@
             </div>
         <div class="row">    
         <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6"><a href="http://www.ode.state.or.us/home/"><img src="../images/brands/" alt="Oregon State Department of Education" class="fullW"/></a></div>
-        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6"><a href="http://www.autodesk.com/"><img src="../images/brands/AutodeskSVG.svg" alt="Autodesk" class="fullW"/></a></div>
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12"><a href="http://www.autodesk.com/"><img src="../images/brands/AutodeskSVG.svg" alt="Autodesk" class="fullW"/></a></div>
             </div>
     </div>
     </div>

@@ -265,7 +265,96 @@
             </section>
           </div>
         </div>
-
+          <div class="row">
+            <section class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+              <img src="../images/pagePhotos/raiderbot10.jpg" alt="Our 2011 FRC Robot" class="imgBorder fullW"/>
+            </section>
+            <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+                  <h2 class="titleL">2011</h2>
+                  <p><b>Our drivetrain:</b>Coaxial swerve drive.  </p>
+            </section>
+          </div>
+        <div class="row">
+            <section class="roboR col-xs-12 col-sm-4 col-md-4 col-lg-4">
+              <img src="../images/pagePhotos/raiderbot9.jpg" alt="Our 2010 FRC Robot" class="imgBorder fullW"/>
+            </section>
+            <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+                  <h2 class="titleR">2010</h2>
+                  <p><b>Our drivetrain:</b>Direct-drive mecanum, with 6-inch wheels. </p>
+            </section>
+          </div>
+        <div class="row">
+            <section class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+              <img src="../images/pagePhotos/raiderbot8.jpg" alt="Our 2009 FRC Robot" class="imgBorder fullW"/>
+            </section>
+            <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+                  <h2 class="titleL">2009</h2>
+                  <p><b>Our drivetrain:</b> CIM motor and 9:1 Bane Bot transmission on each wheel </p>
+            </section>
+          </div>
+        <div class="row">
+            <section class="roboR col-xs-12 col-sm-4 col-md-4 col-lg-4">
+              <img src="../images/pagePhotos/raiderbot7.jpg" alt="Our 2008 FRC Robot" class="imgBorder fullW"/>
+            </section>
+            <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+                  <h2 class="titleR">2008</h2>
+                  <p><b>Our drivetrain:</b>4 CIM Motor Bane Bots, 2 Speed Dog Clutch Transmission</p>
+            </section>
+          </div>
+        <div class="row">
+            <section class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+              <img src="../images/pagePhotos/raiderbot6.jpg" alt="Our 2007 FRC Robot" class="imgBorder fullW"/>
+            </section>
+            <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+                  <h2 class="titleL">2007</h2>
+                  <p><b>Our drivetrain:</b> 4 CIM Motor Bane Bots</p>
+            </section>
+          </div>
+        <div class="row">
+            <section class="roboR col-xs-12 col-sm-4 col-md-4 col-lg-4">
+              <img src="../images/pagePhotos/raiderbot5.jpg" alt="Our 2006 FRC Robot" class="imgBorder fullW"/>
+            </section>
+            <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+                  <h2 class="titleR">2006</h2>
+                  <p><b>Our drivetrain:</b>Minibike motor direct drive</p>
+            </section>
+          </div>
+        <div class="row">
+            <section class=" col-xs-12 col-sm-4 col-md-4 col-lg-4">
+              <img src="../images/pagePhotos/raiderbot4.jpg" alt="Our 2005 FRC Robot" class="imgBorder fullW"/>
+            </section>
+            <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+                  <h2 class="titleL">2005</h2>
+                  <p><b>Our drivetrain:</b>2-speed shifting transmission with two CIMs per side</p>
+            </section>
+          </div>
+        <div class="row">
+            <section class="roboR col-xs-12 col-sm-4 col-md-4 col-lg-4">
+              <img src="../images/pagePhotos/raiderbot3.jpg" alt="Our 2004 FRC Robot" class="imgBorder fullW"/>
+            </section>
+            <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+                  <h2 class="titleR">2004</h2>
+                  <p><b>Our drivetrain:</b>2-speed shifting transmission with Bosch drill motors</p>
+            </section>
+          </div>
+         <div class="row">
+            <section class=" col-xs-12 col-sm-4 col-md-4 col-lg-4">
+              <img src="../images/pagePhotos/raiderbot2.jpg" alt="Our 2003 FRC Robot" class="imgBorder fullW"/>
+            </section>
+            <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+                  <h2 class="titleL">2003</h2>
+                  <p><b>Our drivetrain:</b>Worm gear transmission</p>
+            </section>
+          </div>
+         <div class="row">
+            <section class="roboR col-xs-12 col-sm-4 col-md-4 col-lg-4">
+              <img src="../images/pagePhotos/raiderbot1.jpg" alt="Our 2002 FRC Robot" class="imgBorder fullW"/>
+            </section>
+            <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+                  <h2 class="titleR">2002</h2>
+                  <p><b>Our drivetrain:</b>Drill motors, 2 Wheel Drive</p>
+            </section>
+          </div>
         <!-- START COLOPHON -->
 
         <div class="subpageBox">
