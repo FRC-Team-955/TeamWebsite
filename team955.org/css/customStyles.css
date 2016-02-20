@@ -403,6 +403,13 @@ a.svg:after {
   bottom: 0; 
   left: 0;
 }
+a.svg:hover .text{
+	fill: #F0F0F0;
+}
+a.svg:hover .circle{
+	fill: #C69D3E;
+	stroke: none;
+}
 
 /* jump to top */
 .sometimesUp {
