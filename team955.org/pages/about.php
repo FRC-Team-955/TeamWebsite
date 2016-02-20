@@ -206,6 +206,12 @@
 							<li>Walt Mahaffee <em>USDA - ARS</em></li>
 							<li>Patrick Freeman <em>Lucidyne Technologies</em></li>
 							<li>Masami Takikawa <em>Oracle</em></li>
+							<li>Arian Kulp</li>
+							<li>Ed Miller <em>GE (Retired)</em></li>
+							<li>Josh Fryman <em>Intel</em></li>
+							<li>Kevin Groom <em>Linn County Roads</em></li>
+							<li>Rod Pauls <em>Samaritan Health</em></li>
+							<li>Stan Sevruk <em>self-employed</em></li>
 						</ul>
 					</div>
 					<div id="2015m" class="tab-pane fade">
