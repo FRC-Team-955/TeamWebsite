@@ -395,18 +395,10 @@ body {
   border: none;
 }
 
-a.svg object:after {
-  content: ""; 
-  position: absolute; 
-  top: 0; 
-  right: 0; 
-  bottom: 0; 
-  left: 0;
-}
-a.svg object:hover .text{
+a.svg:hover .text{
 	fill: #F0F0F0;
 }
-a.svg object:hover .circle{
+a.svg:hover .circle{
 	fill: #C69D3E;
 	stroke: none;
 }
