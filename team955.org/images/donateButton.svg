@@ -33,10 +33,7 @@
 <glyph unicode="T" horiz-adv-x="610" d="M593,648l-253,0l0,-648l-70,0l0,648l-253,0l0,62l576,0z"/>
 </font>
 <g class="all">
-	<circle class="circle" stroke-width="2" stroke-miterlimit="10" cx="50" cy="50" r="48"/>
-	<text transform="matrix(1 0 0 1 12.3223 46.3042)">
-		<tspan class="text" x="0" y="0" font-family="'Raleway-Regular'" font-size="18.2326">DONATE</tspan>
-		<tspan x="13.893" y="21.879" class="text" font-family="'Raleway-Regular'" font-size="18.2326">HERE</tspan>
-	</text>
+	<circle fill="none" stroke="#0F0F0F" stroke-width="2" stroke-miterlimit="10" cx="50" cy="50" r="48.035"/>
+<text transform="matrix(1 0 0 1 12.3223 46.3042)"><tspan x="0" y="0" fill="#0F0F0F" font-family="'Raleway-Regular'" font-size="18.2326">DONATE</tspan><tspan x="13.893" y="21.879" fill="#0F0F0F" font-family="'Raleway-Regular'" font-size="18.2326">HERE</tspan></text>
 </g>
 </svg>
