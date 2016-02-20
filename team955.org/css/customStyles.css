@@ -395,10 +395,10 @@ body {
   border: none;
 }
 
-.all:hover .text{
+a:hover .text{
 	fill: #F0F0F0;
 }
-.all:hover .circle{
+a:hover .circle{
 	fill: #C69D3E;
 	stroke: none;
 }
