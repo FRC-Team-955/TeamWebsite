@@ -395,7 +395,7 @@ body {
   border: none;
 }
 
-a.svg:after {
+a.svg object:after {
   content: ""; 
   position: absolute; 
   top: 0; 
@@ -403,10 +403,10 @@ a.svg:after {
   bottom: 0; 
   left: 0;
 }
-a.svg:hover .text{
+a.svg object:hover .text{
 	fill: #F0F0F0;
 }
-a.svg:hover .circle{
+a.svg object:hover .circle{
 	fill: #C69D3E;
 	stroke: none;
 }
