@@ -4,6 +4,10 @@
 	<?xml-stylesheet type="text/css" href="../css/customStyles.css" ?>
 	<style type="text/css">
 <![CDATA[
+@font-face {
+    font-family: "RalewayRegular";
+    src: url("../fonts/Raleway-Regular.ttf");
+}
 .text {
 	fill: #0F0F0F;
 	font-family: RalewayRegular;
@@ -20,12 +24,12 @@
 	stroke: none;
 }
 ]]>
-</style><a xlink:href="http://www.google.com" target="_blank">
+</style><a xlink:href="http://cpsfoundation.org" target="_blank">
 <g class="all">
 	<circle class="circle" stroke-width="2" stroke-miterlimit="10" cx="50" cy="50" r="48.035"/>
 	<text class="text" transform="matrix(1 0 0 1 12.3223 46.3042)">
-		<tspan x="0" y="0" font-family="ralewayRegular" font-size="18.2326">DONATE</tspan>
-		<tspan x="13.893" y="21.879" font-family="ralewayRegular" font-size="18.2326">HERE</tspan>
+		<tspan x="0" y="0" font-size="18.2326">DONATE</tspan>
+		<tspan x="13.893" y="21.879" font-size="18.2326">HERE</tspan>
 	</text>
 </g></a>
 </svg>
