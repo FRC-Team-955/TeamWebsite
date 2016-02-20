@@ -67,7 +67,7 @@
           </div>-->
           <div class="row">
             <section class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
-                <a href="http://cpsfoundation.org" class="noB fullW" style="display: inline-block;" target="_blank"><object data="../images/donateButton.svg" type="image/svg+xml" class="fullW" style="pointer-events: none;">Donate Here!</object></a>
+                <a href="http://cpsfoundation.org" class="noB fullW svg" style="display: inline-block;" target="_blank"><object data="../images/donateButton.svg" type="image/svg+xml" class="fullW">Donate Here!</object></a>
             </section>
             <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
               <p>We need your help. We have bright engaged students and dedicated community mentors. Financial support is crucial as costs for this program are high, from robot parts to competition entry fees to travel expenses, but school resources are limited.</p>
