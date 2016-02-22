@@ -198,20 +198,21 @@
 				<div class="tab-content">
 					<div id="2016m" class="tab-pane fade in active">
 						<ul>
-							<li>Charles Dupuy <em>Voxtel</em>
-							<li>Nanette Dupuy <em>Tunnel Radio</em></li>
-							<li>Tanya Carone <em>self-employed medical device consultant</em></li>
-							<li>Peter Mes <em>agroGene, Inc.</em></li>
-							<li>Glory Abadilla <em>Hewlett-Packard</em></li>
-							<li>Walt Mahaffee <em>USDA - ARS</em></li>
-							<li>Patrick Freeman <em>Lucidyne Technologies</em></li>
-							<li>Masami Takikawa <em>Oracle</em></li>
 							<li>Arian Kulp</li>
+							<li>Charles Dupuy <em>Voxtel</em>
 							<li>Ed Miller <em>GE (Retired)</em></li>
+							<li>Glory Abadilla <em>Hewlett-Packard</em></li>
 							<li>Josh Fryman <em>Intel</em></li>
 							<li>Kevin Groom <em>Linn County Roads</em></li>
+							<li>Masami Takikawa <em>Oracle</em></li>
+							<li>Nanette Dupuy <em>Tunnel Radio</em></li>
+							<li>Patrick Freeman <em>Lucidyne Technologies</em></li>
+							<li>Peter Mes <em>agroGene, Inc.</em></li>
 							<li>Rod Pauls <em>Samaritan Health</em></li>
 							<li>Stan Sevruk <em>self-employed</em></li>
+							<li>Tanya Carone <em>self-employed medical device consultant</em></li>
+							<li>Walt Mahaffee <em>USDA - ARS</em></li>
+
 						</ul>
 					</div>
 					<div id="2015m" class="tab-pane fade">
