@@ -43,8 +43,7 @@
               <img src="../images/pagePhotos/2016image21.jpg" alt="" class="imgBorder fullW"/>
             </section>
             <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
-              <p>We are raising money to help support Team 955 in order to keep going strong as one of the most competitive teams in the Pacific Northwest Region. Being a competitive team helps create a better learning experience and generates higher motivation for all involved.  Our team takes a businesslike approach to gaining sponsors, and running the team.  Our a large mechanical team designs, builds, and tests the robot.  Our business team works on marketing, competitive analysis, and the team’s website.  This two-sided approach requires much time and energy from the mentors and students both, but proves to be worth it when we’re able to complete the business and mechanical aspect of the team in minimal time.  Students in the business team quickly learn that the main element of a successful business is communication with your colleagues, so that you may collaborate and work together to solve issues, and complete tasks.  This tried and tested method has proven itself time and time again, as almost every member who has been a part of our team, sees success in their future and enters a high-ranking college.
-</p>
+              <p>We are raising money to help support Team 955 in order to keep going strong as one of the most competitive teams in the Pacific Northwest Region. Being a competitive team helps create a better learning experience and generates higher motivation for all involved.  Our team takes a businesslike approach to gaining sponsors, and running the team.  Our a large mechanical team designs, builds, and tests the robot.  Our business team works on marketing, competitive analysis, and the team’s website.  This two-sided approach requires much time and energy from the mentors and students both, but proves to be worth it when we’re able to complete the business and mechanical aspect of the team in minimal time.  Students in the business team quickly learn that the main element of a successful business is communication with your colleagues, so that you may collaborate and work together to solve issues, and complete tasks.  This tried and tested method has proven itself time and time again, as almost every member who has been a part of our team, sees success in their future and enters a high-ranking college.</p>
             </section>
           </div>
           <!-- We don't do these now, sorry sponsors <div class="row">
@@ -133,22 +132,46 @@
               <h2 class="titleC darkBG">Sponsors</h2>
             </section>
           </div>
-            <div class="container">
-    <div class="row">
-	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12"><a href="http://www.autodesk.com/"><img src="../images/brands/AutodeskColor.svg" alt="Autodesk" class="fullW"/></a></div>
-	</div>
-	<div class="row">
-        <div class="col-xs-12 col-sm-8 col-md-8 col-lg-8"><a href="http://www.tunnelradio.com/"><img src="../images/brands/Tunnel_Radio.svg" alt="Tunnel Radio" class="fullW"/></a></div>
-        <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4"><a href="http://www.cganodize.com/"><img src="../images/brands/" alt="CG Industries" class="fullW"/></a></div>
-        <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4"><a href="http://www.cpi.coop/"><img src="../images/brands/CPI.svg" alt="CPI" class="fullW"/></a></div>
-        </div>
-        <div class="row">
-        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6"><a href="http://www.triaxiseng.com/"><img src="../images/brands/TriAxis.svg" alt="Triaxiseng" class="fullW"/></a></div>
-        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6"><a href="http://www.korvis.com/home/"><img src="../images/brands/Korvis.svg" alt="Korvis" class="fullW"/></a></div>
-            </div>
-        <div class="row">    
-        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6"><a href="http://www.ode.state.or.us/home/"><img src="../images/brands/ODE.svg" alt="Oregon State Department of Education" class="fullW"/></a></div>
-            </div>
+          <div class="container">
+			<div class="row">
+			  <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+			    <a href="http://www.autodesk.com/">
+				  <img src="../images/brands/AutodeskColor.svg" alt="Autodesk" class="fullW"/>
+				</a>
+			  </div>
+			</div>
+			<div class="row">
+			  <div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+			    <a href="http://www.tunnelradio.com/">
+				  <img src="../images/brands/Tunnel_Radio.svg" alt="Tunnel Radio" class="fullW"/>
+			    </a>
+		      </div>
+			  <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+			    <a href="http://www.cganodize.com/">
+				  <img src="../images/brands/" alt="CG Industries" class="fullW"/>
+				</a>
+			  </div>
+				<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+				  <a href="http://www.cpi.coop/">
+				    <img src="../images/brands/CPI.svg" alt="CPI" class="fullW"/>
+				  </a>
+				</div>
+			  </div>
+			  <div class="row">
+				<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+				  <a href="http://www.triaxiseng.com/">
+				    <img src="../images/brands/TriAxis.svg" alt="Triaxiseng" class="fullW"/>
+				  </a>
+				</div>
+				<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+				  <a href="http://www.korvis.com/home/">
+				    <img src="../images/brands/Korvis.svg" alt="Korvis" class="fullW"/>
+				  </a>
+				</div>
+			  </div>
+			  <div class="row">    
+				<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6"><a href="http://www.ode.state.or.us/home/"><img src="../images/brands/ODE.svg" alt="Oregon State Department of Education" class="fullW"/></a></div>
+			  </div>
     </div>
     </div>
           <div class="row">
