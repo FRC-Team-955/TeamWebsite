@@ -132,40 +132,40 @@
               <h2 class="titleC darkBG">Sponsors</h2>
             </section>
           </div>
-          <div class="container">
+          <div class="container sponsors">
 			<div class="row">
 			  <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 			    <a href="http://www.autodesk.com/">
-				  <img src="../images/brands/AutodeskColor.svg" alt="Autodesk" class="fullW mediaIcons"/>
+				  <img src="../images/brands/AutodeskColor.svg" alt="Autodesk" class="fullW"/>
 				</a>
 			  </div>
 			</div>
 			<div class="row">
 			  <div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
 			    <a href="http://www.tunnelradio.com/">
-				  <img src="../images/brands/Tunnel_Radio.svg" alt="Tunnel Radio" class="fullW mediaIcons"/>
+				  <img src="../images/brands/Tunnel_Radio.svg" alt="Tunnel Radio" class="fullW"/>
 			    </a>
 		      </div>
 			  <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
 			    <a href="http://www.cganodize.com/">
-				  <img src="../images/brands/" alt="CG Industries" class="fullW mediaIcons"/>
+				  <img src="../images/brands/" alt="CG Industries" class="fullW"/>
 				</a>
 			  </div>
 				<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
 				  <a href="http://www.cpi.coop/">
-				    <img src="../images/brands/CPI.svg" alt="CPI" class="fullW mediaIcons"/>
+				    <img src="../images/brands/CPI.svg" alt="CPI" class="fullW"/>
 				  </a>
 				</div>
 			  </div>
 			  <div class="row">
 				<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
 				  <a href="http://www.triaxiseng.com/">
-				    <img src="../images/brands/TriAxis.svg" alt="Triaxiseng" class="fullW mediaIcons"/>
+				    <img src="../images/brands/TriAxis.svg" alt="Triaxiseng" class="fullW"/>
 				  </a>
 				</div>
 				<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
 				  <a href="http://www.korvis.com/home/">
-				    <img src="../images/brands/Korvis.svg" alt="Korvis" class="fullW mediaIcons"/>
+				    <img src="../images/brands/Korvis.svg" alt="Korvis" class="fullW"/>
 				  </a>
 				</div>
 			  </div>

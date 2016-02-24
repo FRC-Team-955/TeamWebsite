@@ -456,7 +456,7 @@ a:hover .circle{
     width: 75px;
 }
 
-#rO .mediaList li a {
+#rO .mediaList li a, #rO .sponsors .row a {
   border-bottom: none;
 }
     
