@@ -268,7 +268,7 @@
             <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
                   <h2 class="titleR">2012</h2>
                   <p><b>Our drivetrain:</b> Eight-wheel drive</p>  
-                  <p><b>The Game:</b> 2012's game was Rebound Rumble, where basketballs were shot at hoops of various values, and end-game points were gotten by ballancing on bridges.</p>    
+                  <p><b>The Game:</b> 2012's game was Rebound Rumble, where basketballs were shot at hoops of various values, and end-game points were gotten by balancing on bridges.</p>    
             </section>
           </div>
         </div>
