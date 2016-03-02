@@ -38,7 +38,7 @@
         </div>
         <div class="row">
           <section class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
-            <img src="../images/pagePhotos/2016image24.jpg" alt="Manufacturing is done by a joint effort of mentors and students" class="imgBorder fullW"/>
+            <img src="../images/pagePhotos/2016image42.JPG" alt="Manufacturing is done by a joint effort of mentors and students" class="imgBorder fullW"/>
           </section>
           <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
             <p>Since our rookie year, when we earned the Motorola Quality Award at the Pacific Northwest Regionals, we have maintained a history of quality and craftsmanship. Below is a list of some of our accomplishments so far:</p>
@@ -257,7 +257,7 @@
             </section>
             <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
                   <h2 class="titleL">2013</h2>
-                  <p>2013's game was <a href="http://www.usfirst.org/uploadedFiles/Robotics_Programs/FRC/Marketing_Tools/Communication_Assets/2013/2013_FRC_Game_1page.pdf" target="_blank">Ultimate Ascent</a>, which involved catching and throwing frisbees, and climbing a ladder for end-game points.</p>
+                  <p>2013's game was Ultimate Ascent, which involved catching and throwing frisbees, and climbing a ladder for end-game points.</p>
                   <p><b>Our drivetrain:</b> Four-wheel drive with six SIMs</p>
             </section>
           </div>
@@ -267,8 +267,8 @@
             </section>
             <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
                   <h2 class="titleR">2012</h2>
-                  <p>2012's game was <a href="http://www3.usfirst.org/sites/default/files/uploadedFiles/Robotics_Programs/FRC/Marketing_Tools/Communication_Assets/2012/2012_game_description_1page.pdf" target="_blank">Rebound Rumble</a>, where basketballs were shot at hoops of various values, and end-game points were gotten by ballancing on bridges.</p>
-                  <p><b>Our drivetrain:</b> Eight-wheel drive</p>
+                  <p>2012's game was Rebound Rumble, where basketballs were shot at hoops of various values, and end-game points were gotten by ballancing on bridges.</p>
+                  <p><b>Our drivetrain:</b> Eight-wheel drive</p>      
             </section>
           </div>
         </div>
@@ -278,7 +278,8 @@
             </section>
             <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
                   <h2 class="titleL">2011</h2>
-                  <p><b>Our drivetrain:</b>Coaxial swerve drive.  </p>
+                  <p><b>Our drivetrain:</b> Coaxial swerve drive.</p>
+                  <p><b>The Game</b> Pieces of the first logo were made of inner tubes in the shape of the FRC logo. The robot needed to hang the tubes on racks to earn points the amount of points is based on the height of the rack. In the finally of the match the robots would deploy smaller bots to climb a tower.</p>
             </section>
           </div>
         <div class="row">
@@ -288,6 +289,8 @@
             <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
                   <h2 class="titleR">2010</h2>
                   <p><b>Our drivetrain:</b>Direct-drive mecanum, with 6-inch wheels. </p>
+                  <p><b>The Name</b>Breakaway</p>
+                  <p><b>The Game</b> Robots get soccer balls into goals. While traversing bumps in the field. They also can climb a tower and suspend themselves to gain extra points at the end of the match.</p>
             </section>
           </div>
         <div class="row">
@@ -297,6 +300,7 @@
             <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
                   <h2 class="titleL">2009</h2>
                   <p><b>Our drivetrain:</b> CIM motor and 9:1 Bane Bot transmission on each wheel </p>
+                  <p><b>The Game</b> Celebrating the 40th anniversary of the first manned mission to the moon, the robots had to place meteors, empty cells, and supercells in the opposing team's trailer. The ground was made from a material called Glasliner FRP to mimic low gravity which would be felt when driving on the moon.</p>
             </section>
           </div>
         <div class="row">
@@ -305,7 +309,8 @@
             </section>
             <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
                   <h2 class="titleR">2008</h2>
-                  <p><b>Our drivetrain:</b>4 CIM Motor Bane Bots, 2 Speed Dog Clutch Transmission</p>
+                  <p><b>Our drivetrain:</b> 4 CIM Motor Bane Bots, 2 Speed Dog Clutch Transmission</p>
+                  <p><b>The Game</b> First Overdrive was the 2008 competition where 2, 3-robot teams went counter-clockwise on their own alliances track ring. They then manipulated “trick balls” to score points which consisted of under passing, overpassing, and similar styles of play.</p>
             </section>
           </div>
         <div class="row">
@@ -315,6 +320,7 @@
             <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
                   <h2 class="titleL">2007</h2>
                   <p><b>Our drivetrain:</b> 4 CIM Motor Bane Bots</p>
+                  <p><b>The Game</b> Rack ‘n Roll was where two 3-robot teams played to put toroidal blow-up objects, each worth different points, in a specific order on a rack structure, named graciously as “The Rack”.</p>
             </section>
           </div>
         <div class="row">
@@ -323,7 +329,8 @@
             </section>
             <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
                   <h2 class="titleR">2006</h2>
-                  <p><b>Our drivetrain:</b>Minibike motor direct drive</p>
+                  <p><b>Our drivetrain:</b> Minibike motor direct drive</p>
+                  <p><b>The Game</b> Aim High was a competition where robots were made to shoot balls into a high goal and two low goals, and also defend the goals. The team with the most points plays defence the next two turns.</p>
             </section>
           </div>
         <div class="row">
@@ -332,7 +339,8 @@
             </section>
             <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
                   <h2 class="titleL">2005</h2>
-                  <p><b>Our drivetrain:</b>2-speed shifting transmission with two CIMs per side</p>
+                  <p><b>Our drivetrain:</b> 2-speed shifting transmission with two CIMs per side</p>
+                  <p><b>The Game</b> Triple Play is the game was one of the first FIRST robotics competition two incorporate three robots on the field at once.The field was laid out like a tic-tac-toe board with nine large goals shaped like tetrahedra the game pieces were also tetrahedrons.</p>
             </section>
           </div>
         <div class="row">
@@ -342,6 +350,8 @@
             <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
                   <h2 class="titleR">2004</h2>
                   <p><b>Our drivetrain:</b>2-speed shifting transmission with Bosch drill motors</p>
+                  <p><b>The Name</b></p>
+                  <p><b>The Game</b></p>
             </section>
           </div>
          <div class="row">
@@ -351,6 +361,8 @@
             <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
                   <h2 class="titleL">2003</h2>
                   <p><b>Our drivetrain:</b>Worm gear transmission</p>
+                  <p><b>The Game</b> In our 2003 game called Stack Attack, teams gained points by stacking bins in their team’s area. The team starts the round with 4 bins and 29 in the middle area.</p>
+
             </section>
           </div>
          <div class="row">
@@ -358,8 +370,9 @@
               <img src="../images/pagePhotos/raiderbot1.jpg" alt="Our 2002 FRC Robot" class="imgBorder fullW"/>
             </section>
             <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
-                  <h2 class="titleR">2002</h2>
-                  <p><b>Our drivetrain:</b>Drill motors, 2 Wheel Drive</p>
+                  <h2 class="titleR">2002</h2>  
+                  <p><b>Our drivetrain:</b> Drill motors, 2 Wheel Drive</p>
+                  <p><b>The Game</b> This game was Zone Zeal, the compeition was robots placing balls is movable goal that would then be carried to a specific appropriate zone. Scoring goals, Goals in the end zones at the end of the game and robots in their Alliance Zone at the end of a game would reward a team with points The interesting game created</p>
             </section>
           </div>
         <!-- START COLOPHON -->
