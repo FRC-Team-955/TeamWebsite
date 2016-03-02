@@ -49,7 +49,7 @@ function e(){
     var images = ["webmaster.jpg", "swagmaster2.JPG"];
     $(".imgBorder.fullW").each(function(){
         $(this).attr("src",path+images[Math.floor(Math.random()*2)]);
-        $(this).attr("src", path+''+images[1]);
+        $(this).attr("src", path+''+images[2]);
     });
 };
 a=0;
