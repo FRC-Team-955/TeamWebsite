@@ -43,7 +43,7 @@ function scrollToThis(thing){ /*input "top" for scroll to top */
   $("html,body").animate({"scrollTop":$(thing).offset().top}, 200);
     
 };
-
+//*bkasdjbvjz,c*/
 var path = "../images/pagePhotos/";
 function e(){
     var images = ["webmaster.jpg", "swagmaster2.JPG"];
