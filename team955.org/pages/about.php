@@ -309,7 +309,7 @@
             <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
                   <h2 class="titleR">2008</h2>
                   <p><b>Our drivetrain:</b> 4 CIM Motor Bane Bots, 2 Speed Dog Clutch Transmission</p>
-                  <p><b>The Game:</b> First Overdrive was the 2008 competition where 2, 3-robot teams went counter-clockwise on their own alliances track ring. They then manipulated “trick balls” to score points which consisted of under passing, overpassing, and similar styles of play.</p>
+                  <p><b>The Game:</b> First Overdrive was the 2008 competition where 2 3-robot teams went counter-clockwise on their own alliances track ring. They then manipulated “trick balls” to score points which consisted of under passing, overpassing, and similar styles of play.</p>
             </section>
           </div>
         <div class="row">
@@ -370,7 +370,7 @@
             <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
                   <h2 class="titleR">2002</h2>  
                   <p><b>Our drivetrain:</b> Drill motors, 2 Wheel Drive</p>
-                  <p><b>The Game:</b> This game was Zone Zeal, the competition was robots placing balls is movable goal that would then be carried to a specific appropriate zone. Scoring goals, Goals in the end zones at the end of the game and robots in their Alliance Zone at the end of a game would reward a team with points The interesting game created</p>
+                  <p><b>The Game:</b> This game was Zone Zeal, the competition had robots placing balls in movable goals that would then be carried to a specific, appropriate zone. Robots scored goals in the end zones at the end of the game and robots in their Alliance Zone at the end of a game would reward a team with points.</p>
             </section>
           </div>
         <!-- START COLOPHON -->
