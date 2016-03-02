@@ -288,7 +288,7 @@
             </section>
             <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
                   <h2 class="titleR">2010</h2>
-                  <p><b>Our drivetrain:</b>Direct-drive mecanum, with 6-inch wheels. </p>
+                  <p><b>Our drivetrain:</b> Direct-drive mecanum, with 6-inch wheels. </p>
                   <p><b>The Game:</b> 2010's game was called Breakaway, where robots get soccer balls into goals, while traversing bumps in the field. They also can climb a tower and suspend themselves to gain extra points at the end of the match.</p>
             </section>
           </div>
@@ -309,7 +309,7 @@
             <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
                   <h2 class="titleR">2008</h2>
                   <p><b>Our drivetrain:</b> 4 CIM Motor Bane Bots, 2 Speed Dog Clutch Transmission</p>
-                  <p><b>The Game</b> First Overdrive was the 2008 competition where 2, 3-robot teams went counter-clockwise on their own alliances track ring. They then manipulated “trick balls” to score points which consisted of under passing, overpassing, and similar styles of play.</p>
+                  <p><b>The Game:</b> First Overdrive was the 2008 competition where 2, 3-robot teams went counter-clockwise on their own alliances track ring. They then manipulated “trick balls” to score points which consisted of under passing, overpassing, and similar styles of play.</p>
             </section>
           </div>
         <div class="row">
