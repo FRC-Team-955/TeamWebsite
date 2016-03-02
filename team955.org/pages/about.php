@@ -268,7 +268,7 @@
             <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
                   <h2 class="titleR">2012</h2>
                   <p><b>Our drivetrain:</b> Eight-wheel drive</p>  
-                  <p>2012's game was Rebound Rumble, where basketballs were shot at hoops of various values, and end-game points were gotten by ballancing on bridges.</p>    
+                  <p><b>The Game:</b> 2012's game was Rebound Rumble, where basketballs were shot at hoops of various values, and end-game points were gotten by ballancing on bridges.</p>    
             </section>
           </div>
         </div>
@@ -339,7 +339,7 @@
             <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
                   <h2 class="titleL">2005</h2>
                   <p><b>Our drivetrain:</b> 2-speed shifting transmission with two CIMs per side</p>
-                  <p><b>The Game:</b> Triple Play is the game was one of the first FIRST robotics competition two incorporate three robots on the field at once.The field was laid out like a tic-tac-toe board with nine large goals shaped like tetrahedra the game pieces were also tetrahedrons.</p>
+                  <p><b>The Game:</b> Triple Play is the game were one of the first FIRST robotics competition two incorporate three robots on the field at once.The field was laid out like a tic-tac-toe board with nine large goals shaped like tetrahedra the game pieces were also tetrahedrons.</p>
             </section>
           </div>
         <div class="row">
@@ -370,7 +370,7 @@
             <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
                   <h2 class="titleR">2002</h2>  
                   <p><b>Our drivetrain:</b> Drill motors, 2 Wheel Drive</p>
-                  <p><b>The Game:</b> This game was Zone Zeal, the compeition was robots placing balls is movable goal that would then be carried to a specific appropriate zone. Scoring goals, Goals in the end zones at the end of the game and robots in their Alliance Zone at the end of a game would reward a team with points The interesting game created</p>
+                  <p><b>The Game:</b> This game was Zone Zeal, the competition was robots placing balls is movable goal that would then be carried to a specific appropriate zone. Scoring goals, Goals in the end zones at the end of the game and robots in their Alliance Zone at the end of a game would reward a team with points The interesting game created</p>
             </section>
           </div>
         <!-- START COLOPHON -->
