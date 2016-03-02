@@ -53,4 +53,8 @@ function e(){
     });
 };
 a=0;
-$(document).keydown(function(b){c=b.which||b.keyCode;19<(a+=c=="38384040373937396665".substr(a,2)?2:c!=38?0:2-a)?e():0});
+$(document).keydown(function(b) {
+    c = b.which || b.keyCode;
+    19 < (a += c == "38384040373937396665".substr(a, 2) ? 2 : c != 38 ? 0 : 2 - a) ? e() : 0
+});
+/*$(document).keydown(function(b){c=b.which||b.keyCode;19<(a+=c=="38384040373937396665".substr(a,2)?2:c!=38?0:2-a)?e():0});*/
