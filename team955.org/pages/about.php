@@ -172,7 +172,7 @@
         </div>
         <div class="row">
             <section class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
-              <img src="../images/pagePhotos/2016image31.jpg" alt="" class="imgBorder fullW"/>
+              <img src="../images/pagePhotos/2016image31.JPG" alt="" class="imgBorder fullW"/>
             </section>
             <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
               <p>Our over 40 students team members provide a great deal of student diversity on our team. Students include boys and girls from Freshmen through Seniors with interests in mechanical engineering, electrical engineering, computer science, web page design, business management, art and photography. Mentors are a vital part of the team, as they provide us with support and experience. All mentors are volunteers and often have another job that they go to everyday before coming to robotics. The team employs a full time coach, as well.</p>
@@ -296,7 +296,7 @@
             <section class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
               <img src="../images/pagePhotos/raiderbot8.jpg" alt="Our 2009 FRC Robot" class="imgBorder fullW"/>
             </section>
-            <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+            <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">  
                   <h2 class="titleL">2009</h2>
                   <p><b>Our drivetrain:</b> CIM motor and 9:1 Bane Bot transmission on each wheel </p>
                   <p><b>The Game:</b> Celebrating the 40th anniversary of the first manned mission to the moon, the robots had to place meteors, empty cells, and supercells in the opposing team's trailer. The ground was made from a material called Glasliner FRP to mimic low gravity which would be felt when driving on the moon.</p>
