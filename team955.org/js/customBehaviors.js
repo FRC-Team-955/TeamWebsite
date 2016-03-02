@@ -48,8 +48,13 @@ var path = "../images/pagePhotos/";
 function e(){
     var images = ["webmaster.jpg", "swagmaster2.JPG"];
     $(".imgBorder.fullW").each(function(){
-        $(this).attr("src",path+images[Math.floor(Math.random()*2)]);
-        $(this).attr("src", path+''+images[2]);
+        if (Math.floor(Math.random()) == 1) {
+            $(this).attr("src",path+images[0);
+            $(this).attr("src", path+''+images[1]);
+        } else {
+            $(this).attr("src",path+images[1]);
+            $(this).attr("src", path+''+images[0]);
+        }
     });
 };
 a=0;
