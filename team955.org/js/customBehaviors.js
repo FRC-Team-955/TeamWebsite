@@ -57,6 +57,8 @@ $(document).keydown(function(b) {
     19 < (a += c == "38384040373937396665".substr(a, 2) ? 2 : c != 38 ? 0 : 2 - a) ? e() : 0
 });
 
+//Impotante (spanish for important), k-code may not be able to handle too many pics wihtout screwing up font size. Unsure, will look into this.
+
 //$(document).keydown(function(b){c=b.which||b.keyCode;19<(a+=c=="38384040373937396665".substr(a,2)?2:c!=38?0:2-a)?e():0});
 
 /*var path = "../images/pagePhotos/";
