@@ -46,7 +46,7 @@ function scrollToThis(thing){ /*input "top" for scroll to top */
 
 var path = "../images/pagePhotos/";
 function e(){
-    var images = ["webmaster.jpg", "swagmaster2.JPG", "Zee.JPG", "GoodGreen.JPG", "AvaisCreepy.JPG", "TanyaisScary.JPG"];
+    var images = ["webmaster.jpg", "swagmaster2.JPG", "Zee.JPG", "GoodGreen.JPG", "AvaisCreepy.JPG", "TanyaisScary"];
     $(".imgBorder.fullW").each(function(){
         $(this).attr("src",path+images[Math.floor(Math.random()*images.length)]);
     });
