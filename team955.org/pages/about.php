@@ -124,7 +124,7 @@
             <img src="../images/pagePhotos/2016image5.jpg" alt="Students work closely with mentors and Coach Shuman" class="imgBorder fullW"/>
           </section>
           <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
-            <p>Our team utilizes a fairly flat engineering leadership structure. Team responsibilities are divided among the two program managers, Ryan Dunn and Parker Lewis.  The two managers essentially plan large scale activities: one manager for the robot side and one for the business side. Other student leaders work with them to help lead the various sub-teams. This provides numerous opportunities for students to develop technical, business, leaderships and organizational skills.</p>
+            <p>Our team utilizes a fairly flat engineering leadership structure. Team responsibilities are divided among the two program managers, Towaki Takikawa and Graham Barber. The two managers essentially plan large scale activities: one manager for the robot side and one for the business side. Other student leaders work with them to help lead the various sub-teams. This provides numerous opportunities for students to develop technical, business, leaderships and organizational skills.</p>
           </section>
         </div>
         <div class="row">
@@ -132,7 +132,7 @@
             <img src="../images/pagePhotos/2016image9.jpg" alt="Group discusses the structure of the robot." class="imgBorder fullW"/>
           </section>
           <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
-            <p>Since our founding we have grown into more than just a robotics team. We have become a family of diverse students connected by a shared passion for <abbr title="Science, Technology, Engineering, Art, and Mathematics">STEAM</abbr> and robotics. Our current coach, Jim Bowey, leads this family of students, mentors, parents, and business partners in the pursuit of our shared passion.</p>
+            <p>Since our founding we have grown into more than just a robotics team. We have become a family of diverse students connected by a shared passion for <abbr title="Science, Technology, Engineering, Art, and Mathematics">STEAM</abbr> and robotics. Our current coach, Matthew Shoeman, leads this family of students, mentors, parents, and business partners in the pursuit of our shared passion.</p>
             <ul class="nav nav-tabs">
 				<li class="active"><a data-toggle="tab" href="#2016c">2016</a></li>
 				<li><a data-toggle="tab" href="#2015c">2015</a></li>
