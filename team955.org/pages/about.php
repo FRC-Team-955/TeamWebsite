@@ -144,7 +144,7 @@
 					  <li><b>Business Captain:</b> Natalie Dupuy</li>
 					  <li><b>Design Captain:</b> Josh Pauls</li>
 					  <li><b>Electrical Captain:</b> Ben Nelson</li>
-					  <li><b>Fabrication Captain:</b> Gabe Gonzolaz</li>
+					  <li><b>Fabrication Captain:</b> Gabriel Gonzales</li>
 					  <li><b>Programming Captain:</b> Trevor Jones</li>
 					  <li><b>HR Captain:</b> Miles Smith</li>
 					</ul>
