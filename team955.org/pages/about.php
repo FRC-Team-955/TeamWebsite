@@ -23,7 +23,7 @@
                 <b>Team Size:</b> 40+<br/>
                 <b>Team Colors:</b> <a href="#colophon" class="dark">Dark and Light Grey, Gold</a><br/>
                 <b>Location:</b> Crescent Valley High School in Corvallis, Oregon<br/>
-                <b>Coach:</b> Matthew Shuman<br/>
+                <b>Coach:</b> Tanya Carone<br/>
               </p>
           </section>
         </div>
@@ -32,7 +32,7 @@
             <img src="../images/pagePhotos/TeamPhoto1.jpg" alt="Team photo at Bunnybot." class="imgBorder fullW"/>
           </section>
           <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
-            <p>The Crescent Valley High School Robotics Team (<abbr title="FIRST Robotics Competition">FRC</abbr> Team 955) was founded in September 2002 by engineering teacher Mark Baldwin, an applied arts teacher at Crescent Valley High School. We are now a 14 year old FIRST Robotics team, and have grown from just twelve students in 2002 to a family of over 40 diverse students in recent years. The team is a club activity at Crescent Valley High School in Corvallis Oregon, and is a part of the NASA sponsored <abbr title="For Inspiration and Recognition of Science and Technology">FIRST</abbr> program. Each year we participate in community education and outreach activities, and compete in local robotics competitions and the worldwide FRC challenge.</p>
+            <p>The Crescent Valley High School Robotics Team (<abbr title="FIRST Robotics Competition">FRC</abbr> Team 955) was founded in September 2002 by engineering teacher Mark Baldwin, an applied arts teacher at Crescent Valley High School. We are now a 15 year old FIRST Robotics team, and have grown from just twelve students in 2002 to a family of over 40 diverse students in recent years. The team is a club activity at Crescent Valley High School in Corvallis Oregon, and is a part of the NASA sponsored <abbr title="For Inspiration and Recognition of Science and Technology">FIRST</abbr> program. Each year we participate in community education and outreach activities, and compete in local robotics competitions and the worldwide FRC challenge.</p>
             <p>To spread the word about robotics, the team participates in local science and engineering fairs as well as various other community events. From the Da Vinci Days Scrimmage to the Philomath Frolic, the students teach community members about the program. The team also goes to local middle schools and attends elementary school science fairs to encourage the students to explore science and technology, and possibly join our team when they go into high school.</p>
           </section>
         </div>
@@ -50,6 +50,7 @@
               <li><b>2011:</b> Entrepreneurship Award</li>
               <li><b>2013:</b> PNW Regional Winner, Industrial Design Award, Industrial Safety Award, World Championships Qualification</li>
               <li><b>2014:</b> Entrepreneurship Award, Industrial Design Award, World Championships Qualification</li>
+              <li><b>2016:</b> Entrepreneurship Award, Second Place District Event, World Championships Qualification</li>
             </ul>
           </section>
         </div>
@@ -113,8 +114,8 @@
             <section class="col-md-12 centerV">
               <h2 class="titleC darkBG">Team Structure</h2>
               <p class="titleC">
-                <b>Coach:</b> Matthew Shuman <br/>
-                <b>Team Captain:</b> Towaki Takikawa<br/>
+                <b>Coach:</b> Tanya Carone <br/>
+                <b>Team Captain:</b> Matthew Sundberg<br/>
                 <b>Sub-teams:</b> Design, Mechanical, Electrical, Programming, Business, and HR<br/>
               </p>
             </section>
@@ -138,7 +139,17 @@
 				<li><a data-toggle="tab" href="#2015c">2015</a></li>
 			</ul>
 			<div class="tab-content">
-				<div id="2016c" class="tab-pane fade in active">
+                <div id="2016c" class="tab-pane fade in active">
+					<ul>
+					  <li><b>Business Captain:</b> Natalie Dupuy</li>
+					  <li><b>Design Captain:</b> Josh Pauls</li>
+					  <li><b>Electrical Captain:</b> Ben Nelson</li>
+					  <li><b>Fabrication Captain:</b> Gabe Gonzolaz</li>
+					  <li><b>Programming Captain:</b> Trevor Jones</li>
+					  <li><b>HR Captain:</b> Miles Smith</li>
+					</ul>
+				</div>
+				<div id="2016c" class="tab-pane fade">
 					<ul>
 					  <li><b>Business Captain:</b> Matthew Sundberg</li>
 					  <li><b>Design Captain:</b> Andrey Kornilovich</li>
