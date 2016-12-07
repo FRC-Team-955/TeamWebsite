@@ -133,14 +133,16 @@
             <img src="../images/pagePhotos/2016image9.jpg" alt="Group discusses the structure of the robot." class="imgBorder fullW"/>
           </section>
           <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
-            <p>Since our founding we have grown into more than just a robotics team. We have become a family of diverse students connected by a shared passion for <abbr title="Science, Technology, Engineering, Art, and Mathematics">STEAM</abbr> and robotics. Our current coach, Matthew Shoeman, leads this family of students, mentors, parents, and business partners in the pursuit of our shared passion.</p>
+            <p>Since our founding we have grown into more than just a robotics team. We have become a family of diverse students connected by a shared passion for <abbr title="Science, Technology, Engineering, Art, and Mathematics">STEAM</abbr> and robotics. Our current coach, Tanya Carone, leads this family of students, mentors, parents, and business partners in the pursuit of our shared passion.</p>
             <ul class="nav nav-tabs">
-				<li class="active"><a data-toggle="tab" href="#2016c">2016</a></li>
+				<li class="active"><a data-toggle="tab" href="#2017c">2017</a></li>
+                <li><a data-toggle="tab" href="#2016c">2016</a></li>
 				<li><a data-toggle="tab" href="#2015c">2015</a></li>
 			</ul>
 			<div class="tab-content">
-                <div id="2016c" class="tab-pane fade in active">
+                <div id="2017c" class="tab-pane fade in active">
 					<ul>
+                      <li><b>Team Captain:</b> Matthew Sundberg</li>
 					  <li><b>Business Captain:</b> Natalie Dupuy</li>
 					  <li><b>Design Captain:</b> Josh Pauls</li>
 					  <li><b>Electrical Captain:</b> Ben Nelson</li>
