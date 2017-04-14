@@ -2,5 +2,3 @@ RewriteEngine On
 RewriteRule ^(about|calendar|support)$ /pages/$1.php [NC]
 RewriteRule ^opr(.*) apps/opr$1 [NC]
 RewriteRule ^scouting(.*) apps/scouting/Code$1 [NC]
-
-RedirectMatch 404 /\..*$
