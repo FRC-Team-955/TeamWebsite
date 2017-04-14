@@ -1,6 +1,6 @@
 <IfModule mod_rewrite.c>
 RewriteEngine On
-RewriteRule ^(about|calendar|support)$ /pages/$1.php [NC]
+RewriteRule ^(about|calendar|support)(.*)$ /pages/$1.php$2 [NC]
 RewriteRule ^opr(.*) apps/opr$1 [NC]
 RewriteRule ^scouting(.*) apps/scouting/Code$1 [NC,L]
 </IfModule>
