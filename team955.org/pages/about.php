@@ -142,7 +142,7 @@
 			<div class="tab-content">
                 <div id="2017c" class="tab-pane fade in active">
 					<ul>
-                      <li><b>Team Captain:</b> Matthew Sundberg</li>
+                      			  <li><b>Team Captain:</b> Matthew Sundberg</li>
 					  <li><b>Business Captain:</b> Natalie Dupuy</li>
 					  <li><b>Design Captain:</b> Josh Pauls</li>
 					  <li><b>Electrical Captain:</b> Ben Nelson</li>
@@ -153,6 +153,7 @@
 				</div>
 				<div id="2016c" class="tab-pane fade">
 					<ul>
+                                          <li><b>Team Captain:</b> Towaki Takikawa</li>
 					  <li><b>Business Captain:</b> Matthew Sundberg</li>
 					  <li><b>Design Captain:</b> Andrey Kornilovich</li>
 					  <li><b>Electrical Captain:</b> Alicia Carone</li>
