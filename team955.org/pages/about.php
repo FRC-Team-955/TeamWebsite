@@ -304,7 +304,7 @@
             <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
                   <h2 class="titleL">2017</h2>
                   <p><b>Our drivetrain:</b> </p>
-                  <p><b>The Game:</b> </p>
+                  <p><b>The Game:</b> STEAMWORKS, a steampunk-themed game revolving around getting fuel and gears in your ship the fastest</p>
             </section>
           </div>
           <div class="row">
@@ -314,7 +314,7 @@
             <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
                   <h2 class="titleR">2016</h2>
                   <p><b>Our drivetrain:</b> </p>
-                  <p><b>The Game:</b> </p>
+                  <p><b>The Game:</b> Stronghold is a medevil styled game, where robots shot boulders into goals while passing difficult terrain</p>
             </section>
           </div>
           <div class="row">
