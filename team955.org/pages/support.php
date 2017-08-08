@@ -40,7 +40,7 @@
           </div>
           <div class="row">
             <section class="roboR col-xs-12 col-sm-4 col-md-4 col-lg-4">
-              <img src="../images/pagePhotos/2016image21.jpg" alt="" class="imgBorder fullW"/>
+              <img src="../images/pagePhotos/2017image25.jpg" alt="" class="imgBorder fullW"/>
             </section>
             <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
               <p>We are raising money to help support Team 955 in order to keep going strong as one of the most competitive teams in the Pacific Northwest Region. Being a competitive team helps create a better learning experience and generates higher motivation for all involved.  Our team takes a businesslike approach to gaining sponsors, and running the team.  Our a large mechanical team designs, builds, and tests the robot.  Our business team works on marketing, competitive analysis, and the team’s website.  This two-sided approach requires much time and energy from the mentors and students both, but proves to be worth it when we’re able to complete the business and mechanical aspect of the team in minimal time.  Students in the business team quickly learn that the main element of a successful business is communication with your colleagues, so that you may collaborate and work together to solve issues, and complete tasks.  This tried and tested method has proven itself time and time again, as almost every member who has been a part of our team, sees success in their future and enters a high-ranking college.</p>
@@ -89,16 +89,16 @@
           </div>
           <div class="row">
             <section class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
-              <img src="../images/pagePhotos/" alt="Flower baskets are sold yearly by students." class="imgBorder fullW"/>
+              <img src="../images/pagePhotos/2017image38.jpg" alt="Flower baskets are sold yearly by students." class="imgBorder fullW"/>
             </section>
             <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
-              <h2 class="titleL">Mother's Day flower basket sale</h2>
+              <h2 class="titleL">Spring Time flower basket sale</h2>
               <p>This is our biggest single source of funding. In late April and early May we go door to door selling tickets for a $25 flower basket from Davis Family farm. For each ticket sold, the team receives $10, and each student is required to sell 20 apiece. This gives the students an opportunity to work together, as most of them travel in groups around neighborhoods, looking to reach their individual goal.</p>
             </section>
           </div>
           <div class="row">
             <section class="roboR col-xs-12 col-sm-4 col-md-4 col-lg-4">
-              <img src="../images/pagePhotos/2016image15.jpg" alt="Tasty pancakes with team spirit." class="imgBorder fullW"/>
+              <img src="../images/pagePhotos/2017image4.jpg" alt="Tasty pancakes with team spirit." class="imgBorder fullW"/>
             </section>
             <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
               <h2 class="titleR">Pancake Breakfast</h2>
@@ -116,7 +116,7 @@
           </div>
           <div class="row">
             <section class="roboR col-xs-12 col-sm-4 col-md-4 col-lg-4">
-              <img src="../images/pagePhotos/.jpg" alt="" class="imgBorder fullW"/>
+              <img src="../images/pagePhotos/2017image40.jpg" alt="" class="imgBorder fullW"/>
             </section>
             <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
               <h2 class="titleR">Dine out</h2>

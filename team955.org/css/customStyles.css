@@ -162,17 +162,17 @@ body {
 }
 
 #rO .slide1 {
-  background-image: url('../images/pagePhotos/2016image12.JPG');
+  background-image: url('../images/pagePhotos/2017image13.jpg');
   background-position: 50% 30%;
 }
 
 #rO .slide2 {
-  background-image: url('../images/slide2.JPG');
+  background-image: url('../images/pagePhotos/2017image3.jpg');
   background-position: 50% 50%;
 }
 
 #rO .slide3 {
-  background-image: url('../images/Slide3.JPG');
+  background-image: url('../images/pagePhotos/2017image11.jpg');
   background-position: 50% 30%;
 }
 
@@ -472,23 +472,23 @@ a:hover .circle{
 /* this is where the background images for the link-divs (the ones which define the start of a subpage) will be styled */
 /*about.php files first*/
 #team {
-  background-image: url("../images/pagePhotos/2016image14.jpg");
+  background-image: url("../images/pagePhotos/2017image5.jpg");
 }
 
 #FIRST {
-  background-image: url("../images/pagePhotos/2016image18.jpg");
+  background-image: url("../images/pagePhotos/2017image12.jpg");
 }
 
 #structure {
-  background-image: url("../images/pagePhotos/2016image28.JPG");
+  background-image: url("../images/pagePhotos/2017image8.jpg");
 }
 
 #mentors {
-  background-image: url("../images/pagePhotos/2016image34.JPG");
+  background-image: url("../images/pagePhotos/2017image20.jpg");
 }
 
 #robots {
-  background-image: url("../images/pagePhotos/robots.jpg");
+  background-image: url("../images/pagePhotos/2017image9.jpg");
 }
 
 #colophon {
@@ -498,19 +498,19 @@ a:hover .circle{
 /*work with me here. thanks*/
 /*support.php files next...*/
 #donations {
-  background-image: url("../images/pagePhotos/2016image25.JPG");
+  background-image: url("../images/pagePhotos/2017image16.jpg");
 }
 
 #fundraising {
-  background-image: url("../images/pagePhotos/2016image32.JPG");
+  background-image: url("../images/pagePhotos/2017image4.jpg");
 }
 
 #sponsors {
-  background-image: url("../images/pagePhotos/2016image29.JPG");
+  background-image: url("../images/pagePhotos/2017image22.jpg");
 }
 
 #calendar {
-  background-image: url("../images/pagePhotos/2016image38.jpg");
+  background-image: url("../images/pagePhotos/2017image15.jpg");
 }
 /*calendar is to replace boring grey background with a pic of our 2nd main couple....*/
 

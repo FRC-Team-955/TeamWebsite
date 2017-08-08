@@ -21,7 +21,7 @@
                 <b>Rookie Year:</b> 2002<br/>
                 <b><abbr title="FIRST Robotics Competition">FRC</abbr> Team Number:</b> 955<br/>
                 <b>Team Size:</b> 40+<br/>
-                <b>Team Colors:</b> <a href="#colophon" class="dark">Dark and Light Grey, Gold</a><br/>
+                <b>Team Colors:</b> <a href="#colophon" class="dark">Black, Gold, and Razzleberry</a><br/>
                 <b>Location:</b> Crescent Valley High School in Corvallis, Oregon<br/>
                 <b>Coach:</b> Tanya Carone<br/>
               </p>
@@ -29,7 +29,7 @@
         </div>
         <div class="row">
           <section class="roboR col-xs-12 col-sm-4 col-md-4 col-lg-4">
-            <img src="../images/pagePhotos/TeamPhoto1.jpg" alt="Team photo at Bunnybot." class="imgBorder fullW"/>
+            <img src="../images/pagePhotos/2017image5.jpg" alt="Team photo at Bunnybot." class="imgBorder fullW"/>
           </section>
           <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
             <p>The Crescent Valley High School Robotics Team (<abbr title="FIRST Robotics Competition">FRC</abbr> Team 955) was founded in September 2002 by engineering teacher Mark Baldwin, an applied arts teacher at Crescent Valley High School. We are now a 15 year old FIRST Robotics team, and have grown from just twelve students in 2002 to a family of over 40 diverse students in recent years. The team is a club activity at Crescent Valley High School in Corvallis Oregon, and is a part of the NASA sponsored <abbr title="For Inspiration and Recognition of Science and Technology">FIRST</abbr> program. Each year we participate in community education and outreach activities, and compete in local robotics competitions and the worldwide FRC challenge.</p>
@@ -38,7 +38,7 @@
         </div>
         <div class="row">
           <section class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
-            <img src="../images/pagePhotos/2016image42.JPG" alt="Manufacturing is done by a joint effort of mentors and students" class="imgBorder fullW"/>
+            <img src="../images/pagePhotos/2017image1.jpg" alt="Manufacturing is done by a joint effort of mentors and students" class="imgBorder fullW"/>
           </section>
           <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
             <p>Since our rookie year, when we earned the Motorola Quality Award at the Pacific Northwest Regionals, we have maintained a history of quality and craftsmanship. Below is a list of some of our accomplishments so far:</p>
@@ -50,7 +50,9 @@
               <li><b>2011:</b> Entrepreneurship Award</li>
               <li><b>2013:</b> PNW Regional Winner, Industrial Design Award, Industrial Safety Award, World Championships Qualification</li>
               <li><b>2014:</b> Entrepreneurship Award, Industrial Design Award, World Championships Qualification</li>
+              <li><b>2015:</b> Winners of Philomath District event, Winners of PNW District Championship</li>
               <li><b>2016:</b> Entrepreneurship Award, Second Place District Event, World Championships Qualification</li>
+              <li><b>2017:</b> Finalists of Wilsonville District event, Industrial Safety Award, Judges Award</li>    
             </ul>
           </section>
         </div>
@@ -90,7 +92,7 @@
           </div>
           <div class="row">
             <section class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
-              <img src="../images/pagePhotos/2016image2.jpg" alt="FIRST provides an amazing experience for diverse groups of people." class="imgBorder fullW"/>
+              <img src="../images/pagePhotos/2017image33.jpg" alt="FIRST provides an amazing experience for diverse groups of people." class="imgBorder fullW"/>
             </section>
             <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
               <p>FIRST stands for "For Inspiration and Recognition of Science and Technology." It is a non-profit organization that seeks to boost interest in STEAM (science, technology, engineering, art, and mathematics) and develop young people into leaders of those fields. Founded in 1989, FIRST has created many team-structured opportunities to help accomplish their goal, such as FLL, FTC, and FRC.</p>
@@ -99,7 +101,7 @@
           </div>
           <div class="row">
             <section class="roboR col-xs-12 col-sm-4 col-md-4 col-lg-4">
-              <img src="../images/pagePhotos/2016image3.jpg" alt="There's always a robot being worked on, even wood ones." class="imgBorder fullW"/>
+              <img src="../images/pagePhotos/2017image26.jpg" alt="There's always a robot being worked on, even wood ones." class="imgBorder fullW"/>
             </section>
             <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
               <p>Recently, Brandeis University's Center for Youth and Communities conducted an independent, retrospective survey of FIRST Robotics Competition participants and compared results to a group of non-FIRST students with similar backgrounds and academic experiences, including math and science. Highlights of the study's findings include: When compared with the comparison group, FIRST students are: Significantly more likely to attend college on a full-time basis than comparison students (88% vs. 53%) More than 3 times as likely to major specifically in engineering. Roughly 10 times as likely to have had an apprenticeship, internship, or co-op job in their freshman year. Significantly more likely to expect to achieve a postgraduate degree. More than twice as likely to expect to pursue a career in science and technology. Nearly 4 times as likely to expect to pursue a career specifically in engineering. More than twice as likely to volunteer in their communities. You can see the whole survey <a href="http://www.usfirst.org/aboutus/impact" target="_blank">here</a>.</p>
@@ -122,7 +124,7 @@
           </div>
         <div class="row">
           <section class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
-            <img src="../images/pagePhotos/2016image5.jpg" alt="Students work closely with mentors and Coach Shuman" class="imgBorder fullW"/>
+            <img src="../images/pagePhotos/2017image37.jpg" alt="Students work closely with mentors and Coach Shuman" class="imgBorder fullW"/>
           </section>
           <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
             <p>Our team utilizes a fairly flat engineering leadership structure. Team responsibilities are divided among the two program managers, Towaki Takikawa and Graham Barber. The two managers essentially plan large scale activities: one manager for the robot side and one for the business side. Other student leaders work with them to help lead the various sub-teams. This provides numerous opportunities for students to develop technical, business, leaderships and organizational skills.</p>
@@ -130,19 +132,30 @@
         </div>
         <div class="row">
           <section class="roboR col-xs-12 col-sm-4 col-md-4 col-lg-4">
-            <img src="../images/pagePhotos/2016image9.jpg" alt="Group discusses the structure of the robot." class="imgBorder fullW"/>
+            <img src="../images/pagePhotos/2017image19.jpg" alt="Group discusses the structure of the robot." class="imgBorder fullW"/>
           </section>
           <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
             <p>Since our founding we have grown into more than just a robotics team. We have become a family of diverse students connected by a shared passion for <abbr title="Science, Technology, Engineering, Art, and Mathematics">STEAM</abbr> and robotics. Our current coach, Tanya Carone, leads this family of students, mentors, parents, and business partners in the pursuit of our shared passion.</p>
             <ul class="nav nav-tabs">
-				<li class="active"><a data-toggle="tab" href="#2017c">2017</a></li>
+                <li class="active"><a data-toggle="tab" href="#2018c">2018</a></li>
+				<li><a data-toggle="tab" href="#2017c">2017</a></li>
                 <li><a data-toggle="tab" href="#2016c">2016</a></li>
 				<li><a data-toggle="tab" href="#2015c">2015</a></li>
 			</ul>
 			<div class="tab-content">
-                <div id="2017c" class="tab-pane fade in active">
+                <div id="2018c" class="tab-pane fade in active">
+                    <ul>
+                      <li><b>Team Captain:</b> Ben Nelson</li>
+					  <li><b>Business Captain:</b> Brieana Fryman</li>
+					  <li><b>Design Captain:</b> Lucy Lin</li>
+					  <li><b>Electrical Captain:</b> Danielle Scutero</li>
+					  <li><b>Fabrication Captain:</b> Abraham Mes</li>
+					  <li><b>Programming Captain:</b> Duncan Freeman</li>
+					</ul>
+                </div>
+                <div id="2017c" class="tab-pane fade">
 					<ul>
-                      			  <li><b>Team Captain:</b> Matthew Sundberg</li>
+                      <li><b>Team Captain:</b> Matthew Sundberg</li>
 					  <li><b>Business Captain:</b> Natalie Dupuy</li>
 					  <li><b>Design Captain:</b> Josh Pauls</li>
 					  <li><b>Electrical Captain:</b> Ben Nelson</li>
@@ -153,7 +166,7 @@
 				</div>
 				<div id="2016c" class="tab-pane fade">
 					<ul>
-                                          <li><b>Team Captain:</b> Towaki Takikawa</li>
+                      <li><b>Team Captain:</b> Towaki Takikawa</li>
 					  <li><b>Business Captain:</b> Matthew Sundberg</li>
 					  <li><b>Design Captain:</b> Andrey Kornilovich</li>
 					  <li><b>Electrical Captain:</b> Alicia Carone</li>
@@ -186,7 +199,7 @@
         </div>
         <div class="row">
             <section class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
-              <img src="../images/pagePhotos/2016image31.JPG" alt="" class="imgBorder fullW"/>
+              <img src="../images/pagePhotos/2017image31.jpg" alt="" class="imgBorder fullW"/>
             </section>
             <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
               <p>Our over 40 students team members provide a great deal of student diversity on our team. Students include boys and girls from Freshmen through Seniors with interests in mechanical engineering, electrical engineering, computer science, web page design, business management, art and photography. Mentors are a vital part of the team, as they provide us with support and experience. All mentors are volunteers and often have another job that they go to everyday before coming to robotics. The team employs a full time coach, as well.</p>
@@ -206,11 +219,30 @@
             </section>
             <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
 				<ul class="nav nav-tabs">
-					<li class="active"><a data-toggle="tab" href="#2016m">2016 Mentors</a></li>
+                    <li class="active"><a data-toggle="tab" href="#2017m">2017 Mentors</a></li>
+					<li><a data-toggle="tab" href="#2016m">2016 Mentors</a></li>
 					<li><a data-toggle="tab" href="#2015m">2015 Mentors</a></li>
 				</ul>
 				<div class="tab-content">
-					<div id="2016m" class="tab-pane fade in active">
+                    <div id="2017m" class="tab-pane fade in active">
+						<ul>
+							<li>Charles Dupuy <em>Voxtel</em>
+							<li>Ed Miller <em>GE (Retired)</em></li>
+							<li>Glory Abadilla <em>Hewlett-Packard</em></li>
+							<li>Josh Fryman <em>Intel</em></li>
+							<li>Kevin Groom <em>Linn County Roads</em></li>
+							<li>Nanette Dupuy <em>Tunnel Radio</em></li>
+							<li>Patrick Freeman <em>Lucidyne Technologies</em></li>
+							<li>Peter Mes <em>agroGene, Inc.</em></li>
+							<li>Rod Pauls <em>Samaritan Health</em></li>
+							<li>Stan Sevruk <em>self-employed</em></li>
+							<li>Tanya Carone <em>self-employed medical device consultant</em></li>
+							<li>Walt Mahaffee <em>USDA - ARS</em></li>
+
+						</ul>
+					</div>
+				<div class="tab-content">
+					<div id="2016m" class="tab-pane fade">
 						<ul>
 							<li>Arian Kulp</li>
 							<li>Charles Dupuy <em>Voxtel</em>
@@ -263,6 +295,46 @@
             <section class="col-md-12 centerV">
               <h2 class="titleC darkBG">Past Robots</h2>
               <p class="titleC">We've made a few robots in our time, for <a href="http://www.usfirst.org/roboticsprograms/frc/archived-game-documentation-and-event-results" class="dark" target="_blank">quite a few games</a>, here's a list of them.</p>
+            </section>
+          </div>
+          <div class="row">
+            <section class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+              <img src="../images/pagePhotos/2017robot.jpg" alt="Our 2017 FRC Robot" class="imgBorder fullW"/>
+            </section>
+            <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+                  <h2 class="titleL">2017</h2>
+                  <p><b>Our drivetrain:</b> </p>
+                  <p><b>The Game:</b> </p>
+            </section>
+          </div>
+          <div class="row">
+            <section class="roboR col-xs-12 col-sm-4 col-md-4 col-lg-4">
+              <img src="../images/pagePhotos/2016robot.jpg" alt="Our 2016 FRC Robot" class="imgBorder fullW"/>
+            </section>
+            <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+                  <h2 class="titleR">2016</h2>
+                  <p><b>Our drivetrain:</b> </p>
+                  <p><b>The Game:</b> </p>
+            </section>
+          </div>
+          <div class="row">
+            <section class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+              <img src="../images/pagePhotos/2013robert.jpg" alt="Our 2015 FRC Robot" class="imgBorder fullW"/>
+            </section>
+            <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+                  <h2 class="titleL">2015</h2>
+                  <p><b>Our drivetrain:</b> </p>
+                  <p><b>The Game:</b> </p>
+            </section>
+          </div>
+          <div class="row">
+            <section class="roboR col-xs-12 col-sm-4 col-md-4 col-lg-4">
+              <img src="../images/pagePhotos/2013robert.jpg" alt="Our 2014 FRC Robot" class="imgBorder fullW"/>
+            </section>
+            <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+                  <h2 class="titleR">2014</h2>
+                  <p><b>Our drivetrain:</b> </p>
+                  <p><b>The Game:</b> </p>
             </section>
           </div>
           <div class="row">
