@@ -478,10 +478,10 @@
           </div>
           <div class="row">
             <section class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
-              <img src="../images/pagePhotos/2016image30.jpg" alt="" class="imgBorder fullW"/>
+              <img src="../images/pagePhotos/2018image0.jpg" alt="" class="imgBorder fullW"/>
             </section>
             <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
-              <p>This iteration of the Team 955 website was build from the ground up in 2015. Based upon <a href="https://www.getbootstrap.com" target="_blank">Bootstrap</a>, the website was made with scraps of the old website, which was once based on Wordpress, which had been abandoned in previous years. The first generation of <i>this</i> website was written and compiled by Matthew Sundberg, with the oversight and guidance of Graham Barber.</p>
+              <p>This iteration of the Team 955 website was build from the ground up in 2015. Based upon <a href="https://www.getbootstrap.com" target="_blank">Bootstrap</a>, the website was made with scraps of the old website, which was once based on Wordpress, which had been abandoned in previous years. The first generation of <i>this</i> website was written and compiled by Matthew Sundberg, with the oversight and guidance of Graham Barber. Miles Smith is the current coder for the site and is in the process of redesigning it. Contact Miles <a href="#">here</a></p>
             </section>
 			<section class="col-xs-12 col-sm-12-col-md-12 col-lg-12">
 			<h2 class="titleC">Our Colors</h2>
