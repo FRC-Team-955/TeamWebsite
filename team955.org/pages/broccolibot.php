@@ -16,7 +16,7 @@
             
             <div class="row">
                 <section class="col-xs-12 col-sm-6 col-md-6 col-lg-4">
-                    <img src="..." alt="" class="imgBorder fullW"/>
+                    <img src="../images/pagePhotos/weirdmiles.JPG" alt="" class="imgBorder fullW"/>
                 </section>
                 <section class="col-xs-12 col-sm-6 col-md-6 col-lg-8">
                     <p>
@@ -29,7 +29,7 @@
         </div>
         <div class="subpageBox">
             <div class="row crossScreenImg" id="BotVideo">
-                <section class="col-md-12 centerV">
+                <section class="col-md-12 ">
                     <iframe width="875" height="515" src="https://www.youtube.com/embed/EI9ZJs56EJk" frameborder="0" allowfullscreen></iframe>
                 </section>
             </div>
@@ -44,11 +44,6 @@
                     <p>
                     ...
                     </p>
-                </section>
-            </div>
-            <div class="row crossScreenImg" id="BotDescription">
-                <section class="col-lg-6 col-lg-offset-3 col-md-6 col-md-offset-3 col-sm-12 col-xs-12">
-                    <img>
                 </section>
             </div>
         </div>
