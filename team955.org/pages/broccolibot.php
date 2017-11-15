@@ -32,7 +32,7 @@
         <div class="subpageBox">
             <div class="row crossScreenImg" id="BotVideo">
                 <section class="col-md-12 ">
-                    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/OoI6gR3hpjw" frameborder="0" gesture="media" allowfullscreen></iframe>
+                    <iframe width="100%" height="700px;" src="https://www.youtube.com/embed/OoI6gR3hpjw" frameborder="0" gesture="media" allowfullscreen></iframe>
                 </section>
             </div>
             
