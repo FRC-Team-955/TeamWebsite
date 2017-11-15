@@ -499,6 +499,8 @@ a:hover .circle{
 }
 #BrocVideo {
     background-image: url("../images/pagePhotos/colophon.JPG");
+    padding: 30px;
+    align-content: center;
 }
 /*some of the pics MUST be in caped JPG or else it wont work*/
 /*work with me here. thanks*/
