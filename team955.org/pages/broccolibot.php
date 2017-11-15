@@ -30,7 +30,7 @@
             </div>
         </div>
         <div class="subpageBox">
-            <div class="row crossScreenImg" style=height="800px" id="BotVideo">
+            <div class="row crossScreenImg" style="height=800px" id="BotVideo">
                 <section class="col-md-12 ">
                     <iframe width="100%" height="700px;" src="https://www.youtube.com/embed/OoI6gR3hpjw" frameborder="0" gesture="media" allowfullscreen></iframe>
                 </section>
