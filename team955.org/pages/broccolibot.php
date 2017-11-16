@@ -32,7 +32,7 @@
         <div class="subpageBox">
             <div class="row crossScreenImg" id="BrocVideo" style="height: 700px;" id="BotVideo">
                 <section class="col-md-12 ">
-                    <iframe width="80%" height="700px;" src="https://www.youtube.com/embed/OoI6gR3hpjw" frameborder="0" gesture="media" allowfullscreen></iframe>
+                    <iframe width="80%" height="700px;" style="margin-left: 10%;" src="https://www.youtube.com/embed/OoI6gR3hpjw" frameborder="0" gesture="media" allowfullscreen></iframe>
                 </section>
             </div>
             
@@ -118,7 +118,7 @@
 				  <img src="../images/brands/ODA_Seal.png" alt="Oregon Department of Argiculture" class="fullW"/>
 				</a>
 			  </div>
-                <div class="col-xs-12 col-sm-12 col-md-6 col-lg-8">
+                <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
 			    <a href="http://oregonstate.edu/">
 				  <img src="../images/brands/OSU_logo.jpg" alt="Oregon State University" class="fullW"/>
 			    </a>
@@ -150,7 +150,6 @@
 			  </div>
             </div>
         </div>
-        
         
         
         <?php include "../includes/endDoc.php"; ?>
