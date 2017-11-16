@@ -60,7 +60,6 @@
                                     </ul>
                                 </li>
                                 <li><a href="broccolibot.php">BroccoliBot</a></li>
-                                <li><a href="calendar.php">Calendar</a></li>
                                 <li class="dropdown">
                                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false" id="linkFIRST">FIRST</a>
                                     <ul class="dropdown-menu" role="menu">

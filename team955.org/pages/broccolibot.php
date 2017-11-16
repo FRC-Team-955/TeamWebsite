@@ -30,7 +30,7 @@
             </div>
         </div>
         <div class="subpageBox">
-            <div class="row crossScreenImg" style="height=800px" id="BotVideo">
+            <div class="row crossScreenImg" id="BrocVideo" style="height: 700px;" id="BotVideo">
                 <section class="col-md-12 ">
                     <iframe width="100%" height="700px;" src="https://www.youtube.com/embed/OoI6gR3hpjw" frameborder="0" gesture="media" allowfullscreen></iframe>
                 </section>
@@ -103,7 +103,52 @@
                     </p>
             </section>
           </div>
-            
+        </div>
+    
+        <div class="subpageBox">
+          <div class="row crossScreenImg" id="sponsors"> <!-- set background image by css with the linking id -->
+            <section class="col-md-12 centerV">
+              <h2 class="titleC darkBG">Sponsors</h2>
+            </section>
+          </div>
+          <div class="container sponsors">
+			<div class="row">
+			  <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+			    <a href="http://www.oregon.gov/oda/Pages/default.aspx/">
+				  <img src="../images/brands/ODA_Seal.png" alt="Oregon Department of Argiculture" class="fullW"/>
+				</a>
+			  </div>
+			</div>
+			<div class="row">
+			  <div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+			    <a href="http://oregonstate.edu/">
+				  <img src="../images/brands/OSU_logo.jpg" alt="Oregon State University" class="fullW"/>
+			    </a>
+		      </div>
+			  <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+			    <a href="http://gkmachine.com/">
+				  <img src="../images/brands/GK_Machine.jpg" alt="GK Machines" class="fullW"/>
+				</a>
+			  </div>
+				<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+				  <a href="http://www.hy-tekltd.com/">
+				    <img src="../images/brands/Copy%20of%20HyTEK%20Plastics.svg" alt="HyTek" class="fullW"/>
+				  </a>
+				</div>
+			  </div>
+			  <div class="row">
+				<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+				  <a href="http://rjhenterprises.com/">
+				    <img src="../images/brands/RJH_Enterprises.jpg" alt="RJH_Enterprises" class="fullW"/>
+				  </a>
+				</div>
+				<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+				  <a href="https://norpac.com/">
+				    <img src="../images/brands/NORPAC_logo.png" alt="NORPAC" class="fullW"/>
+				  </a>
+				</div>
+			  </div>
+            </div>
         </div>
         
         
