@@ -16,7 +16,7 @@
             
             <div class="row">
                 <section class="col-xs-12 col-sm-6 col-md-6 col-lg-4">
-                    <img src="../images/pagePhotos/2017image2.jpg" alt="" class="imgBorder fullW"/>
+                    <img src="../images/pagePhotos/IMG_1103%202.JPG" alt="" class="imgBorder fullW"/>
                 </section>
                 <section class="col-xs-12 col-sm-6 col-md-6 col-lg-8">
                     <p>
@@ -36,25 +36,36 @@
                 </section>
             </div>
             
-            <div class="row" id="BotDescription">
-                <section class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
-                    <h2><b>How We Tackled the Problem</b></h2>
+            <div class="row">
+                <section class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+                  <img src="../images/pagePhotos/IMG_1129.JPG" alt="..." class="imgBorder fullW"/>
+                </section>
+                <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+                  <h2 class="titleL"><b>How We Tackled the Problem</b></h2>
                     <p>
                     We created, developed, and wrote a computer program that utilizes a camera to find the exact distance of the machine’s blade from the broccoli’s crown. The camera detects the unique texture of the broccoli, and the computer software then determines the machine’s position relative to the broccoli’s crown in 3D space so that the blade knows precisely where to slice.
                     </p>
                 </section>
-                <section class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
-                    <h2><b>Looking to the Future</b></h2>
-                    <p>
-                    In the future, we hope to create Prototype 5 (P5) which can not only harvest broccoli, but also collect it. Through this, we hope to create a solution that the agriculture industry is not only satisfied with, but is also affordable to the everyday broccoli farmer.
-                    </p>
-                </section>
+          </div>
+            <div class="row">
+              <section class="roboR col-xs-12 col-sm-4 col-md-4 col-lg-4">
+                  <img src="../images/pagePhotos/IMG_1134.JPG" alt="..." class="imgBorder fullW"/>
+              </section>
+              <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+                <h2 class="titleR"><b>Looking to the Future</b></h2>
+                <p>
+                In the future, we hope to create Prototype 5 (P5) which can not only harvest broccoli, but also collect it. Through this, we hope to create a solution that the agriculture industry is not only satisfied with, but is also affordable to the everyday broccoli farmer.
+                </p>
+              </section>
             </div>
             
             <div class="row" id="BotCreation">
-                <section class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                    <h2><b>Our Creations</b></h2>
-                    <p>
+            <section class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+              <img src="../images/pagePhotos/IMG_1115.JPG" alt="..." class="imgBorder fullW"/>
+            </section>
+            <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+              <h2 class="titleL"><b>Our Creations</b></h2>
+              <p>
                     We, Team 955, are trying to show the current agriculture industry that technology is mature enough to be utilized and applied to create more efficient machines. In order to show this, we have built a total of four prototypes over two years, each more advanced than the last. 
                     <ul>
                         <li>
@@ -90,8 +101,9 @@
                         </li>
                     </ul>
                     </p>
-                </section>
-            </div>
+            </section>
+          </div>
+            
         </div>
         
         

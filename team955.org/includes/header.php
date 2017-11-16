@@ -59,6 +59,7 @@
                                         <li><a href="support#sponsors">Sponsors</a></li>
                                     </ul>
                                 </li>
+                                <li><a href="broccolibot">BroccoliBot</a></li>
                                 <li><a href="calendar.php">Calendar</a></li>
                                 <li class="dropdown">
                                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false" id="linkFIRST">FIRST</a>
