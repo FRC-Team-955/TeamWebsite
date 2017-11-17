@@ -115,7 +115,7 @@
 			<div class="row">
 			  <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
 			    <a href="http://www.oregon.gov/oda/Pages/default.aspx/">
-				  <img src="../images/brands/ODA_Seal.png" alt="Oregon Department of Argiculture" class="fullW"/>
+				  <img src="../images/brands/ODA_Seal.png" alt="Oregon Department of Argiculture" class="fullW" />
 				</a>
 			  </div>
                 <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
