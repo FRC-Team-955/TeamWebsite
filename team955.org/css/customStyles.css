@@ -502,6 +502,9 @@ a:hover .circle{
     padding: 30px;
     align-content: center;
 }
+#CAD {
+    background-image: url("../images/pagePhotos/IMG_1129.JPG");
+}
 /*some of the pics MUST be in caped JPG or else it wont work*/
 /*work with me here. thanks*/
 /*support.php files next...*/
