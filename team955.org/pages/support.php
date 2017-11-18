@@ -181,24 +181,35 @@
         </div>
         
         <div class="subpageBox">
-          <div class="row crossScreenImg" id="CAD"> <!-- set background image by css with the linking id -->
-            <section class="col-md-12 centerV">
-              <h2 class="titleC darkBG">CADs</h2>
-            </section>
-          </div>
-          <div class="container">
-            <div class="row">
-                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-                    
-                </div>
+            <div class="row crossScreenImg" id="CAD"> <!-- set background image by css with the linking id -->
+                <section class="col-md-12 centerV">
+                  <h2 class="titleC darkBG">CADs</h2>
+                </section>
             </div>
-			 <div class="row">
+            <div class="container">
+                <div class="row">
                   <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-                    <a href="...">
-
-                    </a>
+                    <h2>Public CADs</h2>
+                      <p>Need one of our CADs? No? Well okay here ya go!</p>
                   </div>
 			  </div>
+              <div class="row">
+                <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
+                    <a href="../images/CAD/4in%20FANCY%20wheel%20assemb.SLDASM" download="FancyWheel.SLDASM">
+                        <img border="0" src="../images/pagePhotos/2017image21.jpg" alt="FancyWheel" width="150" height="150">
+                    </a>
+                </div>
+                <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
+                    <a href="../images/CAD/4in%20wheel%20part1.SLDPRT" download="WheelPart1.SLDPRT">
+                        <img border="0" src="../images/pagePhotos/2017image21.jpg" alt="WheelCAD" width="150" height="150">
+                    </a>
+                </div>
+                <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
+                    <a href="../images/CAD/Button%20Head%205-8%2010-32%20Screw.SLDPRT" download="ButtonHeadScrew.SLDPRT">
+                        <img border="0" src="../images/pagePhotos/2017image21.jpg" alt="Screwhead" width="150" height="150">
+                    </a>
+                </div>
+              </div>
             </div>
         </div>
         
