@@ -53,7 +53,7 @@ body {
   position: relative;
   height: auto !important;
   padding-top: 12px;
-  border-bottom: 10px solid #C69D3E;
+  border-bottom: 10px solid #800000;
 }
 
 #rO .navbar-wrapper .container-fluid {
@@ -127,7 +127,7 @@ body {
 }
 
 #rO .navbar-brand:hover h1{
-  color: #C69D3E;
+  color: #800000;
 }
 
 #rO .navbar-brand h1 {
@@ -399,7 +399,7 @@ a:hover .text{
 	fill: #F0F0F0;
 }
 a:hover .circle{
-	fill: #C69D3E;
+	fill: #800000;
 	stroke: none;
 }
 
