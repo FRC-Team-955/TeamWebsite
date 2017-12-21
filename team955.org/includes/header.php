@@ -34,7 +34,7 @@
                                 <li><a href="..">Home</a></li>
                                 <li class="dropdown">
                                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false" id="linkAbout">About</a>
-                                    <ul class="dropdown-menu hover-menu" style="display: none;" role="menu">
+                                    <ul class="dropdown-menu" role="menu">
                                         <li><a href="about#team">About Us</a></li>
                                         <li><a href="about#FIRST">About FIRST</a></li>
                                         <li><a href="about#structure">Structure</a></li>

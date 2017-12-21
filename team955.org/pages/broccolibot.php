@@ -36,10 +36,6 @@
                     <iframe width="80%" height="700px;" style="margin-left: 10%;" src="https://www.youtube.com/embed/OoI6gR3hpjw" frameborder="0" gesture="media" allowfullscreen></iframe>
                 </section>
             </div>
-			
-			<div>
-				
-			</div>
             
             <div class="row">
                 <section class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
