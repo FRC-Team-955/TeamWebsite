@@ -117,8 +117,8 @@
               <h2 class="titleC darkBG">Team Structure</h2>
               <p class="titleC">
                 <b>Coach:</b> Tanya Carone <br/>
-                <b>Team Captain:</b> Matthew Sundberg<br/>
-                <b>Sub-teams:</b> Design, Mechanical, Electrical, Programming, Business, and HR<br/>
+                <b>Team Captain:</b> Ben Nelson<br/>
+                <b>Sub-teams:</b> Design, Mechanical, Electrical, Programming, Business, and Safetey<br/>
               </p>
             </section>
           </div>
@@ -151,6 +151,7 @@
 					  <li><b>Electrical Captain:</b> Danielle Scutero</li>
 					  <li><b>Fabrication Captain:</b> Abraham Mes</li>
 					  <li><b>Programming Captain:</b> Duncan Freeman</li>
+					  <li><b>Safetey Captain:</b> Tristan Barthel</li>
 					</ul>
                 </div>
                 <div id="2017c" class="tab-pane fade">
@@ -224,7 +225,7 @@
 					<li><a data-toggle="tab" href="#2015m">2015 Mentors</a></li>
 				</ul>
 				<div class="tab-content">
-                    <div id="2017m" class="tab-pane fade in active">
+                    <div id="2017m" class="tab-pane fade">
 						<ul>
 							<li>Charles Dupuy <em>Voxtel</em>
 							<li>Ed Miller <em>GE (Retired)</em></li>

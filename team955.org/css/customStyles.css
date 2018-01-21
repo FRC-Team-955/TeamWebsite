@@ -38,6 +38,7 @@ body {
 #rO .navbar-default .navbar-nav > .active > a {
   background-image:none;
   background-color: #0f0f0f;
+  background-color: #800000;
   color: #f0f0f0;
 }
     
@@ -50,10 +51,11 @@ body {
   background-image: none;
   border: none;
   background-color: #0f0f0f;
+  background-color: #800000;
   position: relative;
   height: auto !important;
   padding-top: 12px;
-  border-bottom: 10px solid #800000;
+  border-bottom: 10px solid #F5B50C;
 }
 
 #rO .navbar-wrapper .container-fluid {
