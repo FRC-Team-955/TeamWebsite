@@ -20,8 +20,8 @@
               <p class="crossScreenImgCols">
                 <b>Rookie Year:</b> 2002<br/>
                 <b><abbr title="FIRST Robotics Competition">FRC</abbr> Team Number:</b> 955<br/>
-                <b>Team Size:</b> 30+<br/>
-                <b>Team Colors:</b> <a href="#colophon" class="dark">Black, Maroon, and Razzleberry</a><br/>
+                <b>Team Size:</b> 40+<br/>
+                <b>Team Colors:</b> <a href="#colophon" class="dark">Black, Gold, and Maroon</a><br/>
                 <b>Location:</b> Crescent Valley High School in Corvallis, Oregon<br/>
                 <b>Coach:</b> Tanya Carone<br/>
               </p>
