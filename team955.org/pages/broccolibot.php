@@ -15,6 +15,7 @@
             </div> 
             
             <div class="row">
+				<iframe src="/team955.org/images/BroccoliBot_Brochure_2017.pdf" width="100%" height="25%"></iframe>
                 <section class="col-xs-12 col-sm-6 col-md-6 col-lg-4">
                     <img src="../images/pagePhotos/IMG_1103%202.JPG" alt="" class="imgBorder fullW"/>
                 </section>

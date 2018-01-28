@@ -117,8 +117,8 @@
               <h2 class="titleC darkBG">Team Structure</h2>
               <p class="titleC">
                 <b>Coach:</b> Tanya Carone <br/>
-                <b>Team Captain:</b> Matthew Sundberg<br/>
-                <b>Sub-teams:</b> Design, Mechanical, Electrical, Programming, Business, and HR<br/>
+                <b>Team Captain:</b> Ben Nelson<br/>
+                <b>Sub-teams:</b> Design, Mechanical, Electrical, Programming, Business, and Safetey<br/>
               </p>
             </section>
           </div>
@@ -151,6 +151,7 @@
 					  <li><b>Electrical Captain:</b> Danielle Scutero</li>
 					  <li><b>Fabrication Captain:</b> Abraham Mes</li>
 					  <li><b>Programming Captain:</b> Duncan Freeman</li>
+					  <li><b>Safetey Captain:</b> Tristan Barthel</li>
 					</ul>
                 </div>
                 <div id="2017c" class="tab-pane fade">
@@ -224,7 +225,7 @@
 					<li><a data-toggle="tab" href="#2015m">2015 Mentors</a></li>
 				</ul>
 				<div class="tab-content">
-                    <div id="2017m" class="tab-pane fade in active">
+                    <div id="2017m" class="tab-pane fade">
 						<ul>
 							<li>Charles Dupuy <em>Voxtel</em>
 							<li>Ed Miller <em>GE (Retired)</em></li>
@@ -482,7 +483,7 @@
               <img src="../images/pagePhotos/2018image0.jpg" alt="" class="imgBorder fullW"/>
             </section>
             <section class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
-              <p>This iteration of the Team 955 website was build from the ground up in 2015. Based upon <a href="https://www.getbootstrap.com" target="_blank">Bootstrap</a>, the website was made with scraps of the old website, which was once based on Wordpress, which had been abandoned in previous years. The first generation of the website was written and compiled by Matthew Sundberg, with the oversight and guidance of Graham Barber. Miles Smith is the current coder and creator for the site and is in the process of redesigning it. Contact Miles at miles.smith010@gmail.com</p>
+              <p>This iteration of the Team 955 website was build from the ground up in 2015. Based upon <a href="https://www.getbootstrap.com" target="_blank">Bootstrap</a>, the website was made with scraps of the old website, which was once based on Wordpress, which had been abandoned in previous years. The first generation of the website was written and compiled by Matthew Sundberg, with the oversight and guidance of Graham Barber. Miles Smith is the current coder and creator for the site and is in the process of redesigning it.</p>
             </section>
 			<section class="col-xs-12 col-sm-12-col-md-12 col-lg-12">
 			<h2 class="titleC">Our Colors</h2>

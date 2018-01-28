@@ -24,7 +24,7 @@
 }
 
 /*Info
-#9c0812 is maroon color
+#9c0812 or #800000 is maroon color
 #F5B50C is gold color
 */
 body {
@@ -37,8 +37,8 @@ body {
 #rO .navbar-default .navbar-nav > .open > a,
 #rO .navbar-default .navbar-nav > .active > a {
   background-image:none;
-  background-color: #0f0f0f;
-  color: #f0f0f0;
+  background-color: #F5B50C;
+  color: #0f0f0f;
 }
     
 #rO .navbar-toggle {
@@ -49,11 +49,11 @@ body {
 #rO .navbar {
   background-image: none;
   border: none;
-  background-color: #0f0f0f;
+  background-color: #000000;
   position: relative;
   height: auto !important;
   padding-top: 12px;
-  border-bottom: 10px solid #C69D3E;
+  border-bottom: 10px solid #800000;
 }
 
 #rO .navbar-wrapper .container-fluid {
@@ -71,6 +71,9 @@ body {
   font-family: "RalewayMedium";
   text-transform: uppercase;
 }
+#rO .navbar-nav > li > a:hover {
+  color: #F5B50C;
+}
 
 #rO .navbar-toggle {
   border: none;
@@ -81,7 +84,7 @@ body {
 #rO .dropdown-menu > li > a:hover,
 #rO .dropdown-menu > li > a:focus {
   background-image: none;
-  background-color: #f0f0f0;
+  background-color: #F5B50C;
   color: #0f0f0f;
 }
 
@@ -91,7 +94,13 @@ body {
   background-image: none;
   background-color: transparent;
   box-shadow: none;
+/*  display: none;*/
 }
+/*	
+#r0 .dropdown:hover > .dropdown-menu {
+  display: block;
+}
+*/
 
 #rO .dropdown-menu > li > a {
   background-color: #0f0f0f;
@@ -127,7 +136,7 @@ body {
 }
 
 #rO .navbar-brand:hover h1{
-  color: #C69D3E;
+  color: #800000;
 }
 
 #rO .navbar-brand h1 {
@@ -399,7 +408,7 @@ a:hover .text{
 	fill: #F0F0F0;
 }
 a:hover .circle{
-	fill: #C69D3E;
+	fill: #800000;
 	stroke: none;
 }
 
