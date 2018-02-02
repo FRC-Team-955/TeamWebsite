@@ -94,13 +94,12 @@ body {
   background-image: none;
   background-color: transparent;
   box-shadow: none;
-/*  display: none;*/
+  display: none;
 }
-/*	
+/* Dropdown Code */
 #r0 .dropdown:hover > .dropdown-menu {
   display: block;
 }
-*/
 
 #rO .dropdown-menu > li > a {
   background-color: #0f0f0f;
