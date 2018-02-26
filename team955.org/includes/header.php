@@ -35,12 +35,12 @@
                                 <li class="dropdown">
                                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false" id="linkAbout">About</a>
                                     <ul class="dropdown-menu" role="menu">
-                                        <li><a href="about#team">About Us</a></li>
-                                        <li><a href="about#FIRST">About FIRST</a></li>
-                                        <li><a href="about#structure">Structure</a></li>
-                                        <li><a href="about#mentors">Mentors</a></li>
-                                        <li><a href="about#robots">Past Robots</a></li>
-                                        <li><a href="about#colophon">Website</a></li>
+                                        <li><a href="about.php#team">About Us</a></li>
+                                        <li><a href="about.php#FIRST">About FIRST</a></li>
+                                        <li><a href="about.php#structure">Structure</a></li>
+                                        <li><a href="about.php#mentors">Mentors</a></li>
+                                        <li><a href="about.php#robots">Past Robots</a></li>
+                                        <li><a href="about.php#colophon">Website</a></li>
                                     </ul>
                                 </li>
                                 <!--<li class="dropdown">
@@ -54,9 +54,9 @@
                                 <li class="dropdown">
                                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false" id="linkSupport">Support</a>
                                     <ul class="dropdown-menu" role="menu">
-                                        <li><a href="support#donations">Donations</a></li>
-                                        <li><a href="support#fundraising">Fundraising</a></li>
-                                        <li><a href="support#sponsors">Sponsors</a></li>
+                                        <li><a href="support.php#donations">Donations</a></li>
+                                        <li><a href="support.php#fundraising">Fundraising</a></li>
+                                        <li><a href="support.php#sponsors">Sponsors</a></li>
                                     </ul>
                                 </li>
                                 <li><a href="broccolibot.php">BroccoliBot</a></li>
